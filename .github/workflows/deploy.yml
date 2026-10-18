@@ -35,14 +35,18 @@ jobs:
       - name: Resolve base path
         id: config
         run: |
-          REPO="${GITHUB_REPOSITORY#*/}"
-          if [ "$REPO" != "${GITHUB_REPOSITORY}.github.io" ]; then
-            echo "base_path=/$REPO" >> "$GITHUB_OUTPUT"
-            echo "site_url=https://${GITHUB_REPOSITORY_OWNER}.github.io/$REPO" >> "$GITHUB_OUTPUT"
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          NAME="${GITHUB_REPOSITORY#*/}"
+          if [ "$NAME" = "$OWNER.github.io" ]; then
+            BASE_PATH=""
+            SITE_URL="https://${OWNER}.github.io"
           else
-            echo "base_path=" >> "$GITHUB_OUTPUT"
-            echo "site_url=https://${GITHUB_REPOSITORY_OWNER}.github.io" >> "$GITHUB_OUTPUT"
+            BASE_PATH="/${NAME}"
+            SITE_URL="https://${OWNER}.github.io/${NAME}"
           fi
+          echo "base_path=${BASE_PATH}" >> "$GITHUB_OUTPUT"
+          echo "site_url=${SITE_URL}" >> "$GITHUB_OUTPUT"
+          echo "站点地址: ${SITE_URL}"
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
