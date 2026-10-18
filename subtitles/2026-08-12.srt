@@ -1,0 +1,1051 @@
+1
+00:00:30,000 --> 00:00:40,600
+Terrell Duttel as airborne base stations? Yes, I'm talking about a new Chinese tool
+
+2
+00:00:40,600 --> 00:00:45,840
+in the battle against climate change and natural disasters. Of course, I don't literally mean
+
+3
+00:00:45,840 --> 00:00:51,439
+flying dinosaurs, but rather drones that are named as such. In the first half of this year,
+
+4
+00:00:51,439 --> 00:00:57,519
+natural disasters affected more than 70 million people in China with floods and geological
+
+5
+00:00:57,520 --> 00:01:03,240
+disasters accounting for the largest share of losses. Now, for generations, disaster
+
+6
+00:01:03,240 --> 00:01:09,879
+release has tested the limits of human resilience, but today the front lines are changing. From
+
+7
+00:01:09,879 --> 00:01:15,480
+autonomous drones and satellite monitoring to artificial intelligence, high-tech solutions
+
+8
+00:01:15,480 --> 00:01:22,159
+are transforming how China detects risks, responds to emergencies and help other countries
+
+9
+00:01:22,159 --> 00:01:29,879
+in this regard. So what new exciting technologies is China harnessing to tackle natural disasters?
+
+10
+00:01:29,879 --> 00:01:35,239
+How are they helping save more lives on the ground and how is China sharing these solutions
+
+11
+00:01:35,239 --> 00:01:40,000
+with the rest of the world? Welcome to this edition of The Point with me, Liu Xin, an
+
+12
+00:01:40,000 --> 00:01:45,679
+opinion show coming to you live from Beijing. I'm joined from Riyaz, Saudi Arabia by Professor
+
+13
+00:01:45,679 --> 00:01:50,799
+Cecilia Tota-Jada from the School of Social and Environmental Sustainability at the University
+
+14
+00:01:50,799 --> 00:01:55,920
+of Glasgow. From Xinjiang, Southern China's leading tech hub by Professor Zhang Haoran
+
+15
+00:01:55,920 --> 00:02:01,359
+Weistin at the School of Urban Planning and Design at Beijing University and from Beijing
+
+16
+00:02:01,359 --> 00:02:07,920
+by Dmitry De Boa, Chief Representative for China at Client Earth and NGO in China, focusing
+
+17
+00:02:07,920 --> 00:02:14,039
+primarily on environmental law. Welcome to all of you. So let's talk about some of these
+
+18
+00:02:14,039 --> 00:02:21,159
+new terms or new technologies we're talking about. Terral Dactyl. Professor Zhang, I guess
+
+19
+00:02:21,159 --> 00:02:28,439
+I go to you first. Terral Dactyl is the name of an emergency response drone in Chinese
+
+20
+00:02:28,439 --> 00:02:36,359
+Yilong or Wing Long as it's translated and it can function as an airborne cell tower.
+
+21
+00:02:36,360 --> 00:02:44,840
+It can restore mobile coverage for 50 square kilometers and build a 15,000 square kilometer
+
+22
+00:02:44,840 --> 00:02:49,000
+audio video communications network. How does it work?
+
+23
+00:02:49,000 --> 00:02:56,600
+Yes, for example, like in floods, loads are washed away and the voice from the power
+
+24
+00:02:56,600 --> 00:03:02,440
+stop working. So, traffic people cannot call for help. In this case, a drone can be used
+
+25
+00:03:02,439 --> 00:03:08,039
+in this kind of situation, can bring back, for example, like a mobile phone signal or about,
+
+26
+00:03:08,039 --> 00:03:13,319
+as I mentioned, the five square kilometers and it can also cover the communications network as
+
+27
+00:03:13,319 --> 00:03:20,520
+large as, for example, like 15,000 square kilometers. Those drone can fly far, stay in
+
+28
+00:03:20,520 --> 00:03:27,240
+the air for a long time, for example, like 20 hours, etc., something like this and drop the
+
+29
+00:03:27,240 --> 00:03:36,120
+emergency supplies in the required places. This helps that normal risk-eaters cannot give.
+
+30
+00:03:36,120 --> 00:03:43,640
+For example, like in July this year, flooding Guangxi, two of those drones flow from the
+
+31
+00:03:43,640 --> 00:03:51,320
+Hubei to three hours and give the communication services more than 8,000 times to people who
+
+32
+00:03:51,320 --> 00:03:54,680
+are cut off. In this case, drone technology. Yeah.
+
+33
+00:03:55,240 --> 00:04:00,280
+Sorry, because we are looking at some footage of drones here and I just want to clarify,
+
+34
+00:04:01,080 --> 00:04:07,240
+there are different types of drones, but what we are talking about, the Wing Long or Terrodactyl,
+
+35
+00:04:07,240 --> 00:04:17,480
+it's a special kind of drone or unmanned aerial technology, which is different from the normal
+
+36
+00:04:18,200 --> 00:04:26,200
+drones, which we see employed in war. There's one more function which is described,
+
+37
+00:04:26,200 --> 00:04:33,240
+where the Wing Long completed China's first Typhoon Early Warning Reconnaissance mission,
+
+38
+00:04:33,240 --> 00:04:41,720
+shadowing Typhoon Wefah along the coast and sending thousands of SMS messages to residents
+
+39
+00:04:41,720 --> 00:04:50,520
+in affected areas. What does that mean? That means, for example, like in the normal cases
+
+40
+00:04:51,240 --> 00:04:57,560
+or in the traditional security measures, maybe people cannot go into those kind of dangerous
+
+41
+00:04:57,560 --> 00:05:05,320
+places. And if we carry very heavy supplies like medicine, water and food, it's very hard.
+
+42
+00:05:05,319 --> 00:05:11,639
+But based on this kind of technology, we can carry those very heavy like those kind of stuff.
+
+43
+00:05:12,360 --> 00:05:17,159
+But it talks about, sorry, it talks about early warning reconnaissance mission
+
+44
+00:05:18,120 --> 00:05:26,439
+and shadowing a Typhoon. Does that mean that we are not just predicting Typhoons from our systems
+
+45
+00:05:26,439 --> 00:05:34,039
+on the ground in front of, we actually can send a plane much further front and detect the movement
+
+46
+00:05:34,600 --> 00:05:44,040
+of the formations of Typhoons, Professor Zhang? Yes, I think for this kind of Typhoon prediction
+
+47
+00:05:44,040 --> 00:05:51,560
+system and also cooperating with those kind of drone technologies, we can, for example,
+
+48
+00:05:51,560 --> 00:05:57,480
+like do something, you know, the ones like we predict some kind of aerial standards, we can use
+
+49
+00:05:57,879 --> 00:06:04,680
+those control and to give the supply in advance. This is kind of a two kind of technology can
+
+50
+00:06:04,680 --> 00:06:11,800
+cooperate with each other. Professor Tota Yada, let me go to you. What is your reaction about the
+
+51
+00:06:11,800 --> 00:06:16,759
+developments in China, the use of such drone technologies? What do you know that you can
+
+52
+00:06:16,759 --> 00:06:23,560
+share with us on this subject? The use of technology, the way China has developed,
+
+53
+00:06:23,560 --> 00:06:29,000
+it is very impressive. But it's not the technology that the technology is a tool.
+
+54
+00:06:29,000 --> 00:06:36,120
+But it's remarkable how China is the planning. If we can, China, in the case of the technology
+
+55
+00:06:36,120 --> 00:06:44,439
+that is in mention now, can send all those thousands of SMS that will save lives of people,
+
+56
+00:06:44,439 --> 00:06:48,279
+is because there is preparedness behind that, because there are policies, because there is
+
+57
+00:06:48,359 --> 00:06:54,839
+investment, not only in the technology, but in the system that will support the technology.
+
+58
+00:06:54,839 --> 00:07:00,359
+If you have data, this has to be used for decision making. And this is what China is doing,
+
+59
+00:07:00,359 --> 00:07:08,199
+that nobody else is doing. So in this case, in this sense, is a step forward for preparedness.
+
+60
+00:07:08,919 --> 00:07:14,919
+We cannot avoid natural disasters, but we can mitigate the impacts on people on infrastructure.
+
+61
+00:07:15,480 --> 00:07:18,920
+And this will depend on the policies that are developing the countries.
+
+62
+00:07:19,800 --> 00:07:29,000
+Are you saying, did I hear you say that China is the first to do so, to make active use of the
+
+63
+00:07:29,000 --> 00:07:35,240
+data that we have and try to save more lives using new technology? Professor Todoyada?
+
+64
+00:07:36,680 --> 00:07:42,680
+At this scale, yes. It is done everywhere else. But if we can see China in the geographical context,
+
+65
+00:07:42,680 --> 00:07:48,759
+we have all the countries in the Hindu Kushimalayas, they are not as advanced in terms of knowledge.
+
+66
+00:07:48,759 --> 00:07:54,920
+Technology comes second to knowledge. In policies, and in knowledge as China is, in this case,
+
+67
+00:07:54,920 --> 00:07:59,720
+China can have a very positive impact in numerous countries. But they have to have
+
+68
+00:07:59,720 --> 00:08:05,560
+similar rainfall, similar geography to be in mountainous areas. If you move to a country that
+
+69
+00:08:05,560 --> 00:08:10,759
+is dry or is flat, the impact is different. But the contribution of China's knowledge,
+
+70
+00:08:11,240 --> 00:08:15,079
+planning, preparedness. Very interesting. I'll come back to you
+
+71
+00:08:16,439 --> 00:08:24,680
+later. But Dmitri, you have been in China for many years. You eat, you live, you behave like a Chinese.
+
+72
+00:08:24,680 --> 00:08:31,240
+What have you observed about China's climate reaction and disaster response early warning
+
+73
+00:08:31,240 --> 00:08:39,159
+system that is different that people don't realize? Well, what I've seen is,
+
+74
+00:08:40,120 --> 00:08:45,319
+over time, I've been here for 20 years, as you said, in China. And the recognition of climate
+
+75
+00:08:45,319 --> 00:08:52,679
+change as a real threat to society has grown significantly. China's response to climate
+
+76
+00:08:52,679 --> 00:08:56,679
+change in terms of mitigation and developing green technologies has also been tremendous.
+
+77
+00:08:57,480 --> 00:09:04,039
+I think a real wake-up moment for China was actually last year when mental gold near Beijing
+
+78
+00:09:04,120 --> 00:09:10,839
+experienced severe flooding from very intense rainfall. And I think that was a moment where,
+
+79
+00:09:10,839 --> 00:09:16,279
+for many policymakers who are based in Beijing, the idea that preparedness and resilience is
+
+80
+00:09:16,279 --> 00:09:21,000
+something that really needs to be invested in across the country became much more apparent.
+
+81
+00:09:21,000 --> 00:09:29,319
+And I think that's what we're seeing now. This year, again, we're seeing very serious storms,
+
+82
+00:09:29,320 --> 00:09:35,080
+even today. We're warned not to go to work in Beijing because there's such heavy rainstorms.
+
+83
+00:09:35,080 --> 00:09:41,400
+But that warning has come. And the early warning is there, as the professor just mentioned,
+
+84
+00:09:42,360 --> 00:09:48,200
+combining the data with warnings and policies is really happening on a large scale in China,
+
+85
+00:09:48,200 --> 00:09:54,680
+which is terrific. Yeah. Well, definitely, as I said, while we do this show about the new technologies
+
+86
+00:09:54,679 --> 00:10:02,759
+involved in employed in China, it doesn't mean that we are free from disasters. Actually,
+
+87
+00:10:02,759 --> 00:10:10,359
+quite the opposite. We have been hit pretty hard. But China seems to be using all kinds of means
+
+88
+00:10:10,359 --> 00:10:18,039
+to reduce the cost and the damage to society and to human lives. So we're focusing on the
+
+89
+00:10:18,120 --> 00:10:24,120
+technological advancement from dinosaurs, as I said, and the name of dinosaurs,
+
+90
+00:10:24,120 --> 00:10:31,079
+to Chinese gods. It seems that there is a lot of imagination being used here. And Fuxi,
+
+91
+00:10:32,120 --> 00:10:38,439
+Fuxi is the name of a Chinese mythological figure who is credited with observing nature
+
+92
+00:10:38,439 --> 00:10:45,000
+and discovering its underlying patterns. Now, it's the name of an AI-powered system
+
+93
+00:10:45,000 --> 00:10:53,080
+to forecast typhoons, the Fuxi synopsis. Again, Professor Zhang, let me go and tab in your wisdom.
+
+94
+00:10:53,080 --> 00:10:57,399
+How does it work? What can AI achieve that traditional forecasting cannot?
+
+95
+00:10:58,840 --> 00:11:05,240
+Yes, this system shows several possible strong paths and a real physical rules. This is the kind
+
+96
+00:11:05,240 --> 00:11:14,679
+of the one kind of topic of current AI format, like how to introduce the physical rules in the
+
+97
+00:11:15,559 --> 00:11:21,559
+AI like a black box, make the black box to a kind of white box. It also made the
+
+98
+00:11:22,199 --> 00:11:29,319
+measure of the forecast uncertainty better by up to about 30%. Most importantly, it can provide
+
+99
+00:11:29,319 --> 00:11:35,319
+how typhoon will affect, for example, like road power and the farming. That's not just the focus
+
+100
+00:11:35,319 --> 00:11:42,120
+on the wind and rain. In this case, we use a white box and show how it impacts the 80s,
+
+101
+00:11:42,200 --> 00:11:47,960
+and the results come to various details. This is the power of the Fuxi system.
+
+102
+00:11:49,159 --> 00:11:56,759
+China has built the world's largest earthquake early warning network, about 18,000 observation
+
+103
+00:11:56,759 --> 00:12:04,200
+stations, as we can find statistics about, and an AI system called AIRIS that detects
+
+104
+00:12:04,200 --> 00:12:11,480
+five times more seismic events than manual processing. Professor Zhang, is it true?
+
+105
+00:12:11,480 --> 00:12:20,120
+Can China really achieve that? Yes, actually, it's true. One example is in the sea of the
+
+106
+00:12:20,120 --> 00:12:27,640
+Momala earthquake in this October, and this system sends first warming just eight seconds
+
+107
+00:12:27,639 --> 00:12:34,279
+after the earth's stop. In this case, using the AI technology, we can notice this kind of
+
+108
+00:12:34,279 --> 00:12:41,559
+earthquake or wrong, maybe as quick as possible. Yes, this is what this system actually does.
+
+109
+00:12:43,000 --> 00:12:49,960
+Professor Zhang, I'm going to stay with you here. Why is China doing all it can to incorporate
+
+110
+00:12:49,960 --> 00:12:54,519
+new technology into disaster relief and prevention and prediction?
+
+111
+00:12:56,120 --> 00:13:03,080
+Yes, I think the first of all, China currently has made technology developed very fast, and we
+
+112
+00:13:03,080 --> 00:13:12,519
+have a lot of fundamental research, for example, AI technology itself. Also, one power in China is
+
+113
+00:13:12,519 --> 00:13:20,840
+we can use AI to a lot of applications. We can test the AI capacity. This is the capacity of
+
+114
+00:13:20,840 --> 00:13:29,960
+the corona channel. And based on this kind of capacity, I also mentioned that there is a kind
+
+115
+00:13:29,960 --> 00:13:36,919
+of a very top-list research demand, which is we introduce physical AI, physical knowledge,
+
+116
+00:13:36,919 --> 00:13:43,959
+physical rule in the AI. In this case, we can make AI expandable to make it trustable,
+
+117
+00:13:43,959 --> 00:13:49,959
+something like this. In this case, we can use AI to this kind of emergency case and make the final
+
+118
+00:13:49,959 --> 00:13:57,399
+choices or final prediction as reliable. This is why we use AI to do this kind of communication.
+
+119
+00:13:57,399 --> 00:13:59,319
+Is it accurate? Does it work well?
+
+120
+00:14:00,040 --> 00:14:09,240
+Yes, it works well. For example, as I mentioned, in the earthquake cases, in the cloud cases,
+
+121
+00:14:09,240 --> 00:14:16,920
+we use AI everywhere to do the prediction, to do the mitigation. This is all the things that
+
+122
+00:14:16,920 --> 00:14:23,800
+work very well. Professor Tota Jada, given the kind of suspicion or skepticism, at least in
+
+123
+00:14:24,439 --> 00:14:31,159
+online communities about AI, it seems that China is going all out to harness the potential of AI
+
+124
+00:14:31,159 --> 00:14:36,359
+instead of saying, it is dangerous. We're going to think and wait until the technology is more
+
+125
+00:14:36,359 --> 00:14:42,439
+mature. But it seems that China is willing to test, to use these technology and reap the benefit
+
+126
+00:14:42,439 --> 00:14:50,359
+while the talks about regulation is going on. Yes, and this is a correct way to go.
+
+127
+00:14:50,840 --> 00:14:57,080
+As we all heard in the news recently, an AI system had to be closed because by itself
+
+128
+00:14:57,080 --> 00:15:04,039
+attacked another AI system. So there are risks. But the system doesn't get mature by itself.
+
+129
+00:15:04,039 --> 00:15:10,200
+You have to try it on the strict regulations to improve it. And this is also a great value
+
+130
+00:15:10,200 --> 00:15:16,200
+China is bringing to itself, to the country and to the world. So how much more can we understand
+
+131
+00:15:16,200 --> 00:15:21,560
+the systems? If we have data, just as you asked, is it reliable? And then what decisions do we
+
+132
+00:15:21,560 --> 00:15:27,720
+take with it? So it's not only the box, but what do we make out of it? And this is what China is
+
+133
+00:15:27,720 --> 00:15:33,560
+making very successfully. Not the only country. We see it in other places. We see it in Australia.
+
+134
+00:15:33,560 --> 00:15:38,920
+We see it certainly in Japan. But it's true testing. And this is something that China is doing,
+
+135
+00:15:38,920 --> 00:15:43,800
+testing at a very large scale. So the more you test, the more you understand and you will be able
+
+136
+00:15:43,799 --> 00:15:52,359
+to improve it further. What does what China do stand out compared to what is being done elsewhere
+
+137
+00:15:52,359 --> 00:15:57,879
+in the world by Australia or by Japan? Is there a difference or every country kind of exploring
+
+138
+00:15:57,879 --> 00:16:05,719
+similar approaches and making their technologies or platforms available to other countries who are
+
+139
+00:16:05,719 --> 00:16:12,199
+in need of such technology and capacity? The development of technology is always
+
+140
+00:16:12,200 --> 00:16:17,720
+depends on your context. What China is doing differently is that it's at a scale, is investing
+
+141
+00:16:17,720 --> 00:16:23,000
+very large amounts of knowledge. And out of that, it has been able to develop the technology. And
+
+142
+00:16:23,000 --> 00:16:28,360
+then how do you take the technology? So it's investment on knowledge, on the technology itself,
+
+143
+00:16:28,360 --> 00:16:34,360
+on how to improve it. And other places can invest less than China. China has continuous
+
+144
+00:16:34,360 --> 00:16:41,800
+investing very large funds properly. So you know that whatever amount is invested will end up in
+
+145
+00:16:41,799 --> 00:16:47,799
+benefits for the community. It's not again, it's not the technology is investment. And then how do
+
+146
+00:16:47,799 --> 00:16:53,959
+you do it? How does the community and you have a very large community of more than a billion people,
+
+147
+00:16:53,959 --> 00:17:00,679
+how does it get benefited? And that's where it comes, the communication, the awareness. AI is not
+
+148
+00:17:00,679 --> 00:17:07,480
+science fiction. It is knowledge at the benefit that will benefit communities. So if we talk about,
+
+149
+00:17:07,480 --> 00:17:12,920
+for example, capacity building, capacity building is one level, which is the level of the research
+
+150
+00:17:12,920 --> 00:17:18,039
+of the people who work on technology. And then you have all this education for people to understand
+
+151
+00:17:18,039 --> 00:17:23,079
+that if they receive a warning, this is serious. And this means that the government has to be
+
+152
+00:17:23,960 --> 00:17:29,000
+to develop channels to be reliable. So people know they are receiving messages that are not
+
+153
+00:17:29,000 --> 00:17:36,120
+fabricated by AI and that are not truthful. But that this comes from the same system. If they
+
+154
+00:17:36,199 --> 00:17:41,719
+are told there is a warning that they should respond immediately to reduce the number of casualties.
+
+155
+00:17:41,719 --> 00:17:46,439
+So it's a whole ecosystem of knowledge. I go back to knowledge because that's what China is doing,
+
+156
+00:17:46,439 --> 00:17:52,119
+not only in this field, but in many investing on knowledge and that stays and that we have a
+
+157
+00:17:52,119 --> 00:17:57,559
+positive impact all over the world for the knowledge is shared. Well, it seems from what
+
+158
+00:17:57,559 --> 00:18:04,919
+Professor Tota Yadda described that the Chinese authorities are very much in sync with what the
+
+159
+00:18:04,920 --> 00:18:14,680
+society needs and doing investing in the right aspects so that those needs can be met from what
+
+160
+00:18:14,680 --> 00:18:21,320
+is being said about China on social media, on mainstream media. You don't really get the
+
+161
+00:18:21,320 --> 00:18:26,200
+impression that this is a government that is very responsible in terms of taking care of the needs
+
+162
+00:18:26,200 --> 00:18:32,759
+of its people because it's often described as authoritarian or whatsoever. Dmitry, you have
+
+163
+00:18:32,759 --> 00:18:37,960
+been here for so long. What is the biggest myth that you want to bust when we come to
+
+164
+00:18:37,960 --> 00:18:44,839
+understanding why China is doing so much to protect its people from the damage of natural
+
+165
+00:18:44,839 --> 00:18:53,160
+disasters and climate change? Well, I think like any other country, the Chinese government has a
+
+166
+00:18:53,160 --> 00:18:58,039
+responsibility to its citizens and is very responsive to the needs of the citizens. And
+
+167
+00:18:58,039 --> 00:19:06,039
+especially when it comes to extreme weather, that is an economic risk. It's a security risk.
+
+168
+00:19:07,399 --> 00:19:14,839
+Currently, I would say it's actually a national security risk for all countries on earth because
+
+169
+00:19:14,839 --> 00:19:20,839
+heat waves and climate warming are hitting the world everywhere. We know it's going to get
+
+170
+00:19:20,839 --> 00:19:25,240
+even worse. There's a scientific certainty and consensus around the world about that.
+
+171
+00:19:26,200 --> 00:19:32,599
+And so, responding to that should be a national priority anywhere. I think it's extremely
+
+172
+00:19:33,319 --> 00:19:38,839
+helpful actually that the Chinese government is taking this so seriously. And sharing these
+
+173
+00:19:38,839 --> 00:19:43,799
+systems with other countries is clever. China will need these systems anyway. China is a very
+
+174
+00:19:43,799 --> 00:19:49,160
+large country, has tremendous technological and scientific resources, is investing heavily in
+
+175
+00:19:49,240 --> 00:19:56,120
+earth observation and AI systems for prediction and everything. Sharing that with another country
+
+176
+00:19:56,120 --> 00:20:02,519
+is really a really obvious opportunity for me. It's a low hanging fruit. It's not a huge investment,
+
+177
+00:20:02,519 --> 00:20:07,560
+relatively speaking, because the system is already set up to help China. And so, to be able to use
+
+178
+00:20:07,560 --> 00:20:12,519
+that system for other developing countries in the region is just obvious. And it's going to save
+
+179
+00:20:12,519 --> 00:20:18,040
+thousands of lives and help to avoid major economic damage in those countries. And that matters a lot
+
+180
+00:20:18,039 --> 00:20:22,599
+for those developing countries. So, sharing the system is going to generate a lot of good will
+
+181
+00:20:22,599 --> 00:20:27,159
+for China. And that's very important right now. Some countries, some very large countries, are
+
+182
+00:20:27,159 --> 00:20:34,359
+stepping back from wanting to cooperate with the rest of the world on sharing scientific data and on
+
+183
+00:20:35,240 --> 00:20:41,559
+poverty alleviation and support for emergencies. So, China has a tremendous opportunity to step in
+
+184
+00:20:42,200 --> 00:20:47,319
+and become an important leader in the world when it comes to this type of service for everybody.
+
+185
+00:20:48,200 --> 00:20:53,240
+Yeah, we're talking about sharing with the rest of the world a very important name that comes to
+
+186
+00:20:53,240 --> 00:21:00,359
+mind is the name of a Chinese sea goddess. The name of Ma Tzu, especially famous, especially well
+
+187
+00:21:00,359 --> 00:21:07,480
+known for people in southern China who live by the seas. That has been a guardian for seafarers
+
+188
+00:21:07,480 --> 00:21:14,119
+for centuries. There are, you know, temples set up to honor the steity. But now that's the name
+
+189
+00:21:14,119 --> 00:21:20,039
+of the AI-powered early warning system from China that's been used by dozens of countries around
+
+190
+00:21:20,039 --> 00:21:25,479
+the world. And last month, UN Secretary-General Antonio Guterres actually had this to say about
+
+191
+00:21:25,479 --> 00:21:32,839
+the system and I quote, these tools are built with other developing countries as partners drawing
+
+192
+00:21:32,839 --> 00:21:39,559
+on local data so nations can issue their own warnings. This is the model the world needs
+
+193
+00:21:39,559 --> 00:21:46,839
+with technology transfer, joint research and local capacities, helping countries protect their people.
+
+194
+00:21:47,559 --> 00:21:51,720
+Professor Zhang, what exactly is Ma Tzu? Why is it important?
+
+195
+00:21:53,799 --> 00:22:00,039
+Actually, Ma Tzu is also China's main plan to answer the United Nations early warning for all
+
+196
+00:22:00,039 --> 00:22:06,039
+this kind of call. And many developing countries face a serious climate risk, but they do not have
+
+197
+00:22:06,200 --> 00:22:12,279
+the ones that are forecasting tools like China. In this case, Ma Tzu used China's
+
+198
+00:22:12,279 --> 00:22:19,399
+weather satellite and its own AI capacity to those developing countries. And so the called
+
+199
+00:22:19,399 --> 00:22:27,000
+plan form, it sites more than 14 countries that have warning products for free without building
+
+200
+00:22:27,000 --> 00:22:33,000
+cost equipment for their own. Because this kind of satellite is very expensive and the developing
+
+201
+00:22:33,000 --> 00:22:39,720
+country cannot afford it. In this case, China has helped them to establish those kind of
+
+202
+00:22:39,720 --> 00:22:46,119
+technology. Currently, Ma Tzu has already been set up in seven countries like Mongolia, Pakistan,
+
+203
+00:22:46,119 --> 00:22:55,319
+etc. This is all Ma Tzu work. Yes, yes. Yeah, as I was just going to add to the list,
+
+204
+00:22:56,279 --> 00:23:01,799
+the platform has been used by more than 40 countries via cloud access and now customized
+
+205
+00:23:01,799 --> 00:23:08,039
+versions have been deployed in seven countries, including Pakistan, Ethiopia, the Solomon Islands,
+
+206
+00:23:08,039 --> 00:23:14,680
+Jordan, Sri Lanka, Mongolia and Djibouti. Professor Torayada, it seems to be a small group of
+
+207
+00:23:14,680 --> 00:23:21,480
+country and mostly, you know, very least developed country or less developed countries. Is that
+
+208
+00:23:21,480 --> 00:23:27,799
+number significant? Is this significant in terms of serving the needs of the international community?
+
+209
+00:23:28,519 --> 00:23:33,399
+Always. It's significant because it's already having a positive impact of the people who live in
+
+210
+00:23:33,399 --> 00:23:39,720
+those countries. Pakistan has had the country flooded. We see very large infrastructure that is
+
+211
+00:23:39,720 --> 00:23:47,799
+being destroyed. Will all this air system be able to help them? And the answer is yes, the way that
+
+212
+00:23:47,799 --> 00:23:54,119
+it will be used in the country. This number will increase because it's through sharing and all
+
+213
+00:23:54,119 --> 00:23:59,159
+this knowledge is being now generated, is being understood and it will go to more countries in
+
+214
+00:23:59,159 --> 00:24:05,239
+different ways. In the international community, there is this expression that we should build back
+
+215
+00:24:05,239 --> 00:24:11,559
+better, thinking that after a disaster, we will take decisions so that the situation will be better
+
+216
+00:24:11,559 --> 00:24:16,919
+next time. So it doesn't happen, but it happens again. Another difference is that China is not
+
+217
+00:24:16,919 --> 00:24:22,679
+waiting to build back better after the disaster, but China is planning to reduce the disaster.
+
+218
+00:24:23,560 --> 00:24:31,160
+Again, we cannot reduce the natural events. They are natural. What we can reduce and China is
+
+219
+00:24:31,160 --> 00:24:37,560
+in very effectively helping other countries to do is to reduce the impact of it. Every life you
+
+220
+00:24:37,560 --> 00:24:44,039
+save one life is important. You are testing your system, you are understanding it. You are going
+
+221
+00:24:44,039 --> 00:24:52,600
+beyond the limits. How else, how better can you help somewhere else? How else can it be implemented
+
+222
+00:24:52,759 --> 00:24:58,039
+better according to different geographical conditions and hydro-meteorological conditions?
+
+223
+00:24:58,039 --> 00:25:02,199
+And this is a service China is doing to itself and to the world.
+
+224
+00:25:02,919 --> 00:25:11,559
+And it seems that China is really adopting the same ideology or philosophy that it has been
+
+225
+00:25:11,559 --> 00:25:19,559
+advocating in terms of providing meteorological service and climate capabilities to other countries.
+
+226
+00:25:19,639 --> 00:25:25,480
+It says it's said to continue to improve the Martzl system, expand international
+
+227
+00:25:25,480 --> 00:25:30,919
+satellite services and build an open and collaborative framework for international
+
+228
+00:25:30,919 --> 00:25:36,519
+cooperation. It seems that the open keyword is here, as we have been seeing. For instance,
+
+229
+00:25:36,519 --> 00:25:44,759
+in AI development, China has been talking about the open source approach in compared to what some
+
+230
+00:25:44,759 --> 00:25:50,920
+companies in the United States have been doing. Dimitri, again, why is China doing this? Of course,
+
+231
+00:25:50,920 --> 00:26:00,680
+it's convenient, but is it just a convenient byproduct of China's advancement or is it really
+
+232
+00:26:00,680 --> 00:26:08,920
+significant for China as well? That's a good question. I mean, I'm sure it's good in many ways
+
+233
+00:26:08,920 --> 00:26:14,359
+for China and also for the countries with which it partners. We've been quite involved
+
+234
+00:26:14,359 --> 00:26:18,599
+in greening China's overseas investments, for example, the Belt and Road Initiative.
+
+235
+00:26:19,639 --> 00:26:23,719
+A few years ago, China made a commitment to no longer build coal-fired power plants
+
+236
+00:26:24,519 --> 00:26:29,079
+in other countries and to support other countries with renewable energy development.
+
+237
+00:26:30,039 --> 00:26:36,359
+That is at the very core of the world's response to climate change and to try to reduce climate
+
+238
+00:26:36,359 --> 00:26:43,799
+change in the next decades. So again, many decisions that work in the favor of China also
+
+239
+00:26:43,799 --> 00:26:51,559
+work in the favor of other countries. By seeing the world as a unity, and I think in many ways
+
+240
+00:26:52,279 --> 00:26:58,359
+China's leadership tries to see it that way, you can come to win-win outcomes for the whole
+
+241
+00:26:58,359 --> 00:27:04,519
+world. It's very important to realize that those win-win outcomes are many. In my view, there are
+
+242
+00:27:04,519 --> 00:27:13,480
+many more than situations where somehow one side will benefit from a conflict. Usually, conflict
+
+243
+00:27:13,480 --> 00:27:18,440
+harms both sides. So cooperation basically always wins out over conflict.
+
+244
+00:27:19,400 --> 00:27:28,599
+Professor Zhang, one minute please. To the skeptics, to the naysayers, what is China's message?
+
+245
+00:27:28,599 --> 00:27:34,440
+Basically, sometimes the word win-win has been given a very cynical, even sinister connotation.
+
+246
+00:27:35,000 --> 00:27:41,000
+What is China trying to do here by providing these systems, by training thousands of people
+
+247
+00:27:41,000 --> 00:27:45,240
+from these countries? Is it to curry favor? What is China trying to achieve?
+
+248
+00:27:47,160 --> 00:27:54,039
+I think from the technical side, why I need to give another point here is, for example,
+
+249
+00:27:54,039 --> 00:27:59,400
+like if we develop a system, we need the data to do the validation. And if the system only
+
+250
+00:27:59,400 --> 00:28:05,400
+used in China, maybe we cannot collect the border kind of data or something like this.
+
+251
+00:28:05,400 --> 00:28:12,680
+In this case, the accuracy may be not good. If we ask countries, especially developing countries,
+
+252
+00:28:12,680 --> 00:28:18,200
+to use this kind of system for free, we can also collect some kind of wider data globally
+
+253
+00:28:18,200 --> 00:28:24,600
+and increase the accuracy and then give better services to this country. This is
+
+254
+00:28:26,040 --> 00:28:29,240
+technical side. This kind of win-win mode. Yes.
+
+255
+00:28:30,759 --> 00:28:34,040
+Unfortunately, we have to leave it there. But I guess what you're saying basically is
+
+256
+00:28:34,039 --> 00:28:39,559
+Taiwan respects no national borders. Right? So we've got to work together. Unfortunately,
+
+257
+00:28:39,559 --> 00:28:43,399
+we have to leave it there. Many thanks to Professor Cecilia Tortillada, Professor Zhang
+
+258
+00:28:43,399 --> 00:28:48,519
+Haoran and Dimitri De Boa for sharing with us your valuable insights. And with that, we come to
+
+259
+00:28:48,519 --> 00:28:54,359
+the end of this edition of The Point with me, Lushin, coming to you live from Beijing. As always,
+
+260
+00:28:54,359 --> 00:28:59,240
+you can follow me on Facebook, X and YouTube using the handle Lushin in Beijing. On behalf
+
+261
+00:28:59,240 --> 00:29:09,240
+of the whole team, thank you for watching. You've got the point.
+
+262
+00:29:29,240 --> 00:29:39,240
+Thank you.
+
+263
+00:29:59,240 --> 00:30:00,740
+you

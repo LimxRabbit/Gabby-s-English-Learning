@@ -1,0 +1,1491 @@
+1
+00:00:30,000 --> 00:00:50,840
+How long before we start seeing intelligent robots walk among us?
+
+2
+00:00:50,840 --> 00:00:57,000
+Well, given what happened in China Wednesday, this future just got a step closer.
+
+3
+00:00:57,000 --> 00:01:03,079
+Unitry Robotics, which makes humanoid robots in Hangzhou, East China, searched more than
+
+4
+00:01:03,079 --> 00:01:10,920
+fourfold upon its debut on the Shanghai Stock Exchange, marking a significant step for the
+
+5
+00:01:10,920 --> 00:01:17,519
+country's humanoid robot industry to move from technology accumulation to scaled and
+
+6
+00:01:17,519 --> 00:01:23,879
+commercialized development from the official news agency Xinhua.
+
+7
+00:01:23,959 --> 00:01:29,759
+The groundbreaking IPO was timed to coincide with the opening of the World Robot Conference
+
+8
+00:01:29,759 --> 00:01:34,959
+and World Humanoid Robot Games in Beijing this weekend.
+
+9
+00:01:34,959 --> 00:01:39,479
+What does all this tell us about China's position on embodied intelligence?
+
+10
+00:01:39,479 --> 00:01:42,319
+What's behind this landmark IPO?
+
+11
+00:01:42,319 --> 00:01:47,919
+Could this be why Washington banned all foreign-made humanoid robots last month?
+
+12
+00:01:47,919 --> 00:01:52,120
+And most importantly, what does it mean to you watching us?
+
+13
+00:01:52,240 --> 00:01:57,280
+Welcome to this edition of The Point with me, Liu Xin, coming to you live from the Chinese capital.
+
+14
+00:01:57,280 --> 00:02:02,719
+Joining us from San Francisco in the US, Rebecca Fennin, founder of Silicon Dragon Ventures,
+
+15
+00:02:02,719 --> 00:02:07,080
+and author of the book The New Tech Titans of China.
+
+16
+00:02:07,080 --> 00:02:14,520
+From Shenzhen in Southern China, Steve Hoffman, CEO of Founders Space, and here in the studio
+
+17
+00:02:14,520 --> 00:02:19,000
+Professor Liu Baocheng, Dean of the Center for International Business Ethics at the University
+
+18
+00:02:19,000 --> 00:02:21,840
+of International Business and Economics.
+
+19
+00:02:22,560 --> 00:02:29,920
+So let's first try to understand the company and its IPO a bit more.
+
+20
+00:02:29,920 --> 00:02:33,759
+And I want to go to Rebecca for the opening question.
+
+21
+00:02:33,759 --> 00:02:39,480
+As I said, on the opening day on the Shanghai Stock Exchange on Wednesday, unitary stock
+
+22
+00:02:39,480 --> 00:02:42,840
+price surged over 400%.
+
+23
+00:02:42,840 --> 00:02:50,840
+For those who have heard very little or not at all about this company, what exactly is unitary and what does it do?
+
+24
+00:02:51,840 --> 00:02:59,039
+Well, unitary has amazed a lot of people, particularly in the West, by its ability to dance and to
+
+25
+00:02:59,039 --> 00:03:04,120
+box and to walk and to do gymnastics.
+
+26
+00:03:04,120 --> 00:03:08,039
+It's amazing what this Chinese-made unitary can do.
+
+27
+00:03:08,039 --> 00:03:11,680
+I saw it at the Consumer Electronics Show boxing.
+
+28
+00:03:11,680 --> 00:03:17,319
+I've seen it at events here in Silicon Valley surrounded by crowds.
+
+29
+00:03:17,319 --> 00:03:21,120
+People are really mesmerized by its capabilities.
+
+30
+00:03:21,120 --> 00:03:24,599
+Of course, that doesn't mean it doesn't have challenges.
+
+31
+00:03:24,599 --> 00:03:26,519
+It does have challenges.
+
+32
+00:03:26,519 --> 00:03:34,560
+It may not be totally equipped yet to work in the kitchen smoothly, exactly like me, too.
+
+33
+00:03:34,560 --> 00:03:36,060
+Me neither.
+
+34
+00:03:35,560 --> 00:03:43,039
+It may not be all that well equipped to drive a car.
+
+35
+00:03:43,039 --> 00:03:44,759
+And it's learning.
+
+36
+00:03:44,759 --> 00:03:46,259
+It's learning all the time.
+
+37
+00:03:45,759 --> 00:03:47,259
+It's training.
+
+38
+00:03:46,799 --> 00:03:48,759
+It's not perfect yet.
+
+39
+00:03:48,759 --> 00:03:53,000
+It's not perfect for all these household chores or for mowing the lawn.
+
+40
+00:03:53,000 --> 00:03:55,079
+But the future is coming up fast.
+
+41
+00:03:55,079 --> 00:04:00,679
+And unitary has positioned very well to be one of the leaders.
+
+42
+00:04:00,679 --> 00:04:05,079
+And it certainly, as IPO, was off to a spectacular start.
+
+43
+00:04:05,079 --> 00:04:08,759
+It has a whole bunch of followers in China.
+
+44
+00:04:08,759 --> 00:04:15,359
+And there are many, many other humanoid robot makers in China that want to follow its path.
+
+45
+00:04:15,360 --> 00:04:19,520
+And so many of these robot makers are venture capital backed.
+
+46
+00:04:19,520 --> 00:04:25,480
+So that means that they're probably going to go the same IPO path that unitary did, if they can.
+
+47
+00:04:25,480 --> 00:04:27,920
+But unitary has set a good example.
+
+48
+00:04:27,920 --> 00:04:29,420
+So we'll see.
+
+49
+00:04:28,920 --> 00:04:30,420
+We'll see.
+
+50
+00:04:29,920 --> 00:04:35,400
+Well, according to China's official news agency, Xinhua, and when it's said by Xinhua, it carries
+
+51
+00:04:35,400 --> 00:04:37,879
+a certain very special weight.
+
+52
+00:04:37,879 --> 00:04:41,720
+And Steve, I want you to help us understand what Xinhua said about this IPO.
+
+53
+00:04:41,720 --> 00:04:48,040
+It says that China's unitary robotics on Wednesday became the first humanoid robot maker to
+
+54
+00:04:48,040 --> 00:04:55,080
+be listed on the A-Share market, marking a significant step for the country's humanoid
+
+55
+00:04:55,080 --> 00:05:02,400
+robot industry to move from technological accumulation to scaled and commercialized development.
+
+56
+00:05:02,400 --> 00:05:05,040
+What exactly do you think it means by that?
+
+57
+00:05:05,040 --> 00:05:09,000
+Do you agree with this assessment?
+
+58
+00:05:09,000 --> 00:05:10,500
+I do agree.
+
+59
+00:05:10,319 --> 00:05:12,680
+So unitary is the market leader.
+
+60
+00:05:12,680 --> 00:05:16,719
+So they're a market leader in China in terms of humanoid robots.
+
+61
+00:05:16,719 --> 00:05:19,920
+And arguably, they're the market leader globally.
+
+62
+00:05:19,920 --> 00:05:27,279
+And what they are experiencing right now with this fourfold increase upon IPO is the SpaceX
+
+63
+00:05:27,279 --> 00:05:28,779
+effect.
+
+64
+00:05:28,399 --> 00:05:29,899
+That's what I call it.
+
+65
+00:05:29,839 --> 00:05:37,319
+Because we've seen the hunger in the market right now for AI startups, especially AI and
+
+66
+00:05:37,319 --> 00:05:40,519
+new technology startups like SpaceX is both.
+
+67
+00:05:40,519 --> 00:05:45,920
+It incorporates space and the potential of outer space, but also with orbital data centers
+
+68
+00:05:45,920 --> 00:05:49,399
+and their own XAI platform.
+
+69
+00:05:49,399 --> 00:05:55,079
+And now we are seeing it in China carrying over to unitary.
+
+70
+00:05:55,079 --> 00:06:02,199
+Now unitary's big challenge is not to make humanoid robots that can dance and do backflips and box.
+
+71
+00:06:02,199 --> 00:06:03,719
+We've conquered that.
+
+72
+00:06:03,720 --> 00:06:11,720
+The big challenge is how to commercialize and scale this business, how to really become profitable.
+
+73
+00:06:11,720 --> 00:06:14,800
+And that is an unknown question.
+
+74
+00:06:14,800 --> 00:06:19,440
+But what the market is telling you is that investors are willing to bet on it.
+
+75
+00:06:19,440 --> 00:06:25,800
+At least right now with the optimism, they believe that unitary can go from pretty much
+
+76
+00:06:25,800 --> 00:06:33,600
+pilot projects and experimental projects to actually putting these robots into homes,
+
+77
+00:06:33,600 --> 00:06:36,720
+into businesses, into manufacturing.
+
+78
+00:06:36,720 --> 00:06:40,759
+Now to be honest, that isn't going to be easy.
+
+79
+00:06:40,759 --> 00:06:44,360
+There is still a long way to go before they get there.
+
+80
+00:06:44,360 --> 00:06:47,439
+Yeah, I want to ask that question in just a moment.
+
+81
+00:06:47,439 --> 00:06:54,600
+But once again, behind the number 400%, Steve was talking about that the Chinese investors
+
+82
+00:06:54,600 --> 00:06:56,760
+are betting on it.
+
+83
+00:06:56,760 --> 00:06:58,800
+They believe that there is a future here.
+
+84
+00:06:58,800 --> 00:07:02,720
+Professor Liu, what is your explanation of this massive surge?
+
+85
+00:07:02,720 --> 00:07:10,200
+Is this short-term speculation or an investment for the longer term or simply a case of fearing
+
+86
+00:07:10,200 --> 00:07:12,879
+of missing out what people call FOMO?
+
+87
+00:07:12,879 --> 00:07:21,920
+Well, I think it's all a matter of smart money from the perspectives of different investors.
+
+88
+00:07:21,920 --> 00:07:29,199
+And there are investors who really show a strong confirmation of the future where the
+
+89
+00:07:29,199 --> 00:07:38,200
+robotics, particularly the humanoid, can really be popularized as the smartphones or e-cars
+
+90
+00:07:38,200 --> 00:07:39,700
+as today.
+
+91
+00:07:39,480 --> 00:07:42,280
+So therefore, they will be long-term holders.
+
+92
+00:07:42,280 --> 00:07:50,680
+And particularly now, if you notice, the key holders of the unitary over the stocks have
+
+93
+00:07:50,680 --> 00:07:52,180
+changed.
+
+94
+00:07:51,680 --> 00:07:57,000
+There are a lot of institutional investment that will lock themselves at least 12 months
+
+95
+00:07:57,000 --> 00:08:00,360
+up to three years, and that's also renewable.
+
+96
+00:08:00,360 --> 00:08:07,280
+And also the commitment from the employees all together within unitary that they will
+
+97
+00:08:07,280 --> 00:08:10,819
+be committed at least for another three years.
+
+98
+00:08:10,819 --> 00:08:15,720
+So therefore, there is a firm conviction that drives such sort of investment.
+
+99
+00:08:15,720 --> 00:08:21,640
+Of course, within which there are a lot of speculative excitement where investors would
+
+100
+00:08:21,640 --> 00:08:24,440
+trade in hand and they watch and see.
+
+101
+00:08:24,440 --> 00:08:31,720
+So it's a matter of different strategy, but that can really push the stock market.
+
+102
+00:08:31,720 --> 00:08:38,160
+And more importantly, it's really the popularization among not only investors, but also the end
+
+103
+00:08:38,159 --> 00:08:46,279
+users to really to focus the attention on unitary and build further expectations on
+
+104
+00:08:46,279 --> 00:08:50,679
+the commercialization of their inventions.
+
+105
+00:08:50,679 --> 00:08:57,399
+Professor Liu, since we talk about the IPO, many people actually have been worried about
+
+106
+00:08:57,399 --> 00:08:59,199
+a bubble, right?
+
+107
+00:08:59,199 --> 00:09:03,480
+And stock prices have been fluctuated, especially high-tech stock prices.
+
+108
+00:09:03,480 --> 00:09:11,080
+And yet this IPO seems to be telling us there's still huge appetite and space for this kind of stocks.
+
+109
+00:09:11,080 --> 00:09:12,759
+What is the explanation behind that?
+
+110
+00:09:12,759 --> 00:09:19,240
+Yeah, I think there is a pent up demand and higher expectation over what can really come
+
+111
+00:09:19,240 --> 00:09:24,639
+up to the future of industry, to the future of people's lives.
+
+112
+00:09:24,639 --> 00:09:32,200
+So therefore, such sort of excitement is really pushing the stock exchange to move forward.
+
+113
+00:09:32,200 --> 00:09:40,960
+And more importantly, people would also expect a large, massive commercialization and spread
+
+114
+00:09:40,960 --> 00:09:48,160
+its distribution system around the whole world, because after all, they are the leaders among this.
+
+115
+00:09:48,160 --> 00:09:55,240
+And also there's also the better understanding over the entire ecosystem that can continue
+
+116
+00:09:55,240 --> 00:10:03,279
+to feed into the momentum of unitary or other type of suppliers and be it the whole human
+
+117
+00:10:03,279 --> 00:10:10,360
+oid robust or be it the softwares or spare parts that can support such one.
+
+118
+00:10:10,360 --> 00:10:18,440
+So that's a basic understanding that behind such sort of enthusiasm, of course, there
+
+119
+00:10:18,440 --> 00:10:24,600
+is always bubble for any type of new ventures that are on the horizon.
+
+120
+00:10:24,600 --> 00:10:33,120
+But when bubbles are really there to be squeezed out and people see a new horizon over the
+
+121
+00:10:33,120 --> 00:10:36,440
+future, so they will become more solid.
+
+122
+00:10:36,440 --> 00:10:46,200
+So this market is still in the process of consolidation, and some of them will be kicked
+
+123
+00:10:46,200 --> 00:10:52,600
+out if they are not really competitive and continuous with continuous innovation, but
+
+124
+00:10:52,600 --> 00:10:55,920
+some definitely will stay.
+
+125
+00:10:55,920 --> 00:10:58,440
+We'll keep a close watch on the situation for sure.
+
+126
+00:10:58,440 --> 00:11:04,280
+But looking at the process of it going public, Rebecca, I want to turn to you here.
+
+127
+00:11:04,280 --> 00:11:08,440
+It's been called, as I said, the first humanoid robust stock on a mainland exchange.
+
+128
+00:11:08,440 --> 00:11:13,640
+And this IPO process actually set a record according to media reports, taking just about
+
+129
+00:11:13,639 --> 00:11:16,799
+100 days from application to listing.
+
+130
+00:11:16,799 --> 00:11:18,759
+That's very different from the experience, right?
+
+131
+00:11:18,759 --> 00:11:22,559
+We would normally have which takes years, if not months.
+
+132
+00:11:22,559 --> 00:11:30,000
+So what does this fast track listing tell you about the kind of priorities in the mind
+
+133
+00:11:30,000 --> 00:11:35,600
+of decision makers and regulators?
+
+134
+00:11:35,600 --> 00:11:41,960
+Well I think there's clearly China's ambition to be a tech leader globally.
+
+135
+00:11:42,320 --> 00:11:49,240
+Humanoid robust is an area where China is leading right now, and this leads into a whole
+
+136
+00:11:49,240 --> 00:11:52,120
+other areas like physical AI.
+
+137
+00:11:52,120 --> 00:11:58,080
+It's an extension of why humanoid robust is really an extension of physical AI, the embodiment
+
+138
+00:11:58,080 --> 00:12:02,680
+of AI into everything and around us physically.
+
+139
+00:12:02,680 --> 00:12:08,440
+That's the next tier of AI's stage, and it's in a very important stage.
+
+140
+00:12:08,440 --> 00:12:15,600
+So I think this signifies that China can be a leader in the next phase of AI, and AI certainly
+
+141
+00:12:15,600 --> 00:12:23,960
+is the big boom, just like the dot-com era was 15 years ago.
+
+142
+00:12:23,960 --> 00:12:26,560
+We saw what happened with the dot-com era.
+
+143
+00:12:26,560 --> 00:12:31,520
+Now I don't know if that's going to happen with AI or not, but in the dot-com boom, it
+
+144
+00:12:31,600 --> 00:12:40,120
+was huge valuations like we've seen in AI, both in Silicon Valley and in China.
+
+145
+00:12:40,120 --> 00:12:45,919
+And then we saw the downside of that, where there was a concentration of a few leaders
+
+146
+00:12:45,919 --> 00:12:49,000
+and then others just dropped off.
+
+147
+00:12:49,000 --> 00:12:57,199
+So we see dozens of unitary wannabes in China that could drop off, and there may only be
+
+148
+00:12:57,199 --> 00:12:58,699
+just a few winners.
+
+149
+00:12:58,519 --> 00:13:07,399
+So I think the investor should be aware, should do their due diligence.
+
+150
+00:13:07,399 --> 00:13:14,639
+Certainly the venture capital investors who get in early into the leading ones will do well.
+
+151
+00:13:14,639 --> 00:13:22,600
+Stock market investors following unitary need to calculate very carefully the profitability
+
+152
+00:13:22,600 --> 00:13:27,000
+of these startups, their growth record, their ability to go global.
+
+153
+00:13:27,080 --> 00:13:34,639
+That's a big question mark, considering the US ban on new models from China.
+
+154
+00:13:34,639 --> 00:13:37,840
+I do see unitary around a lot in Silicon Valley.
+
+155
+00:13:37,840 --> 00:13:40,679
+It's at a lot of events.
+
+156
+00:13:40,679 --> 00:13:44,080
+It's getting a lot of high-profile.
+
+157
+00:13:44,080 --> 00:13:45,580
+It's on YouTube.
+
+158
+00:13:45,080 --> 00:13:49,559
+But that doesn't mean that it's a lasting company.
+
+159
+00:13:49,559 --> 00:13:57,480
+You have to get into these markets and continue growing and continue churning out profits and revenues.
+
+160
+00:13:57,480 --> 00:14:00,280
+So I think it still has a long road ahead of it.
+
+161
+00:14:00,280 --> 00:14:06,600
+IPO is a great step in raising more money, but it's an initial step in some ways.
+
+162
+00:14:06,600 --> 00:14:14,200
+Yeah, Steve, let's, well, by the way, I didn't got the ticket to hop on this train.
+
+163
+00:14:14,200 --> 00:14:21,440
+I didn't get the, so congratulations to those who did, but it's extremely interesting.
+
+164
+00:14:21,440 --> 00:14:31,760
+And in terms of advantage, besides being able to dance and kickbox and do all kinds of interesting
+
+165
+00:14:31,760 --> 00:14:38,840
+things, what kind of advantage really is unitary providing that its international competitors
+
+166
+00:14:38,840 --> 00:14:40,340
+cannot?
+
+167
+00:14:39,840 --> 00:14:45,680
+Is it technologically leading in the world, Steve?
+
+168
+00:14:45,680 --> 00:14:47,520
+Unitary is leading.
+
+169
+00:14:47,519 --> 00:14:55,159
+So they not only have very high-quality robots, but they are at a very affordable price.
+
+170
+00:14:55,159 --> 00:15:03,120
+So you look at unitary robots right now, you can buy one for as little as 16,000 US dollars,
+
+171
+00:15:03,120 --> 00:15:05,539
+which is just unbelievable.
+
+172
+00:15:05,539 --> 00:15:07,799
+You wouldn't have even imagined that a few years ago.
+
+173
+00:15:07,799 --> 00:15:12,120
+And that's because the Chinese ecosystem is so strong.
+
+174
+00:15:12,120 --> 00:15:18,679
+The supply chains in China, the engineering talent in China, and the world models, the
+
+175
+00:15:18,679 --> 00:15:24,279
+AI models that they are developing, unitary is developing and other Chinese software companies
+
+176
+00:15:24,279 --> 00:15:26,919
+are developing are very robust.
+
+177
+00:15:26,919 --> 00:15:33,039
+Now you look at the same robot that is being developed in the West.
+
+178
+00:15:33,039 --> 00:15:39,799
+And if you look at like Boston Dynamics, they are really targeting the very top of the market
+
+179
+00:15:40,079 --> 00:15:43,399
+because their robots are $100,000 or more.
+
+180
+00:15:43,399 --> 00:15:49,079
+Like they are exponentially more expensive and they are very sophisticated, but it's
+
+181
+00:15:49,079 --> 00:15:55,479
+going to be hard for them to gain mass market when they're competing against $16,000 robots.
+
+182
+00:15:55,479 --> 00:16:01,039
+Even Tesla, with their Optimus robots, they haven't released that yet, but they are expecting
+
+183
+00:16:01,039 --> 00:16:07,279
+a price range of at least double, maybe triple the cost of unitary robots.
+
+184
+00:16:07,279 --> 00:16:14,279
+China is also in China where honestly a huge portion of the world's goods are manufactured.
+
+185
+00:16:15,439 --> 00:16:19,120
+And they see the biggest market for these robots is not the home.
+
+186
+00:16:19,120 --> 00:16:24,519
+It's not your cleaning your yard or even working in cities.
+
+187
+00:16:24,519 --> 00:16:26,559
+It's working in factories.
+
+188
+00:16:26,559 --> 00:16:31,679
+So being here in China, testing the robots that they're testing now, thousands of them
+
+189
+00:16:31,679 --> 00:16:36,079
+in Chinese factories, that is the big win.
+
+190
+00:16:36,080 --> 00:16:43,080
+If you look at the economics, they're pretty good because if these robots perform as advertised,
+
+191
+00:16:44,600 --> 00:16:51,600
+the cost to run a unitary robot is essentially equivalent to a Chinese worker salary.
+
+192
+00:16:51,600 --> 00:16:56,840
+And that's today, before they've gone scaled up in mass market.
+
+193
+00:16:56,840 --> 00:17:00,879
+And if you look at the rest of Southeast Asia, the labor costs are lower.
+
+194
+00:17:00,879 --> 00:17:05,600
+They're half what Chinese labor costs are or less if you go to countries like Bangladesh.
+
+195
+00:17:05,599 --> 00:17:10,679
+So not quite competitive in those markets yet, but competitive in China.
+
+196
+00:17:10,679 --> 00:17:17,119
+And then if you go to the US or Western countries in general, the labor costs are much higher.
+
+197
+00:17:17,119 --> 00:17:20,759
+Total costs, including benefits are like $45 per hour.
+
+198
+00:17:20,759 --> 00:17:26,039
+And so you're looking at a robot, a humanoid robot, and you can see there's a lot of room
+
+199
+00:17:26,039 --> 00:17:33,039
+for companies to save a lot of money by putting robots in place of what many humans are doing.
+
+200
+00:17:33,639 --> 00:17:36,639
+This is the opportunity that unitary is going out.
+
+201
+00:17:36,639 --> 00:17:40,639
+I see. Well, a lot of people will say at this moment hearing what Steve just said,
+
+202
+00:17:40,639 --> 00:17:46,639
+okay, what about the human jobs that will be shared because of the employment of these?
+
+203
+00:17:46,639 --> 00:17:49,759
+And by the way, let's get this out of the way.
+
+204
+00:17:49,759 --> 00:17:55,319
+Professor Liu, to help us understand, when people are buying unitary humanoid robots,
+
+205
+00:17:55,319 --> 00:17:59,279
+what manly at this stage are they buying it for?
+
+206
+00:17:59,279 --> 00:18:02,119
+Are they already hiring and helping hand?
+
+207
+00:18:02,199 --> 00:18:09,079
+Or are they simply there for entertainment, funds, some kind of interaction, dancing, emotional support?
+
+208
+00:18:09,079 --> 00:18:12,199
+So what exactly is unitary providing at this moment?
+
+209
+00:18:12,199 --> 00:18:19,000
+Because from what I understand, not so much we're using these robots in factories yet.
+
+210
+00:18:19,000 --> 00:18:23,799
+No, as of today, by my calculation,
+
+211
+00:18:23,799 --> 00:18:31,599
+still well over 73% of the end use are there for research and educational purposes
+
+212
+00:18:31,599 --> 00:18:36,319
+because they are in the early stage and people are still really testing.
+
+213
+00:18:36,319 --> 00:18:42,439
+And also generate more publication through further training,
+
+214
+00:18:42,439 --> 00:18:50,599
+depending on the different purpose that the assignment or the mission really require them.
+
+215
+00:18:50,599 --> 00:18:58,079
+And now it is really very popular because they have been showing on the stage
+
+216
+00:18:58,079 --> 00:19:01,399
+with martial arts, with dancing, et cetera.
+
+217
+00:19:01,399 --> 00:19:12,439
+Actually, Mr. Wang, the founder of Unitary, very honest told us that it is still a long way to go for them
+
+218
+00:19:12,439 --> 00:19:18,720
+to be totally commercialized with industrial use and household use, et cetera.
+
+219
+00:19:18,720 --> 00:19:24,480
+But it does really set the foundation that people do see the light at the end of the tunnel
+
+220
+00:19:24,480 --> 00:19:26,839
+in a matter of three to five years.
+
+221
+00:19:26,839 --> 00:19:32,400
+And there is going to be further popularization as for the replacement of job opportunities.
+
+222
+00:19:32,400 --> 00:19:35,559
+And they also mentioned about certain worries.
+
+223
+00:19:35,559 --> 00:19:43,680
+But those worries can really be dismissed by the fact that they do not really completely replace human jobs,
+
+224
+00:19:43,680 --> 00:19:50,000
+but they are doing the jobs in the dendrous areas and in the more difficult areas
+
+225
+00:19:50,000 --> 00:19:52,599
+or high temperature areas, et cetera.
+
+226
+00:19:52,599 --> 00:19:59,000
+That can really alleviate people of the hard, repetitive, and dendrous jobs.
+
+227
+00:19:59,000 --> 00:20:05,559
+So therefore, people do see it as a friend of the real people.
+
+228
+00:20:05,559 --> 00:20:16,919
+And so now, actually, you see the rally, where the IPO shows that many institutional investors
+
+229
+00:20:16,920 --> 00:20:25,240
+who are very rational, who are very predictable in what can be delivered with their investment
+
+230
+00:20:25,240 --> 00:20:27,360
+in the future are very clear.
+
+231
+00:20:27,360 --> 00:20:33,519
+So they definitely bet on the big commercialization.
+
+232
+00:20:33,519 --> 00:20:35,360
+That's a matter only at time.
+
+233
+00:20:35,360 --> 00:20:36,860
+It could be Unitary.
+
+234
+00:20:36,640 --> 00:20:38,920
+It could be another type of company.
+
+235
+00:20:38,920 --> 00:20:47,160
+But the general ecosystem is there to continually support such sort of commercialization
+
+236
+00:20:47,160 --> 00:20:52,720
+with more industrial use and also household use.
+
+237
+00:20:52,720 --> 00:20:57,640
+Just now you mentioned the founder of Unitary, Mr. Wang Xingxing.
+
+238
+00:20:57,640 --> 00:21:03,120
+Here is what he said really a day after the IPO at the World Robot Conference.
+
+239
+00:21:03,119 --> 00:21:11,799
+He said that the so-called chat GPT moment will be there when a robot is placed in an unfamiliar home
+
+240
+00:21:11,799 --> 00:21:17,199
+and can complete about 80% of tasks through text or voice commands alone.
+
+241
+00:21:17,199 --> 00:21:19,719
+And this moment is not here yet.
+
+242
+00:21:19,719 --> 00:21:26,079
+It could arrive in two to three years if things move fast or five to 10 years if things move slowly.
+
+243
+00:21:26,079 --> 00:21:28,399
+Rebecca, what do you think of his comment?
+
+244
+00:21:28,399 --> 00:21:30,479
+Is he being optimistic or realistic?
+
+245
+00:21:31,480 --> 00:21:38,279
+I would say probably optimistic about two to three years, maybe realistic about 10 years.
+
+246
+00:21:38,279 --> 00:21:43,839
+From what I hear at that price tag, it's a big question mark.
+
+247
+00:21:43,839 --> 00:21:51,039
+That 16,000 price tag that Steve mentioned, who's going to pay $16,000 for a robot?
+
+248
+00:21:51,039 --> 00:21:53,480
+They don't really know how well it's going to work.
+
+249
+00:21:53,480 --> 00:21:59,920
+From what I've seen, some folks I know have tried it out and they're not too happy with
+
+250
+00:21:59,920 --> 00:22:02,720
+the way it can handle household chores.
+
+251
+00:22:02,720 --> 00:22:09,320
+So I think the real promise is the industrial side is in the factories, doing the dirty and the dangerous
+
+252
+00:22:09,320 --> 00:22:10,820
+and the dull jobs.
+
+253
+00:22:10,320 --> 00:22:15,360
+That's where the promise is and the profits are and the opportunity is.
+
+254
+00:22:15,360 --> 00:22:19,519
+And China leads and China is the world's leading factory.
+
+255
+00:22:19,519 --> 00:22:21,160
+It's the world's leading producer.
+
+256
+00:22:21,160 --> 00:22:22,660
+So it makes sense.
+
+257
+00:22:22,600 --> 00:22:29,400
+These humanoid robots could do these jobs in factories that humans don't want to do.
+
+258
+00:22:29,400 --> 00:22:33,000
+And that the robot is better equipped to do.
+
+259
+00:22:33,000 --> 00:22:34,680
+It's not going to be harmed.
+
+260
+00:22:34,680 --> 00:22:37,640
+It's hard to harm a robot.
+
+261
+00:22:37,640 --> 00:22:41,920
+Although I know that their batteries only last so long and they do have to rest as well.
+
+262
+00:22:41,920 --> 00:22:47,680
+So with humans, we need to rest, but maybe not quite as often as two hours every time
+
+263
+00:22:47,680 --> 00:22:50,480
+a robot needs to take a nap.
+
+264
+00:22:50,480 --> 00:22:56,200
+Yeah, well, certainly we are seeing robots sorting through parcels, right?
+
+265
+00:22:56,200 --> 00:23:00,080
+And they can work much, much longer than a human being can do.
+
+266
+00:23:00,080 --> 00:23:01,880
+It's very monotonous.
+
+267
+00:23:01,880 --> 00:23:06,759
+I don't see anybody, if they had a choice, would ever want to do that kind of job.
+
+268
+00:23:06,759 --> 00:23:13,160
+But again, given this moment, it seems that there is still some interest, if not huge
+
+269
+00:23:13,160 --> 00:23:17,720
+interest in purchasing these humanoid robots from China.
+
+270
+00:23:17,720 --> 00:23:23,080
+And because of the reasons that we all mentioned, Steve, that Unitry and some other Chinese
+
+271
+00:23:23,079 --> 00:23:30,519
+companies have been really at the leading pack of sales in terms of humanoid robots at this moment.
+
+272
+00:23:30,519 --> 00:23:38,159
+The number is somewhere between 80 to 90 percent, even higher of global sales that are coming from China.
+
+273
+00:23:38,159 --> 00:23:45,039
+Last year, I know Unitry sold about one-third of the number of humanoid robots that were
+
+274
+00:23:45,039 --> 00:23:47,879
+shipped out of China, 5,500 units.
+
+275
+00:23:47,880 --> 00:23:55,000
+What do you think of such a large market share being occupied by China?
+
+276
+00:23:55,000 --> 00:23:56,500
+The upside?
+
+277
+00:23:56,000 --> 00:23:57,500
+The downside?
+
+278
+00:23:57,000 --> 00:24:00,760
+Sorry, the 5,000 mark?
+
+279
+00:24:00,760 --> 00:24:02,260
+That's not a very big number.
+
+280
+00:24:02,240 --> 00:24:03,740
+Steve, okay.
+
+281
+00:24:03,240 --> 00:24:04,740
+This was for Steve.
+
+282
+00:24:04,240 --> 00:24:05,740
+Sorry, I didn't make it clear.
+
+283
+00:24:05,240 --> 00:24:07,440
+Yeah, but Rebecca, you can add something later.
+
+284
+00:24:07,440 --> 00:24:08,940
+Yeah.
+
+285
+00:24:08,440 --> 00:24:09,940
+Okay.
+
+286
+00:24:09,440 --> 00:24:12,160
+Yes, 5,000 is actually a small number.
+
+287
+00:24:12,160 --> 00:24:14,640
+So the market is still very small.
+
+288
+00:24:14,640 --> 00:24:20,240
+And the point I was making is for the future, why people are betting on it now.
+
+289
+00:24:20,240 --> 00:24:29,759
+The fact is, the upside for China is that China has a chance to become the world's dominant
+
+290
+00:24:29,759 --> 00:24:32,160
+player in robotics.
+
+291
+00:24:32,160 --> 00:24:36,320
+And robots are the embodiment of AI in the physical world.
+
+292
+00:24:36,320 --> 00:24:39,520
+They are going to drive massive change.
+
+293
+00:24:39,519 --> 00:24:46,079
+China is already the world's leading manufacturer and has the most sophisticated and robust
+
+294
+00:24:46,079 --> 00:24:48,000
+supply chains in the world.
+
+295
+00:24:48,000 --> 00:24:51,799
+All of that put together, make it very hard for other countries to compete.
+
+296
+00:24:51,799 --> 00:24:53,639
+The US is scared.
+
+297
+00:24:53,639 --> 00:25:03,079
+The US just banned robots because it is afraid that China will dominate because China is
+
+298
+00:25:03,079 --> 00:25:06,079
+delivering these robots at such a competitive price.
+
+299
+00:25:06,079 --> 00:25:08,279
+And there's a fit of competition.
+
+300
+00:25:08,279 --> 00:25:09,779
+Yes, Steve.
+
+301
+00:25:09,279 --> 00:25:11,079
+Rivals of US companies.
+
+302
+00:25:11,079 --> 00:25:12,579
+Sorry for interrupting here.
+
+303
+00:25:12,279 --> 00:25:15,119
+I have about four minutes left and I want to ask this question.
+
+304
+00:25:15,119 --> 00:25:19,279
+I think it's hanging on the lips of many people watching at this moment where you're saying
+
+305
+00:25:19,279 --> 00:25:23,519
+China will be the leader in terms of humanoid robot.
+
+306
+00:25:23,519 --> 00:25:28,319
+For a lot of people watching this, they think of one word fear.
+
+307
+00:25:28,319 --> 00:25:31,960
+What would you like to say to them?
+
+308
+00:25:31,960 --> 00:25:39,200
+I would say that for most people, it doesn't matter where the robot comes from.
+
+309
+00:25:39,200 --> 00:25:40,700
+The robots are coming.
+
+310
+00:25:40,559 --> 00:25:42,059
+They are coming.
+
+311
+00:25:41,880 --> 00:25:46,000
+So they are going to come from China or they are going to come from the US.
+
+312
+00:25:46,000 --> 00:25:49,680
+No matter what, those two countries are going to be competing.
+
+313
+00:25:49,680 --> 00:25:52,960
+We are going to have to learn to live with robots.
+
+314
+00:25:52,960 --> 00:25:59,000
+But you don't have to fear too much right away because it is, like Rebecca pointed out,
+
+315
+00:25:59,000 --> 00:26:01,400
+going to take a considerable amount of time.
+
+316
+00:26:01,400 --> 00:26:05,800
+I speak with so many CEOs, top CEOs of robotics companies.
+
+317
+00:26:05,800 --> 00:26:11,000
+They all tell me the biggest issue right now, the number one issue besides the battery life,
+
+318
+00:26:11,000 --> 00:26:13,320
+they can solve that is maintenance.
+
+319
+00:26:13,320 --> 00:26:15,560
+These robots break down all the time.
+
+320
+00:26:15,560 --> 00:26:18,560
+They are hard to maintain, hard to repair.
+
+321
+00:26:18,560 --> 00:26:20,360
+They have many moving parts.
+
+322
+00:26:20,360 --> 00:26:21,860
+This is the huge challenge.
+
+323
+00:26:21,680 --> 00:26:23,180
+All right.
+
+324
+00:26:22,680 --> 00:26:27,880
+Well, Rebecca, when I talk about fear, I'm not just talking about technology, right?
+
+325
+00:26:27,880 --> 00:26:34,000
+Sometimes the more advanced the technology, the greater fear it is because people are fearing things such as ideology.
+
+326
+00:26:34,000 --> 00:26:35,800
+You have covered China so much.
+
+327
+00:26:35,800 --> 00:26:38,000
+You have talked to so many Chinese CEOs.
+
+328
+00:26:38,000 --> 00:26:42,440
+How would you react to this kind of skepticism or suspicion?
+
+329
+00:26:42,440 --> 00:26:49,080
+Well, I think people around the world are open to wherever they can get the best technology.
+
+330
+00:26:49,080 --> 00:26:54,280
+It's not necessarily a negative thing toward China just because China could make probably
+
+331
+00:26:54,280 --> 00:26:56,520
+the best humanoid robots right now.
+
+332
+00:26:56,920 --> 00:27:01,879
+It's not going to be a negative, but I think long term, it's whoever can.
+
+333
+00:27:01,879 --> 00:27:03,720
+We're in a global market space.
+
+334
+00:27:03,720 --> 00:27:09,160
+Whoever can do the best product at the best price, they're going to win.
+
+335
+00:27:09,160 --> 00:27:11,000
+Now, right now, we're in a competition.
+
+336
+00:27:11,000 --> 00:27:16,200
+China and US are in this incredible competition with one another over technology.
+
+337
+00:27:16,200 --> 00:27:21,720
+So some of that dynamic, which I just mentioned about the global marketplace is a little out
+
+338
+00:27:21,720 --> 00:27:26,600
+of the culture with China and US being such ferocious competitors.
+
+339
+00:27:26,600 --> 00:27:31,400
+But I think because we have regulations coming into play too.
+
+340
+00:27:31,400 --> 00:27:34,920
+So we have blocks on exports and imports, trade tariffs.
+
+341
+00:27:34,920 --> 00:27:40,360
+We've got a wargo, superpower war going on between these China and US and tech.
+
+342
+00:27:40,360 --> 00:27:47,000
+So that plays into this whole idea of global marketplace and whoever has the best product
+
+343
+00:27:47,000 --> 00:27:49,559
+at the best price wins.
+
+344
+00:27:49,559 --> 00:27:53,639
+Because right now, it is really just China and the US in technology.
+
+345
+00:27:54,200 --> 00:28:02,200
+Professor Liu, for the people who are watching this in Brazil, in Panama, in India, somewhere else,
+
+346
+00:28:03,000 --> 00:28:04,759
+what is it going to mean for them?
+
+347
+00:28:04,759 --> 00:28:10,679
+Because they're not going to have the kind of ecosystem to produce these high-tech products.
+
+348
+00:28:11,960 --> 00:28:13,799
+How are they going to be affected?
+
+349
+00:28:13,799 --> 00:28:16,679
+Keep it short, one minute maximum.
+
+350
+00:28:16,680 --> 00:28:23,400
+Well, I think people watch with very keen interest of what is really there to be
+
+351
+00:28:23,400 --> 00:28:25,320
+installed and what can be delivered.
+
+352
+00:28:25,960 --> 00:28:29,400
+So this is really very much a consensus.
+
+353
+00:28:29,400 --> 00:28:36,759
+But there are also some fears with regard to competition with who is really leading the world
+
+354
+00:28:36,759 --> 00:28:38,759
+in the robot era.
+
+355
+00:28:38,759 --> 00:28:45,560
+And there's also fear of past dependence and fear also from the watchdogs,
+
+356
+00:28:45,559 --> 00:28:52,919
+where they may really feel that they are losing control over the past type of regulations,
+
+357
+00:28:52,919 --> 00:29:00,119
+like when the driverless cars come to the road and how to regulate the traffic, etc.
+
+358
+00:29:00,119 --> 00:29:06,839
+And there's also fear, more importantly, with regard to the new users, because they do not know
+
+359
+00:29:07,879 --> 00:29:14,440
+what can really happen and if a certain robot really get out of control, what can be done.
+
+360
+00:29:14,440 --> 00:29:22,279
+So I think it's really a mixture of excitement, the key interest, and also certain fears.
+
+361
+00:29:22,279 --> 00:29:24,920
+But the future will be there.
+
+362
+00:29:24,920 --> 00:29:29,080
+So that's something that we have a common understanding.
+
+363
+00:29:29,080 --> 00:29:30,759
+That's what future is, right?
+
+364
+00:29:30,759 --> 00:29:32,440
+Because we cannot know.
+
+365
+00:29:32,440 --> 00:29:34,840
+All right, we have to leave at their time has ran out.
+
+366
+00:29:34,840 --> 00:29:39,480
+Many thanks to my guests, Professor Liu Baocheng, Rebecca Fennin, and Steve Hoffman
+
+367
+00:29:39,480 --> 00:29:41,720
+for sharing with us your valuable insight.
+
+368
+00:29:41,720 --> 00:29:43,220
+Thank you so much.
+
+369
+00:29:42,920 --> 00:29:46,840
+And many thanks to our viewers for having followed us on this edition of The Point
+
+370
+00:29:46,840 --> 00:29:49,720
+with me, Liu Xin, coming to you live from Beijing as usual.
+
+371
+00:29:49,720 --> 00:29:53,000
+You can follow me on Facebook, X and YouTube using the hand-to-Lixin in Beijing.
+
+372
+00:29:53,000 --> 00:29:55,320
+On behalf of the whole team, thank you for watching.
+
+373
+00:29:55,320 --> 00:29:59,880
+You've got the point.

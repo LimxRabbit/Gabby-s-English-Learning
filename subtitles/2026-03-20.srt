@@ -1,0 +1,1594 @@
+1
+00:00:30,000 --> 00:00:40,480
+China makes too many cars and the world is increasingly okay with it.
+中国生产的汽车过多，世界对此越来越接受。
+
+2
+00:00:40,480 --> 00:00:44,880
+That's how Bloomberg frames China's car exports.
+这就是彭博社对中国汽车出口的表述方式。
+
+3
+00:00:44,880 --> 00:00:50,840
+According to the latest data from the China Association of Automobile Manufacturers, total
+根据中国汽车工业协会的最新数据，全年首两个月的汽车出口总量
+
+4
+00:00:50,840 --> 00:00:57,679
+vehicle exports in the first two months of this year reached over 1.35 million units,
+超过135万辆，
+
+5
+00:00:57,679 --> 00:01:01,359
+marking a year-on-year increase of nearly 50%.
+同比增长近50%。
+
+6
+00:01:01,359 --> 00:01:07,519
+That's almost 1,000 new cars exported from China every hour.
+这相当于每小时从中国出口近1000辆新车。
+
+7
+00:01:07,519 --> 00:01:13,439
+New energy vehicles, or NUVs, let the surge with exports accounting for more than 40%
+新能源汽车（NUV）带动了出口激增，占比超过40%
+
+8
+00:01:13,439 --> 00:01:19,680
+of the total, so every hour almost 400 NUVs depart China.
+因此每小时几乎有400辆新能源车离开中国。
+
+9
+00:01:19,680 --> 00:01:21,719
+How to make sense of these numbers?
+如何解读这些数字？
+
+10
+00:01:21,719 --> 00:01:24,719
+What's fueling this hyper-accelerated growth?
+是什么推动了这种超高速增长？
+
+11
+00:01:24,719 --> 00:01:29,599
+Why are Chinese vehicles increasingly embraced around the world?
+为什么中国汽车在全球越来越受欢迎？
+
+12
+00:01:29,599 --> 00:01:34,799
+Welcome to this edition of The Point with Mili Xin, an opinion show coming to you live from Beijing.
+欢迎收看《锐评》本期节目，我是米莉欣，现场连线北京的观点秀。
+
+13
+00:01:34,799 --> 00:01:41,640
+I'm pleased to be joined from Xinjiang, southern China by Carl Fei, professor of strategy at B.I.
+我很高兴与来自新疆，中国南部的Carl Fei老师连线，他是B.I.的战略教授。
+
+14
+00:01:41,640 --> 00:01:44,039
+Norwegian Business School in Oslo.
+挪威商学院（位于奥斯陆）。
+
+15
+00:01:44,039 --> 00:01:51,159
+From Minneapolis, the U.S. by Xinlei, co-host of the podcast China EVs and More, and here
+来自美国明尼阿波利斯的Xinlei，播客《China EVs and More》的联合主持人，现正……
+
+16
+00:01:51,159 --> 00:01:56,479
+in the studio by Lee Luan, assistant professor of economics at Beijing University.
+本节目在北京大学经济学助理教授李璐安的演播室进行。
+
+17
+00:01:56,479 --> 00:01:59,039
+The warmest welcome to all of you gentlemen.
+向各位先生致以最热烈的欢迎。
+
+18
+00:01:59,039 --> 00:02:02,920
+First of all, let's take a closer look at the numbers.
+首先，让我们仔细看看这些数字。
+
+19
+00:02:02,920 --> 00:02:11,039
+In the first two months of 2026, China exported 1.35 million vehicles, an increase of almost
+2026年前两个月，中国出口了135万辆汽车，增长幅度接近
+
+20
+00:02:11,039 --> 00:02:13,319
+50% year-on-year, as I said.
+我所说的同比增长约50%。
+
+21
+00:02:13,319 --> 00:02:20,079
+And NUV cars account for over 40% of that, some 600,000 units.
+其中，NUV车型占比超过40%，约60万辆。
+
+22
+00:02:20,080 --> 00:02:24,600
+That's an increase of 110% year-on-year.
+这同比增长了110%。
+
+23
+00:02:24,600 --> 00:02:32,760
+Meanwhile, traditional combustion engine vehicle exports grew by 22%.
+与此同时，传统燃油车出口增长了22%。
+
+24
+00:02:32,760 --> 00:02:36,320
+So let me go to professor Carl Fei there.
+那么，我把话筒交给卡尔·费教授。
+
+25
+00:02:36,320 --> 00:02:37,820
+What are we seeing?
+我们看到的情况是什么？
+
+26
+00:02:37,800 --> 00:02:44,760
+Well, I think we're seeing EVs around the world becoming more popular.
+我认为，全球范围内的电动汽车正变得越来越受欢迎。
+
+27
+00:02:44,759 --> 00:02:52,879
+I think initially people were somewhat skeptical to buy a Chinese product that was so expensive,
+我认为起初人们对购买如此昂贵的中国产品持有一定怀疑，
+
+28
+00:02:52,879 --> 00:02:55,120
+wondering if the quality would be there.
+担心其质量是否达标。
+
+29
+00:02:55,120 --> 00:02:59,759
+But they're seeing that Chinese EVs actually are really quite good.
+但他们发现中国电动汽车实际上相当不错。
+
+30
+00:02:59,759 --> 00:03:05,840
+And this now is giving confidence to people to buy Chinese EVs.
+这也让人们对购买中国电动汽车更有信心。
+
+31
+00:03:05,840 --> 00:03:13,359
+I'm based in Oslo, Norway, and Norway now has the world's largest percentage of EV sales,
+我常驻挪威奥斯陆，挪威目前拥有全球最高的电动汽车销售占比，
+
+32
+00:03:13,400 --> 00:03:18,880
+98% of all new car sales in Norway are actually EVs.
+挪威所有新车销售中，98% 实际上是电动汽车。
+
+33
+00:03:18,880 --> 00:03:22,120
+And Chinese EVs are becoming increasingly popular.
+而且中国电动汽车正变得越来越受欢迎。
+
+34
+00:03:22,120 --> 00:03:27,440
+In fact, one of the things that's helped Norway have such a high percentage of EVs is that
+事实上，帮助挪威拥有如此高电动汽车占比的因素之一是，
+
+35
+00:03:27,440 --> 00:03:36,040
+they have not put an additional high tax on Chinese EVs, unlike most of Europe and the
+他们没有像欧洲大多数国家和
+
+36
+00:03:36,040 --> 00:03:37,640
+United States.
+美国那样，对中国电动汽车征收额外的高额税收。
+
+37
+00:03:37,640 --> 00:03:44,879
+I think the other thing that has helped Chinese EVs is that they are really ahead in terms of features.
+我认为另一个帮助中国电动汽车的因素是，它们在功能方面确实处于领先地位。
+
+38
+00:03:44,879 --> 00:03:51,719
+So they've been doing really quick development and having better features than other places.
+因此，他们的研发速度非常快，并且拥有比其他地区更好的功能。
+
+39
+00:03:51,719 --> 00:03:58,759
+But probably the weakness that Chinese EVs need to work on is further increasing their brand awareness.
+但中国电动汽车可能需要进一步加强的弱点是提高品牌知名度。
+
+40
+00:03:58,759 --> 00:04:03,280
+That's Achilles' heel of Chinese EVs at the moment.
+目前，这是中国电动汽车的阿喀琉斯之踵。
+
+41
+00:04:03,280 --> 00:04:05,919
+Mr. Shingle, what is your take on the picture?
+辛格尔先生，您如何看待这一局面？
+
+42
+00:04:05,919 --> 00:04:08,919
+Do you agree with Professor Fei's assessment?
+您同意费教授的评估吗？
+
+43
+00:04:08,919 --> 00:04:17,240
+And also, among any of these, the Chinese made battery electric vehicles, or BEVs, and
+此外，在这些车型中，中国制造的动力电池电动汽车（BEV）和
+
+44
+00:04:17,240 --> 00:04:24,279
+plug-in hybrids, or PHEVs, both seem to be doing well, especially the growth of PHEVs,
+插电式混合动力汽车（PHEV）似乎都表现良好，尤其是插电式混合动力汽车
+
+45
+00:04:24,279 --> 00:04:29,800
+the plug-in hybrids, growing by 120%.
+的增长率达到了 120%。
+
+46
+00:04:29,800 --> 00:04:31,639
+What's fueling this?
+是什么在推动这件事？
+
+47
+00:04:31,639 --> 00:04:36,639
+Yeah, I think the key word that Karl mentioned is popularity.
+是的，我认为卡尔提到的关键词是‘受欢迎程度’。
+
+48
+00:04:36,639 --> 00:04:42,079
+I'd like to add a few more tees that I mentioned before.
+我想再补充几条我之前提到的要点。
+
+49
+00:04:42,079 --> 00:04:47,479
+Affordability, quality, availability, and just feature.
+可负担性、质量、可获得性以及功能。
+
+50
+00:04:47,479 --> 00:04:55,439
+And the world over the last few years have had an experience with Chinese EVs, and they know how good they are.
+过去几年，全球已经体验过中国电动汽车，并且了解它们的优秀之处。
+
+51
+00:04:55,439 --> 00:04:56,939
+So that's number one.
+所以这是第一点。
+
+52
+00:04:56,439 --> 00:05:01,199
+But actually, coming back to the numbers, I know you're going to share a lot of the
+但实际上，回到数字上，我知道你会分享很多。
+
+53
+00:05:01,199 --> 00:05:03,759
+numbers, but we're at the beginning of the year.
+数字，但我们正处于年初。
+
+54
+00:05:04,199 --> 00:05:11,480
+Having covered the Chinese auto industry for a long time, we always have that kind of law
+长期关注中国汽车行业，我们总会有那种规律。
+
+55
+00:05:11,480 --> 00:05:14,879
+at the beginning of the year due to the seasonality issues.
+在年初会受到季节性因素的影响。
+
+56
+00:05:14,879 --> 00:05:22,439
+So the domestic market tends to be slowed down a bit, whereas the rest of the world, we're still pushing, right?
+因此国内市场往往会稍有放缓，而全球其他地区仍在加速推进，对吧？
+
+57
+00:05:22,439 --> 00:05:26,360
+And so you see this kind of discrepancy.
+于是你会看到这种差异。
+
+58
+00:05:26,360 --> 00:05:33,279
+But I'd like to wait until we make some of the conclusions, maybe until after Q1, and
+但我想等到我们得出一些结论，或许在第一季度结束后，再。
+
+59
+00:05:33,279 --> 00:05:40,839
+going into the early spring, summer months to see those percentages, where do they go from here?
+进入初春、夏季，观察这些比例，它们会走向何方？
+
+60
+00:05:40,839 --> 00:05:44,799
+Yeah, I totally agree with you.
+是的，我完全同意你的观点。
+
+61
+00:05:44,799 --> 00:05:48,799
+Two months, it doesn't say much.
+才两个月，说明不了什么。
+
+62
+00:05:48,799 --> 00:05:55,559
+Nevertheless, the numbers are pretty impressive, especially compared with the background for
+尽管如此，这些数字还是相当令人印象深刻的，尤其是与
+
+63
+00:05:55,559 --> 00:05:57,119
+the whole year 2025.
+2025 年全年的背景相比。
+
+64
+00:05:57,119 --> 00:06:02,839
+For instance, China's total vehicle exports grew by 30%.
+例如，中国汽车总出口增长了 30%。
+
+65
+00:06:02,919 --> 00:06:08,519
+Now we're only in the first two months of this year, and that number jumped to almost 50%.
+现在才是一年的前两个月，而这一数字已跃升至近 50%。
+
+66
+00:06:08,519 --> 00:06:13,079
+Professor Li, what are you reading here?
+李教授，您在这里看什么？
+
+67
+00:06:13,079 --> 00:06:15,759
+Is the trend picking up, or is it too early to tell?
+趋势是在加速，还是现在下结论为时过早？
+
+68
+00:06:15,759 --> 00:06:17,879
+I think it's definitely picking up.
+我认为趋势确实在加速。
+
+69
+00:06:17,879 --> 00:06:24,199
+And especially not only for the NEVs, we're also seeing, as you mentioned, the combustion
+而且不仅仅是新能源车，正如您提到的，燃油车，
+
+70
+00:06:24,199 --> 00:06:30,759
+engine, the traditional vehicle is also picking up a 22% increase annually.
+传统车辆也在以每年22%的速度增长。
+
+71
+00:06:30,759 --> 00:06:36,599
+So I think that is representing some of the cost advantage, some of the innovation of
+所以我认为，这代表了中国车企的一些成本优势和
+
+72
+00:06:36,599 --> 00:06:41,639
+Chinese automakers are going to spill over to the traditional industry as well.
+一些创新，也将溢出到传统汽车行业。
+
+73
+00:06:41,639 --> 00:06:48,639
+And for some emerging markets, people are not thinking about whether I should drive a traditional vehicle or EV.
+对于某些新兴市场，人们并不在想我应该开传统车还是电动车。
+
+74
+00:06:48,639 --> 00:06:53,159
+They're mostly thinking, what's the most affordable way to buy a vehicle?
+他们主要在想，买车的最低成本方式是什么？
+
+75
+00:06:53,159 --> 00:06:58,759
+So in that sense, Chinese automakers can also provide an alternative option, providing
+从这个意义上说，中国车企也能提供一个替代选择，提供
+
+76
+00:06:58,759 --> 00:07:02,680
+all of these traditional combustion engine vehicles.
+所有这些传统燃油发动机车辆。
+
+77
+00:07:02,680 --> 00:07:05,360
+That's also going to be helpful for the local consumers.
+这也将有助于当地消费者。
+
+78
+00:07:05,360 --> 00:07:12,279
+And I think the reason behind this upticking trend is that we have built up the entire
+我认为这一上升趋势背后的原因是我们已经建立了完整的
+
+79
+00:07:12,279 --> 00:07:17,879
+ecosystem, not only our production capability, but also the charging network.
+生态系统，不仅包括我们的生产能力，还包括充电网络。
+
+80
+00:07:17,879 --> 00:07:25,599
+So we're exporting not only the product, but the entire lifestyle, the entire infrastructure that's associated with EV.
+因此，我们出口的不仅是产品，还有与电动汽车相关的整个生活方式和完整基础设施。
+
+81
+00:07:25,600 --> 00:07:33,720
+And also we're also producing other alternatives like the traditional combustion engine vehicles.
+我们也在生产其他替代品，例如传统燃油发动机车辆。
+
+82
+00:07:33,720 --> 00:07:39,040
+So that's providing the entire product chain for consumers.
+这为消费者提供了完整的产品链。
+
+83
+00:07:39,040 --> 00:07:45,120
+What is this putting the competitors, for instance, China has been the world's largest
+这对竞争对手意味着什么，例如，中国一直是全球最大的
+
+84
+00:07:45,120 --> 00:07:52,879
+producer and exporter of cars, including NEVs, actually the number of cars that China exports
+汽车生产和出口国，包括新能源汽车，实际上中国出口的汽车数量
+
+85
+00:07:52,879 --> 00:08:00,439
+is equals to the combined total of the second and third place, which is Japan and Germany.
+等于第二、第三名（日本和德国）合计的总量。
+
+86
+00:08:00,439 --> 00:08:08,600
+So Professor Carl Fe, what is going to be the picture of these kind of ranking as we
+那么，Carl Fe 教授，随着我们
+
+87
+00:08:08,600 --> 00:08:11,199
+go forward?
+前进时，这种排名的情况会是怎样的？
+
+88
+00:08:11,199 --> 00:08:14,159
+Well I think Chinese EVs are going to continue to be strong.
+我认为中国电动汽车将继续保持强劲。
+
+89
+00:08:14,159 --> 00:08:21,120
+As I said, the key issue is that their customers are getting more confident in them.
+正如我所说，关键问题是他们的客户对其信心日益增强。
+
+90
+00:08:21,120 --> 00:08:27,280
+And I don't think that's going to do anything but increase because it is an excellent product.
+我认为这只会进一步提升，因为它是一款优秀的产品。
+
+91
+00:08:27,280 --> 00:08:31,199
+It's a much better product than the reputation.
+比其声誉更好的产品。
+
+92
+00:08:31,199 --> 00:08:33,919
+So I think we're going to see that moving forward.
+所以我认为未来我们会看到这一点。
+
+93
+00:08:33,919 --> 00:08:37,419
+Chinese EV manufacturers have done a couple of smart things.
+中国电动车制造商做了几件聪明的事。
+
+94
+00:08:37,419 --> 00:08:40,200
+Number one, they've been quick to get lots of features.
+第一，他们迅速引入了许多功能。
+
+95
+00:08:40,200 --> 00:08:46,600
+Number two, they have put a lot of focus on some inexpensive models for countries like
+第二，他们非常关注针对南美、
+
+96
+00:08:46,600 --> 00:08:52,480
+in South America, Africa, Middle East, which has been really successful.
+非洲、中东等国家的低价车型，这非常成功。
+
+97
+00:08:52,480 --> 00:08:58,519
+Number three, they've realized that the entire world doesn't have as good infrastructure as China does.
+第三，他们意识到全世界并没有像中国那样完善的基础设施。
+
+98
+00:08:58,519 --> 00:09:03,159
+And that's the reason that these hybrids have been doing really well because if you don't
+这就是为什么这些混动车型表现如此好的原因，因为如果你没有
+
+99
+00:09:03,159 --> 00:09:10,560
+have charging stations everywhere, well you may be a little bit hesitant to buy an EV.
+到处都有充电站，那么你可能会有点犹豫是否购买电动车。
+
+100
+00:09:10,560 --> 00:09:12,440
+So that's been one issue.
+所以这是一个问题。
+
+101
+00:09:12,440 --> 00:09:18,520
+The other thing that Chinese EV manufacturers have been doing in recent years is especially,
+近年来，中国电动汽车制造商做的另一件特别的事情是，
+
+102
+00:09:18,520 --> 00:09:25,200
+let's say even over the last year, is really expanding the manufacturing facilities overseas.
+可以说在过去一年里，他们确实在海外大幅扩展了制造设施。
+
+103
+00:09:25,200 --> 00:09:32,080
+So for example, BYD's Factory in Hungary is making people in Europe feel sort of a little
+例如，比亚迪在匈牙利的工厂让欧洲人在购买中国电动汽车时感觉稍微
+
+104
+00:09:32,080 --> 00:09:41,400
+happier about buying a Chinese EV but one that is produced in Europe.
+开心了一些，因为这是一辆在欧洲生产的车。
+
+105
+00:09:41,399 --> 00:09:48,639
+And we also see that, for example, with the building of a facility in Brazil to get around
+我们还看到，例如在巴西建设设施以规避
+
+106
+00:09:48,639 --> 00:09:53,840
+the tariff problems of importing into Mexico and then on to the US.
+将货物进口到墨西哥再运往美国的关税问题。
+
+107
+00:09:53,840 --> 00:09:59,759
+So I think we're going to see Chinese EV's position continue to strengthen.
+所以我认为中国电动汽车的地位将继续加强。
+
+108
+00:09:59,759 --> 00:10:03,919
+And of course, some people are going to criticize this saying, well, there was sort of too much
+当然，有些人会批评说，补贴有点过多。
+
+109
+00:10:03,919 --> 00:10:07,960
+subsidy from the government or whatever and this is what's helping this.
+政府的补贴之类的，这正是帮助它的原因。
+
+110
+00:10:07,960 --> 00:10:13,600
+I'd like to remind if we would have this conversation 10 or 15 years ago, people would be questioning,
+我想提醒大家，如果我们在十到十五年前进行这场对话，人们会质疑，
+
+111
+00:10:13,600 --> 00:10:18,160
+can anyone produce an EV at a low enough price that people are going to actually buy it?
+是否有人能以足够低的价格生产电动汽车，让人们真的愿意购买？
+
+112
+00:10:18,160 --> 00:10:26,600
+And so I would say the world should be thanking China for helping the EV industry to develop
+因此，我认为全世界应该感谢中国帮助电动汽车行业发展
+
+113
+00:10:26,600 --> 00:10:33,120
+so that we can all advance in becoming greener because we're all interconnected and so this
+让我们都能在变得更环保的道路上前进，因为我们相互关联，这
+
+114
+00:10:33,120 --> 00:10:35,440
+green transition is really important.
+绿色转型真的非常重要。
+
+115
+00:10:35,760 --> 00:10:37,400
+You're welcome.
+不客气。
+
+116
+00:10:37,400 --> 00:10:41,520
+Let's take a look at the buyers though.
+不过，让我们来看看买家。
+
+117
+00:10:41,520 --> 00:10:43,020
+Absolutely.
+当然。
+
+118
+00:10:42,840 --> 00:10:50,640
+They must have been benefiting from these Chinese cars, hence the picking up of orders from China.
+他们一定是受益于这些中国汽车，因此才会从中国接单。
+
+119
+00:10:50,640 --> 00:10:58,000
+The biggest buyers, if you think about all types of vehicles, they are Mexico, Russia,
+如果考虑所有类型的车辆，最大的买家是墨西哥、俄罗斯，
+
+120
+00:10:58,000 --> 00:11:05,720
+UAE, UK and of course other countries such as Brazil or countries in Southeast Asia.
+阿联酋、英国，以及当然还有巴西等其他国家或东南亚国家。
+
+121
+00:11:05,720 --> 00:11:12,639
+Mr. Xinglei, why these countries and why in such order, for instance, Mexico comes at
+邢磊先生，为什么是这些国家，而且顺序是这样的，比如墨西哥排在
+
+122
+00:11:12,639 --> 00:11:14,279
+the top?
+第一位？
+
+123
+00:11:14,279 --> 00:11:15,779
+Yeah.
+是的。
+
+124
+00:11:15,559 --> 00:11:22,320
+Yeah, so Mexico is quite an interesting case because on January 1st of this year, there
+是的，墨西哥是一个相当有趣的案例，因为今年1月1日，
+
+125
+00:11:22,320 --> 00:11:31,200
+was a 50% extra tariff on Chinese-made vehicles and components put in place that's partially
+针对中国制造的车辆和零部件加征了50%的额外关税，这在一定程度上
+
+126
+00:11:31,200 --> 00:11:38,840
+pressured from the Trump administration because they're reworking the USMCA agreement.
+是特朗普政府施压的结果，因为他们正在重新修订《美墨加协定》。
+
+127
+00:11:38,840 --> 00:11:47,920
+So hence in 2025, you saw a kind of a spike putting Mexico as the number one export destination
+因此，在2025年，你看到墨西哥作为第一大出口目的地的情况出现了一种激增，
+
+128
+00:11:47,920 --> 00:11:52,160
+but this year, we don't know if that will be the case.
+但今年，我们不知道这种情况是否还会持续。
+
+129
+00:11:52,159 --> 00:12:00,399
+So I think policy is one area where that was kind of an outlier but I mean before that,
+我认为政策是一个导致这种异常情况的领域，但在那之前，
+
+130
+00:12:00,399 --> 00:12:03,759
+Mexico was actually quite the consumers there, right?
+墨西哥实际上也是相当多的消费者所在地，对吧？
+
+131
+00:12:03,759 --> 00:12:05,799
+The type of vehicles that are exported.
+出口车辆的类型。
+
+132
+00:12:05,799 --> 00:12:11,120
+I was in Cancun last year and I felt like I was in China because so many of these compact
+我去年在坎昆，感觉就像在中国，因为这么多紧凑型
+
+133
+00:12:11,120 --> 00:12:18,199
+SUVs, affordable, ICE vehicle, not only any of these are very popular.
+SUV，价格实惠的燃油车，其中任何一款都非常受欢迎。
+
+134
+00:12:18,200 --> 00:12:22,280
+They've established a good presence and popularity there.
+它们在那里建立了良好的存在感和知名度。
+
+135
+00:12:22,280 --> 00:12:24,320
+So that's a major reason.
+所以这是一个主要原因。
+
+136
+00:12:24,320 --> 00:12:27,600
+So it's import for the local markets, Mr. Xinglei.
+所以这对本地市场很重要，邢磊先生。
+
+137
+00:12:27,600 --> 00:12:31,520
+What was the question?
+问题是什么？
+
+138
+00:12:31,520 --> 00:12:39,879
+Yeah, is it mostly imports for the local consumers or is there a possibility that somehow these
+是的，主要是进口给本地消费者，还是有可能这些
+
+139
+00:12:39,879 --> 00:12:47,600
+cars may end up because of the interest of American consumers?
+汽车会因为美国消费者的兴趣而最终流向他们吗？
+
+140
+00:12:47,600 --> 00:12:49,100
+That's right.
+没错。
+
+141
+00:12:48,600 --> 00:12:55,360
+Well, I mean, this is a thorny issue because at the same time that Mexico is under pressure
+嗯，我的意思是，这是一个棘手的问题，因为与此同时墨西哥正受到
+
+142
+00:12:55,360 --> 00:12:59,560
+from the Trump administration, they want investment from China.
+特朗普政府的压力，他们希望获得中国的投资。
+
+143
+00:12:59,560 --> 00:13:06,019
+So recently there's rumors about a couple of Chinese companies, BYD, I think was one
+最近有传闻称几家中国公司，其中比亚迪可能是其中之一
+
+144
+00:13:06,019 --> 00:13:13,200
+acquiring possibly some of the plants operated by Japanese automakers in Mexico.
+可能收购在墨西哥由日本汽车制造商运营的部分工厂。
+
+145
+00:13:13,200 --> 00:13:19,440
+That's kind of at a standstill, but eventually I think anywhere in the world what you're
+这有点停滞不前，但我认为最终在全球任何地方，你们
+
+146
+00:13:19,440 --> 00:13:28,520
+going to see is produce where you sell, including the US.
+都会看到在销售地进行生产，包括美国。
+
+147
+00:13:28,520 --> 00:13:30,520
+Interesting.
+有意思。
+
+148
+00:13:30,520 --> 00:13:38,160
+Professor Li, is that going to be the kind of future trend that we're seeing, not just
+李教授，这会成为我们看到的未来趋势吗，不仅仅是
+
+149
+00:13:38,159 --> 00:13:45,519
+buying cars from China, but also introducing technology, know how investment from China
+从中国购买汽车，还包括引入技术、专有技术投资
+
+150
+00:13:45,519 --> 00:13:47,019
+to produce locally?
+在本地生产？
+
+151
+00:13:46,839 --> 00:13:53,839
+Is that what's going to happen or do you foresee that the exporting, buying export cars from
+这是即将发生的情况，还是你预见从中国购买出口汽车
+
+152
+00:13:53,839 --> 00:13:58,600
+China will continue for a foreseeable period of time?
+在可预见的时期内会继续下去？
+
+153
+00:13:58,600 --> 00:14:05,759
+Yeah, I mean for countries like Mexico or Brazil or potentially US, but I'm not very hopeful there.
+是的，我的意思是对于墨西哥或巴西，或者潜在的美国市场，但我对此不太乐观。
+
+154
+00:14:05,759 --> 00:14:11,960
+I think it's possible, it's likely, including for countries like Hungary, there could be
+我认为这是可能的，也是很可能发生的，包括像匈牙利这样的国家，有可能
+
+155
+00:14:11,960 --> 00:14:18,759
+a possibility that some of the production capability locally can satisfy the demand locally.
+当地的一些生产能力可以满足当地的需求。
+
+156
+00:14:18,759 --> 00:14:23,879
+But I think overall for the majority of the countries, at least in the short term, we're
+但我想总体而言，对于大多数国家来说，至少在短期内，我们
+
+157
+00:14:23,879 --> 00:14:28,559
+still going to observe the pattern that China is going to produce the majority of these
+仍然会观察到这样一种模式：中国将在国内生产这些
+
+158
+00:14:28,559 --> 00:14:34,279
+vehicles domestically in China because we're already seeing that the Chinese markets are
+车辆的大部分，因为我们已经看到中国市场
+
+159
+00:14:34,279 --> 00:14:37,559
+beginning to show signs of mature.
+开始显示出成熟的迹象。
+
+160
+00:14:37,559 --> 00:14:39,059
+Saturation?
+饱和？
+
+161
+00:14:38,559 --> 00:14:40,059
+Yes, exactly.
+是的，完全正确。
+
+162
+00:14:39,559 --> 00:14:45,319
+We're seeing the price competition becoming more intensive.
+我们看到价格竞争变得更加激烈。
+
+163
+00:14:45,319 --> 00:14:51,679
+So I think in the long term these Chinese automakers are going to use some of that price advantage,
+所以我认为从长远来看，这些中国汽车制造商将利用其中的一些价格优势，
+
+164
+00:14:51,679 --> 00:14:56,879
+some of that innovation, some of that edge in their technology and apply it overseas and
+一些创新，以及他们在技术上的优势，并将其应用于海外，
+
+165
+00:14:56,879 --> 00:14:59,519
+that's going to be the ultimate goal.
+那将是最终目标。
+
+166
+00:14:59,519 --> 00:15:03,480
+So whether we're talking about building more factories in China or building locally, it
+所以无论我们是在谈论在中国建更多工厂，还是在本地建造，
+
+167
+00:15:03,480 --> 00:15:08,519
+all depends on the tariffs, it depends on the geopolitical tensions, but overall I think
+一切都取决于关税，取决于地缘政治紧张局势，但总体上我认为
+
+168
+00:15:08,519 --> 00:15:15,440
+the trend is irreversible that we're definitely going to sell more EVs made by or in China.
+这一趋势是不可逆转的，我们肯定会销售更多在中国制造或由中国生产的电动汽车。
+
+169
+00:15:15,440 --> 00:15:21,759
+Mr. Xinglei, according to your observation, is adoption rate a problem, an obstacle for
+Xinglei 先生，根据您的观察，采纳率是否是一个问题，成为
+
+170
+00:15:21,759 --> 00:15:25,320
+Chinese exports of electric cars?
+中国电动汽车出口的障碍？
+
+171
+00:15:25,320 --> 00:15:28,920
+Well, yeah, I mean I can take a shot at that question.
+嗯，是的，我可以尝试回答这个问题。
+
+172
+00:15:28,919 --> 00:15:36,039
+Obviously China, I think the latest numbers is like 20 million, I could be wrong but it's
+显然是中国，我记得最新的数据大约是两千万人，我可能记错了，但它是
+
+173
+00:15:36,039 --> 00:15:42,120
+the tens of millions of chargers, charging piles already as part of the infrastructure,
+数千万个充电桩，已经作为基础设施的一部分，
+
+174
+00:15:42,120 --> 00:15:45,759
+but that's not nearly as much everywhere else in the world.
+但在世界其他地区远远没有这么多。
+
+175
+00:15:45,759 --> 00:15:53,480
+So what you're seeing is the export of actually plug-ins and a lot of the ICs and I think
+所以你看到的实际上是插电式汽车以及大量集成电路的出口，我认为
+
+176
+00:15:53,480 --> 00:16:01,480
+one thing to mention is I think people might be surprised that a lot of the exports, especially
+有一点需要说明的是，我认为人们可能会惊讶于大量的出口，尤其是
+
+177
+00:16:01,480 --> 00:16:08,480
+of the ICE vehicles, are actually now increasingly coming from the foreign manufacturers, the
+内燃机车辆的出口，实际上现在越来越多地来自
+
+178
+00:16:08,480 --> 00:16:14,680
+joint ventures, the Fords, the Volkswagen, they're actually exporting some of the ICE
+外国制造商、合资企业、福特、大众等，它们实际上正在出口部分在中国生产的内燃机车辆
+
+179
+00:16:14,680 --> 00:16:21,200
+vehicles from where they're produced in China to other parts of the world.
+从中国生产的这些车辆出口到世界其他地区。
+
+180
+00:16:21,240 --> 00:16:26,200
+So I think you've seen the kind of the plug-ins getting more popular.
+所以我想你已经看到插电式汽车越来越受欢迎。
+
+181
+00:16:26,200 --> 00:16:31,960
+Also for Europe, it's bypassing the current tariff in place, although discussions are
+对于欧洲也是如此，它绕过了目前实施的关税，尽管关于最低价格的讨论
+
+182
+00:16:31,960 --> 00:16:39,640
+ongoing about minimum pricing and I think we're going to hear more companies maybe getting
+仍在进行中，我想我们将听到更多公司可能获得
+
+183
+00:16:39,640 --> 00:16:41,960
+some kind of approval.
+某种批准。
+
+184
+00:16:41,960 --> 00:16:49,400
+Volkswagen and Anhui was one of the examples where they're not a part of tariff.
+大众和安徽就是一个例子，他们不属于关税范围。
+
+185
+00:16:49,480 --> 00:16:51,679
+What about the case of Belgium?
+那比利时的情况呢？
+
+186
+00:16:51,679 --> 00:16:56,759
+Belgium is one of the top buyers of Chinese and EVs.
+比利时是中国电动汽车的主要买家之一。
+
+187
+00:16:56,759 --> 00:17:02,279
+Mr. Kalfe, can you help us understand the case of Belgium because it is part of EU.
+卡尔费先生，您能帮我们理解一下比利时的情况吗？因为它是欧盟的一部分。
+
+188
+00:17:02,279 --> 00:17:04,000
+It's not the case with the UK.
+这与英国的情况不同。
+
+189
+00:17:04,000 --> 00:17:07,119
+UK is one of the top buyers of Chinese EVs.
+英国是中国电动汽车的主要买家之一。
+
+190
+00:17:07,119 --> 00:17:09,079
+What about Belgium?
+那比利时呢？
+
+191
+00:17:09,079 --> 00:17:15,240
+Don't they have to worry about the kind of trade friction between China and the EU that's going on?
+他们难道不担心正在发生的中欧贸易摩擦吗？
+
+192
+00:17:16,240 --> 00:17:21,799
+Yeah, I think there is some challenges there, of course, but they've been doing pretty well.
+是的，我认为那里确实存在一些挑战，当然，但他们做得相当不错。
+
+193
+00:17:21,799 --> 00:17:29,000
+I think Chinese EV manufacturers have spent a lot of effort in trying to build brands there.
+我认为中国电动汽车制造商在那里投入了大量精力来打造品牌。
+
+194
+00:17:29,000 --> 00:17:34,680
+The other thing that's happened in the EU and in Belgium in particular is that recently
+在欧盟，特别是比利时，最近发生的另一件事是
+
+195
+00:17:34,680 --> 00:17:44,079
+there have been a relaxation of the idea to phase out all gas-powered and hybrid cars
+关于逐步淘汰所有燃油车和混合动力车的想法有所放宽
+
+196
+00:17:44,079 --> 00:17:46,960
+in the next 10 years or so.
+在未来大约十年左右。
+
+197
+00:17:46,960 --> 00:17:53,439
+This has, especially for the hybrid cars, but even for other types of cars, created a little
+这尤其对混合动力汽车而言，甚至对其他类型的汽车，也带来了一些
+
+198
+00:17:53,439 --> 00:17:59,919
+more possibility to buy hybrids now.
+更多购买混合动力汽车的可能性。
+
+199
+00:17:59,919 --> 00:18:05,000
+That has been one thing that has been really pushing things forward.
+这正是推动事物向前发展的一个因素。
+
+200
+00:18:05,000 --> 00:18:13,679
+What about the kind of cars that are sold as Chinese-made and EVs?
+那么那些标称为中国制造的电动汽车呢？
+
+201
+00:18:14,279 --> 00:18:15,799
+Help us break it down here.
+请帮我们在这里拆解说明。
+
+202
+00:18:15,799 --> 00:18:24,400
+Of course, we have the Chinese brands, the BYD, the Xiaomi, you name it, but there are
+当然，我们有中国品牌，比如比亚迪、小米，诸如此类，但还有
+
+203
+00:18:24,400 --> 00:18:29,240
+also the foreign-funded brands.
+外资品牌。
+
+204
+00:18:29,240 --> 00:18:36,120
+Help us understand who are the producers of these cars that are being exported.
+请帮助我们了解这些出口汽车的生产商是谁。
+
+205
+00:18:36,120 --> 00:18:42,200
+We are already seeing, for example, when the German Chancellor Merz visited China, some
+例如，当德国总理梅尔茨访问中国时，我们已经看到一些
+
+206
+00:18:42,240 --> 00:18:49,160
+of the most advanced models of Mercedes-Benz is actually here, being manufactured here
+最先进的梅赛德斯-奔驰车型实际上就在这里，在中国生产
+
+207
+00:18:49,160 --> 00:18:51,279
+in China as well.
+也在中国。
+
+208
+00:18:51,279 --> 00:18:56,440
+Even though I think domestically and abroad, we have a lot of Chinese automakers, as you
+即使如此，我认为在国内外都有大量的中国汽车制造商，正如你所说
+
+209
+00:18:56,440 --> 00:19:03,039
+mentioned, because of the fierce competition that's being posed to these traditional car makers.
+由于对这些传统汽车制造商构成的激烈竞争。
+
+210
+00:19:03,039 --> 00:19:10,799
+These car makers, including Mercedes-Benz, including BMW, Volkswagen, and also American
+这些汽车制造商，包括梅赛德斯-奔驰、宝马、大众，以及美国的
+
+211
+00:19:10,919 --> 00:19:17,240
+car makers, are increasingly doubling down in its investments in traditional EVs.
+汽车制造商正越来越多地加倍投入传统电动汽车领域。
+
+212
+00:19:17,240 --> 00:19:22,000
+I don't have the exact number of breakdown of how much of them are from Chinese automakers
+我没有确切的数据来细分其中有多少来自中国车企，
+
+213
+00:19:22,000 --> 00:19:27,639
+and how much of them are from these foreign ventures or foreign car makers.
+又有多少来自这些外资企业或外国汽车制造商。
+
+214
+00:19:27,639 --> 00:19:34,079
+I think overall, this very healthy ecosystem, very healthy competition in China is going
+我认为总体而言，中国非常健康的生态系统和激烈的竞争
+
+215
+00:19:34,079 --> 00:19:40,359
+to promote innovation, is going to promote the competition in a way that is going to
+将促进创新，并以一种能够带来更多
+
+216
+00:19:40,439 --> 00:19:42,599
+bring more car models.
+车型的方式推动竞争。
+
+217
+00:19:42,599 --> 00:19:48,519
+That's why I think a lot of times foreign buyers are very interested in Chinese EV,
+这就是为什么我认为很多时候外国买家对中国电动汽车非常感兴趣，
+
+218
+00:19:48,519 --> 00:19:55,519
+because our whole innovation cycle, the time between having this concept to fully develop
+因为我们的整个创新周期，从概念到能够全球销售
+
+219
+00:19:55,519 --> 00:20:02,519
+a car model that's being able to sell globally is as short as 18 months, but in some other
+的完整车型开发，最短仅需18个月，而在一些其他
+
+220
+00:20:02,519 --> 00:20:06,919
+countries that cycle is going to be as long as five years.
+国家，这个周期可能长达五年。
+
+221
+00:20:06,960 --> 00:20:12,440
+If we have a short development cycle for products, I think that's going to also be a good advantage.
+如果产品的开发周期较短，我认为这也将是一个很大的优势。
+
+222
+00:20:12,440 --> 00:20:19,440
+You were talking about something that's very interesting, the transfer of Chinese know-how
+你刚才提到了一件非常有趣的事情，即中国技术
+
+223
+00:20:19,440 --> 00:20:23,840
+to the former teachers of Chinese producers.
+向中国生产商的前任教师的转移。
+
+224
+00:20:23,840 --> 00:20:26,360
+Let's set that aside for the time being.
+让我们暂时把这个问题放一边。
+
+225
+00:20:26,360 --> 00:20:31,960
+Of course, there's a big point of discussion, what is the increasing Chinese export of cars
+当然，有一个很大的讨论点，那就是中国汽车出口的增加
+
+226
+00:20:31,960 --> 00:20:35,440
+and EVs going to mean for local producers.
+以及电动汽车对本地生产商意味着什么。
+
+227
+00:20:35,480 --> 00:20:40,640
+For the time being, since we do not have that much time, Professor Kauffe is the war in
+目前，由于我们没有太多时间，Kauffe教授是战争中的。
+
+228
+00:20:40,640 --> 00:20:48,640
+Iran going to accelerate the popularity, the import of Chinese-made EV cars?
+伊朗会加速中国制造电动汽车的流行和进口吗？
+
+229
+00:20:50,799 --> 00:20:52,299
+Well, maybe a little bit.
+嗯，也许有一点。
+
+230
+00:20:51,799 --> 00:20:54,279
+I guess it depends how long people think it's going to last.
+我想这取决于人们认为它会持续多久。
+
+231
+00:20:54,279 --> 00:21:00,799
+I think many people are hoping it's going to be rather short-lived, so I'm not sure
+我认为很多人希望它持续的时间相对短暂，所以我不确定。
+
+232
+00:21:00,799 --> 00:21:07,720
+it'll have a huge effect, but of course, gas has really been going up in price all around,
+它会产生巨大的影响，但当然，汽油价格在全球范围内真的在上涨，
+
+233
+00:21:07,720 --> 00:21:14,399
+and so you go to the pump, you have to pay much more than before, and so it has, of course,
+所以当你去加油站时，需要支付比以前多得多的费用，这当然也会，
+
+234
+00:21:14,399 --> 00:21:20,000
+some effect as well, but I think the big effect will be if people think it will last longer.
+也会有一些影响，但我认为更大的影响在于人们如果认为它会持续更久。
+
+235
+00:21:20,000 --> 00:21:22,359
+Mr. Xing, what is your take?
+邢先生，您怎么看？
+
+236
+00:21:22,359 --> 00:21:26,399
+Well, I'm putting my consumer ahead, honestly.
+嗯，说实话，我把消费者放在首位。
+
+237
+00:21:26,480 --> 00:21:31,320
+I'm switching to an EV in the US, not because of the gas prices, because of my calculated
+我在美国转向电动汽车，并不是因为油价，而是基于我的计算，
+
+238
+00:21:31,320 --> 00:21:38,440
+experience that it's the right time to switch, but suddenly, I think it's going to influence
+经验认为现在是换车的合适时机，但突然之间，我认为这会影响
+
+239
+00:21:38,440 --> 00:21:44,519
+purchase decisions, but I think with respect to the Chinese brands, EVs exporting, being
+购买决定，但我认为就中国品牌、电动汽车出口而言，
+
+240
+00:21:44,519 --> 00:21:52,400
+available, I actually don't think that the Iran war at this point will have that much influence.
+可用性而言，我实际上认为目前伊朗战争的影响并不会太大。
+
+241
+00:21:52,400 --> 00:21:58,920
+Maybe in the Middle Eastern region, as far as logistics are concerned, that could be
+也许在中东地区，就物流而言，这可能是
+
+242
+00:21:58,920 --> 00:22:05,519
+an issue that will actually affect sales, but in the broader picture, at this point,
+一个实际上会影响销售的问题，但从大局来看，目前
+
+243
+00:22:05,519 --> 00:22:07,400
+I think it's still too early to tell.
+我认为还为时过早，难以下定论。
+
+244
+00:22:07,400 --> 00:22:15,400
+I think generally, the share of exports, the global adoption, the welcoming, the acceptance
+我认为总体而言，中国制造的电动汽车的出口份额、全球普及度、受欢迎程度和接受度
+
+245
+00:22:15,400 --> 00:22:18,160
+of Chinese-made EVs are rising.
+都在上升。
+
+246
+00:22:18,160 --> 00:22:20,120
+There's no question about that.
+这一点毫无疑问。
+
+247
+00:22:20,359 --> 00:22:29,119
+Well, don't you think the fact that EVs are less dependent on gasoline, on the certainty
+嗯，你不认为电动汽车对汽油的依赖较少，对原油供应确定性的依赖较少，
+
+248
+00:22:29,119 --> 00:22:37,039
+or the provision of crude oil as a factor will probably make people think more to turn to
+作为一个因素，可能会让人们更多地考虑转向
+
+249
+00:22:37,039 --> 00:22:41,559
+this direction, Xinglei, to follow your footsteps, let's say.
+这个方向吗，星磊？可以说，追随你的脚步。
+
+250
+00:22:43,439 --> 00:22:47,439
+Yeah, well, we go back to the earlier question of the infrastructure, right?
+是的，嗯，我们回到之前关于基础设施的问题，对吧？
+
+251
+00:22:47,440 --> 00:22:49,880
+This is a component of the whole ecosystem.
+这是整个生态系统的一个组成部分。
+
+252
+00:22:49,880 --> 00:22:57,920
+It's not ready that the push, kind of the push from the rising gas prices only play a certain
+目前尚未准备好，油价上涨带来的推动力只起到一定的
+
+253
+00:22:57,920 --> 00:22:59,420
+role.
+作用。
+
+254
+00:22:58,920 --> 00:23:04,160
+So that's what, hence, you have the export of products into the Middle Eastern region
+因此，这就是为什么你会看到出口到中东地区的产品
+
+255
+00:23:04,160 --> 00:23:09,120
+that are completely different from, let's say, Europe, because the Middle Eastern region,
+与欧洲的产品完全不同，因为中东地区，
+
+256
+00:23:09,120 --> 00:23:11,720
+there's less developed infrastructure.
+基础设施相对不发达。
+
+257
+00:23:11,720 --> 00:23:20,319
+That's why you're going to see rising export of these extended range EVs from BYD, Denza,
+这就是为什么你会看到比亚迪、腾势的续航更长的电动汽车出口增加。
+
+258
+00:23:20,319 --> 00:23:27,200
+the auto is into Kazakhstan in those regions where their E-Refs are very popular.
+这些汽车进入哈萨克斯坦的那些地区，那里的E-Ref非常受欢迎。
+
+259
+00:23:27,200 --> 00:23:31,559
+Because of lack of infrastructure, they're almost like an ICE vehicle.
+由于基础设施缺乏，它们几乎像燃油车一样。
+
+260
+00:23:31,559 --> 00:23:33,640
+So that plays a huge role.
+因此这起着重要作用。
+
+261
+00:23:33,640 --> 00:23:45,120
+Well, the EVs definitely are very much saving energy and there are estimates that the use
+嗯，电动汽车确实大幅节能，并且有估计表明其使用
+
+262
+00:23:45,120 --> 00:23:54,560
+of EVs have actually saved 60% of energy that's according to an international organization.
+电动汽车实际上已节省了60%的能源，这来自一家国际组织的统计。
+
+263
+00:23:54,560 --> 00:24:02,520
+So Professor Li Lun, certainly that's the direction that China is going to go and where
+所以李伦教授，毫无疑问，这正是中国将要走的方向，
+
+264
+00:24:02,519 --> 00:24:10,240
+do you see the whole picture, the world's car industry pivoting in the near future, especially
+你是否看到全局，即全球汽车产业在不久的将来将转向，尤其是
+
+265
+00:24:10,240 --> 00:24:14,680
+looking at the stranglehold that the world is suffering in terms of the war in Iran.
+考虑到伊朗战争导致的全球束缚局面。
+
+266
+00:24:14,680 --> 00:24:20,480
+Yeah, I think right now people are beginning to realize, for some countries, more painfully
+是的，我认为现在人们开始意识到，对某些国家来说，这种痛感更强烈，我们不能仅仅依赖单一的交通方式，无论是
+
+267
+00:24:20,480 --> 00:24:27,160
+than others that we can't simply rely on a single mode of transportation, whether it's
+比其他国家更明显，我们不能仅仅依赖单一的交通方式，无论是
+
+268
+00:24:27,160 --> 00:24:29,200
+EV, whether it's combustion engine.
+电动汽车，还是燃油发动机。
+
+269
+00:24:29,200 --> 00:24:35,920
+I think what Chinese EV are posing to the world is not a substitute, it's another alternative.
+我认为中国的电动汽车向世界展示的不是替代品，而是另一种选择。
+
+270
+00:24:35,920 --> 00:24:41,600
+So instead of relying only on combustion engine, you could also try this new technology.
+因此，与其只依赖燃油发动机，你也可以尝试这项新技术。
+
+271
+00:24:41,600 --> 00:24:49,240
+And I think that's what basically whether the battery EVs, BEVs or the plug-in hybrids are offering.
+我认为，无论是纯电动汽车（BEV）还是插电式混合动力车，其核心卖点基本都在于此。
+
+272
+00:24:49,240 --> 00:24:54,360
+So I think in many countries, especially in the areas that our previous guest mentioned,
+所以我认为，在许多国家，尤其是在我们上一位嘉宾提到的那些地区，
+
+273
+00:24:54,479 --> 00:24:58,919
+in the tax infrastructure, I think that's where the plug-in hybrids are going to have
+在税收基础设施方面，我认为插电式混合动力车将拥有
+
+274
+00:24:58,919 --> 00:25:04,319
+a bigger market because even though, for example, even if you don't charge those vehicles at
+更大的市场，因为即使，例如，即使你完全不给这些车充电，
+
+275
+00:25:04,319 --> 00:25:11,119
+all, even if you just use gasoline as the only source of energy, those cars are very,
+即使你只使用汽油作为唯一的能源来源，这些车的油耗也非常
+
+276
+00:25:11,119 --> 00:25:12,679
+very fuel efficient.
+非常低。
+
+277
+00:25:12,679 --> 00:25:18,199
+So when people see their increasing bill of gasoline, they're probably going to think
+所以，当人们看到汽油账单不断上涨时，他们可能会开始
+
+278
+00:25:18,199 --> 00:25:24,119
+a little bit, maybe it's time to switch to this more fuel efficient vehicle.
+思考，也许是时候换一辆更省油的车了。
+
+279
+00:25:24,119 --> 00:25:25,879
+And the difference is very big.
+而且这种差异非常大。
+
+280
+00:25:25,879 --> 00:25:27,379
+Yes.
+是的。
+
+281
+00:25:26,879 --> 00:25:29,879
+If you think about it, I mean, when I talk to people who are switching, who switched
+如果你仔细想想，我的意思是，当我与那些从传统车辆
+
+282
+00:25:29,879 --> 00:25:35,839
+from traditional vehicles to the difference is huge.
+转向新能源车的用户交谈时，这种差异是巨大的。
+
+283
+00:25:35,839 --> 00:25:39,599
+Another thing, Professor Carl, let me go to you.
+还有另一件事，卡尔教授，我想听听你的看法。
+
+284
+00:25:39,599 --> 00:25:45,279
+China actually sold almost every car it produced last year.
+中国去年几乎卖出了其生产的所有汽车。
+
+285
+00:25:45,279 --> 00:25:51,759
+It produced about 34 million cars, everything, everything, and it sold about 34 million cars.
+它生产了大约3400万辆汽车，所有类型的车，并且卖出了大约3400万辆。
+
+286
+00:25:51,799 --> 00:25:56,279
+So what does that say about this whole talk of overcapacity?
+那么，这对整个产能过剩的讨论说明了什么？
+
+287
+00:25:56,279 --> 00:26:05,279
+Well, I think we're starting to see this supply and demand get more in balance.
+我认为我们已经开始看到供需更加平衡。
+
+288
+00:26:05,279 --> 00:26:06,920
+And there's good reasons for this.
+而且这有充分的理由。
+
+289
+00:26:06,920 --> 00:26:14,359
+One of the things I'd like to stress is that traditionally in many industries, China has been a follower in technology.
+我想强调的一点是，传统上在许多行业中，中国一直是技术的追随者。
+
+290
+00:26:14,359 --> 00:26:18,079
+In the EV industry, China is a leader in technology.
+在电动汽车行业，中国已成为技术领袖。
+
+291
+00:26:18,079 --> 00:26:23,759
+I was recently at BYD's factory in Shenzhen, and I saw a really interesting demonstration
+我最近在深圳的比亚迪工厂，看到一个非常有趣的演示。
+
+292
+00:26:23,759 --> 00:26:30,399
+where they took two batteries, one battery that was a BYD battery and one from another manufacturer.
+他们拿了两块电池，一块是比亚迪的电池，另一块是其他厂商的。
+
+293
+00:26:30,399 --> 00:26:36,759
+And they were trying to drive a nail into each of these batteries.
+他们尝试在每块电池上钉钉子。
+
+294
+00:26:36,759 --> 00:26:43,639
+And the one from the other manufacturer, it became extremely hot, about 500 degrees Celsius,
+结果那块来自其他厂商的电池温度极高，约500摄氏度，
+
+295
+00:26:43,639 --> 00:26:45,879
+burst into flames and smoke.
+爆燃并冒出烟雾。
+
+296
+00:26:45,880 --> 00:26:52,760
+And then they did the same thing for the BYD one, and it didn't really go up in temperature much at all.
+然后他们对比亚迪的电池做同样的实验，温度几乎没有明显升高。
+
+297
+00:26:52,760 --> 00:26:55,440
+No smoke, you could still touch it, etc.
+没有烟雾，你甚至还能触摸它，等等。
+
+298
+00:26:55,440 --> 00:27:04,880
+So what we're seeing is a focus on safety, a focus on new technology, and China is becoming
+所以我们看到的是对安全的关注、对新技术的重视，而中国正变得
+
+299
+00:27:04,880 --> 00:27:06,380
+a real leader.
+真正的领袖。
+
+300
+00:27:05,880 --> 00:27:11,320
+And that's one of the reasons that people are getting excited about purchasing Chinese EVs.
+这也是人们对购买中国电动汽车感到兴奋的原因之一。
+
+301
+00:27:11,319 --> 00:27:21,319
+Well, actually only one in five cars new EVs built in China, or one in five cars built
+嗯，实际上，只有五分之一的中国产新车，或者说中国生产的汽车中有五分之一
+
+302
+00:27:21,319 --> 00:27:26,159
+in China are sold abroad, which means there are hundreds of millions of Chinese consumers
+是销往海外的，这意味着有数亿中国消费者
+
+303
+00:27:26,159 --> 00:27:30,559
+who are testing out these cars before they're sold to overseas markets.
+在这些车销往海外市场之前，就已经在试用它们了。
+
+304
+00:27:30,559 --> 00:27:34,439
+So I wouldn't worry too much about safety records.
+所以我不太担心安全记录的问题。
+
+305
+00:27:34,439 --> 00:27:38,119
+The Chinese will be the number one witness to it.
+中国人将是这一点的头号见证者。
+
+306
+00:27:38,119 --> 00:27:42,759
+And they will not be happy if these cars are not built well and safe.
+如果这些车造得不好、不安全，他们是不会满意的。
+
+307
+00:27:42,759 --> 00:27:47,839
+By the way, for the past half hour while we talked, about a thousand Chinese-made cars
+顺便说一下，在我们刚才聊天的这半小时里，大约有一千辆中国制造的汽车
+
+308
+00:27:47,839 --> 00:27:53,879
+have gone abroad, among them about 400 EVs.
+驶向了海外，其中约有400辆是电动汽车。
+
+309
+00:27:53,879 --> 00:27:55,839
+That's the kind of speed we're talking about.
+这就是我们所说的速度。
+
+310
+00:27:55,839 --> 00:27:58,679
+Anyway, let's wrap up the discussion.
+好了，让我们结束今天的讨论。
+
+311
+00:27:58,679 --> 00:28:05,239
+Many thanks to Carl Fei, Xinglei, and Li Lun for sharing with us your insights, as usual.
+非常感谢 Carl Fei、Xinglei 和 Li Lun 一如既往地与我们分享你们的见解。
+
+312
+00:28:05,240 --> 00:28:09,200
+And without we come to the end of this edition of The Point with me, Liu Xin, coming to you
+不知不觉间，由我刘欣为您带来的《锐评》本期节目就要结束了，
+
+313
+00:28:09,200 --> 00:28:11,880
+from Beijing on behalf of the whole team.
+这里是北京，代表整个团队向您问好。
+
+314
+00:28:11,880 --> 00:28:13,380
+Thank you for watching.
+感谢收看。
+
+315
+00:28:12,880 --> 00:28:21,160
+You've got the point.
+您已抓住要点。
+
+316
+00:28:21,160 --> 00:28:28,039
+Making sense of the overwhelming wave of information means cutting through the noise to shine a
+要理解汹涌的信息浪潮，就必须穿透噪音，照亮
+
+317
+00:28:28,039 --> 00:28:35,079
+light on the heart of the story and making room for new perspectives.
+故事核心的光，并为新视角腾出空间。
+
+318
+00:28:35,079 --> 00:28:40,720
+True understanding means the ability to see events from more than one side.
+真正的理解意味着能够从多个角度看待事件。
+
+319
+00:28:40,720 --> 00:28:43,159
+I'm Liu Xin, and this is The Point.
+我是刘欣，这里是锐评。

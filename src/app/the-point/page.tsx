@@ -14,7 +14,7 @@ const STAT_CARDS = [
   { label: '节目总数', value: THE_POINT_STATS.total },
   { label: '收录年份', value: THE_POINT_YEARS.length },
   { label: '可回放', value: THE_POINT_STATS.withVideo },
-  { label: '含摘要', value: THE_POINT_STATS.withSummary },
+  { label: '含字幕', value: THE_POINT_STATS.withSubtitle },
 ] as const;
 
 export default function ThePointIndexPage() {
@@ -27,7 +27,8 @@ export default function ThePointIndexPage() {
         <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">The Point with Liu Xin</h1>
         <p className="text-muted-foreground max-w-2xl leading-relaxed">
           完整收录 {THE_POINT_STATS.firstDate} 至 {THE_POINT_STATS.lastDate} 共 {THE_POINT_STATS.total}{' '}
-          期节目。选择年份浏览全部节目，或在年度页面内搜索摘要关键词。
+          期节目，其中 {THE_POINT_STATS.withSubtitle} 期配有字幕（{THE_POINT_STATS.withBilingual}{' '}
+          期中英双语）。默认纯音频播放，可在详情页切换画面或逐句对照字幕。
         </p>
       </header>
 

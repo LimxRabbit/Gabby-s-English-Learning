@@ -1,0 +1,1964 @@
+1
+00:00:30,000 --> 00:00:36,000
+We think of China, what comes to mind? Manufacturing, manufacturing, manufacturing.
+提到中国，大家会想到什么？制造业，制造业，还是制造业。
+
+2
+00:00:36,000 --> 00:00:40,000
+But data actually tells a different story.
+但数据实际上讲述了另一个故事。
+
+3
+00:00:40,000 --> 00:00:49,000
+According to official figures, China's service sector generated some 12 trillion US dollars in added value last year,
+根据官方数据，去年中国服务业创造了约12万亿美元的增加值，
+
+4
+00:00:49,000 --> 00:00:54,000
+accounting for some 60% of China's GDP.
+占中国国内生产总值的约60%。
+
+5
+00:00:54,000 --> 00:01:02,000
+With services now forming the backbone of the economy, efforts are underway to foster higher quality,
+随着服务业成为经济的支柱，各方正在努力培育更高质量、
+
+6
+00:01:02,000 --> 00:01:06,000
+more diverse and more accessible consumer services.
+更多样化且更易获取的消费服务。
+
+7
+00:01:06,000 --> 00:01:13,000
+Now, the sector is projected to exceed 15 trillion US dollars by 2030.
+预计该行业到2030年将超过15万亿美元。
+
+8
+00:01:13,000 --> 00:01:19,000
+What new consumption trends and scenarios will this transformation create?
+这种转型将带来哪些新的消费趋势和场景？
+
+9
+00:01:19,000 --> 00:01:23,000
+How will technology reshape the service industry?
+技术将如何重塑服务业？
+
+10
+00:01:23,000 --> 00:01:30,000
+And what opportunities will it open up for international businesses and consumers?
+它将为国际企业和消费者带来哪些机遇？
+
+11
+00:01:30,000 --> 00:01:36,000
+Welcome to this special edition of our series on China's service sector.
+欢迎收看我们关于中国服务业系列的特别节目。
+
+12
+00:01:36,000 --> 00:01:39,000
+I'm Lixin, coming to you from the heart of Beijing.
+我是刘欣，正在北京为您报道。
+
+13
+00:01:39,000 --> 00:01:43,000
+Our case in point today is digital mapping in China.
+我们今天的案例是中国数字地图。
+
+14
+00:01:43,000 --> 00:01:53,000
+I'm visiting a Chinese company that's using AI technology to enhance services for both domestic and international users.
+我正在访问一家中国公司，该公司利用人工智能技术提升为国内外用户提供的服务。
+
+15
+00:01:53,000 --> 00:02:00,000
+I'll first sit down with a company representative, then I'll try it out with an American counterpart
+我将先与公司代表进行访谈，然后与一位美国同行一起体验，
+
+16
+00:02:00,000 --> 00:02:05,000
+before sitting down with an industry expert to bring you the full picture.
+之后再与行业专家对谈，为您呈现全貌。
+
+17
+00:02:06,000 --> 00:02:21,000
+I'm here at the AMAP headquarters in Beijing and my guest is Mr. Li Gang, Vice President for Content Ecosystem of AMAP.
+我现在在北京的高德地图总部，我的嘉宾是高德地图内容生态副总裁李刚先生。
+
+18
+00:02:21,000 --> 00:02:23,000
+Mr. Li, welcome to the point.
+李先生，欢迎来到《锐评》。
+
+19
+00:02:23,000 --> 00:02:24,500
+Nice to meet you.
+很高兴见到你。
+
+20
+00:02:24,000 --> 00:02:25,500
+Nice to meet you.
+很高兴见到你。
+
+21
+00:02:25,000 --> 00:02:27,000
+It's our pleasure to and thank you for hosting us.
+很荣幸能来到这里，感谢你们的邀请。
+
+22
+00:02:27,000 --> 00:02:29,000
+Now, AMAP is a map.
+现在，高德地图是一款地图应用。
+
+23
+00:02:29,000 --> 00:02:41,000
+You didn't stop there and you continue to add new features, the latest two for instance, street stars and flying street view.
+你们并没有止步于此，而是不断添加新功能，比如最近推出的两个功能：街景明星和飞行街景。
+
+24
+00:02:41,000 --> 00:02:51,000
+Help us understand exactly what these features are exactly and how are they changing people's way of using maps?
+请帮我们确切地了解这些功能具体是什么，以及它们如何改变人们使用地图的方式？
+
+25
+00:02:51,000 --> 00:03:00,000
+Yeah, AMAP is the biggest map in China and there are 10 millions people on our map every day.
+是的，高德地图是中国最大的地图应用，每天有1000万人在使用我们的地图。
+
+26
+00:03:00,000 --> 00:03:10,000
+They are navigating and searching places and maybe also giving reviews and a lot of behaviors.
+他们在进行导航、搜索地点，可能还会写评论，并进行许多其他操作。
+
+27
+00:03:10,000 --> 00:03:17,000
+Last year, on September 10th, we have launched a new product named Street Stars.
+去年9月10日，我们推出了一款名为“街景明星”的新产品。
+
+28
+00:03:17,000 --> 00:03:25,000
+We can help people to find the best restaurant just on the authentic behaviors of the people.
+我们可以根据人们的真实行为，帮助他们找到最好的餐厅。
+
+29
+00:03:25,000 --> 00:03:29,000
+We call that 1 billion people voting with their feet.
+我们称之为“十亿人用脚投票”。
+
+30
+00:03:29,000 --> 00:03:37,000
+There are a lot of restaurants that have established very long time, especially for Beijing, Nanjing and Guangzhou.
+有很多餐厅已经经营了很长时间，尤其是在北京、南京和广州。
+
+31
+00:03:37,000 --> 00:03:46,000
+They are very good taste but they know very few about how to marketing, especially how to marketing on the internet.
+它们味道很好，但非常不了解如何做营销，尤其是在互联网上如何做营销。
+
+32
+00:03:46,000 --> 00:03:58,000
+So you can find them on Street Stars and also I need to mention you can find very cozy Pop and Mom restaurant.
+所以你可以在“街景明星”上找到它们，另外我需要提一下，你也能找到非常温馨的夫妻小店。
+
+33
+00:03:58,000 --> 00:04:01,000
+What about flying street view?
+那“飞行街景”呢？
+
+34
+00:04:01,000 --> 00:04:18,000
+We launched that on January this year and when we launched our Street Stars, we can see 10 millions people use our Street Stars.
+我们今年一月推出了它，当我们推出“街景明星”时，我们看到有1000万人在使用我们的“街景明星”。
+
+35
+00:04:18,000 --> 00:04:29,000
+After that, we see that before you go to a restaurant or before you go to a very famous hotel,
+在那之后，我们发现，在你去一家餐厅或去一家非常著名的酒店之前，
+
+36
+00:04:29,000 --> 00:04:37,000
+you want to see what the place looks like before you arrive.
+你想在到达之前看看那个地方长什么样。
+
+37
+00:04:37,000 --> 00:04:42,000
+Instead of just a picture, instead of just a rating, you want to see in 3D.
+不仅仅是看一张照片，不仅仅是看一个评分，你想以3D的方式看到它。
+
+38
+00:04:42,000 --> 00:04:52,000
+3D image, so we bring flying street views to help people to see what the place exactly like before they arrive there.
+3D图像，所以我们带来了“飞行街景”，帮助人们在到达之前确切地看到那个地方是什么样子的。
+
+39
+00:04:52,000 --> 00:04:54,000
+That's very good technology.
+这项技术非常好。
+
+40
+00:04:54,000 --> 00:05:00,000
+How many people are using these features? What's the feedback?
+有多少人正在使用这些功能？反馈如何？
+
+41
+00:05:00,000 --> 00:05:08,000
+Everyday millions of people use that and a lot of places you can see the flying street views.
+每天有数百万人使用它，在很多地方都能看到飞行街景。
+
+42
+00:05:08,000 --> 00:05:19,000
+We help people before they arrive, they can see what exactly look like and the places around your destination.
+我们在人们到达之前提供帮助，让他们能看到目的地具体长什么样，以及周边的环境。
+
+43
+00:05:19,000 --> 00:05:22,000
+So help millions of people everyday.
+因此，我们每天帮助数百万人。
+
+44
+00:05:22,000 --> 00:05:31,000
+What about English language version? I understand that AMAP is the only Chinese-made map that offers this service.
+那英文版呢？我了解到高德地图是唯一提供此服务的中国自研地图。
+
+45
+00:05:31,000 --> 00:05:35,000
+Tell us more about that. What led to this decision?
+请多讲讲。是什么促使了这项决定？
+
+46
+00:05:35,000 --> 00:05:50,000
+Recently, we see a lot of people, especially with China, that we have a lot of foreigners come to China and they need maps.
+最近，我们看到很多人，尤其在中国，有很多外国人来到中国，他们需要地图。
+
+47
+00:05:50,000 --> 00:05:59,000
+We launched the English version and for now we can help millions of people come to China.
+我们推出了英文版，目前可以帮助数百万人来中国。
+
+48
+00:05:59,000 --> 00:06:03,000
+Foreigner friends, visitors from a lot of countries come to China.
+来自许多国家的外国朋友和游客来到中国。
+
+49
+00:06:03,000 --> 00:06:10,000
+They can use AMAP to search and to navigation and also taking taxis.
+他们可以使用高德地图进行搜索和导航，还可以打车。
+
+50
+00:06:10,000 --> 00:06:18,000
+And also, I need to say, we can cover around the world more than 200 countries with our AMAP.
+此外，我要说的是，我们的高德地图可以覆盖全球200多个国家。
+
+51
+00:06:18,000 --> 00:06:26,000
+We go to the United States or Japan or Thailand and you can also use our AMAP to search and navigation.
+当你去美国、日本或泰国时，你也可以使用我们的高德地图进行搜索和导航。
+
+52
+00:06:26,000 --> 00:06:42,000
+So it's a world map. How accurate, I mean people would want to ask that, how reliable, for instance, will the signal always be there if you go into some remote places in the world?
+所以它是一张世界地图。关于准确性，我想人们会问，它有多可靠？例如，如果你去世界上一些偏远的地方，信号总是有的吗？
+
+53
+00:06:42,000 --> 00:06:48,000
+For instance, if you're in the mountains or if you're in the jungle, can you still use your map? This is one thing.
+例如，如果你在山里或在丛林中，你还能使用你的地图吗？这是其中一点。
+
+54
+00:06:48,000 --> 00:07:00,000
+And secondly, how accurate will it be? I mean you have many other apps but will AMAP tell you exactly where you are and show you exactly where you want to go?
+其次，它的准确性如何？我是说，你有许多其他应用，但高德地图会准确地告诉你你在哪里，并显示你想去的地方吗？
+
+55
+00:07:00,000 --> 00:07:12,000
+Yeah. First, I need to say, we are very lucky. We are a company of China because in China we use Beidou system.
+是的。首先，我需要说，我们很幸运。我们是一家中国公司，因为在中国我们使用北斗系统。
+
+56
+00:07:12,000 --> 00:07:17,000
+The Chinese? It's very, very powerful, more powerful than GPS, obviously.
+中国的？它非常、非常强大，显然比GPS更强大。
+
+57
+00:07:17,000 --> 00:07:26,000
+So you can use the satellite to get your location and also communicate.
+所以你可以使用卫星获取你的位置，也可以进行通信。
+
+58
+00:07:26,000 --> 00:07:28,000
+So anywhere around the world?
+在世界的任何地方？
+
+59
+00:07:28,000 --> 00:07:38,000
+Anywhere around the world. And especially when you can't get a signal off your phone, you still can communicate with the satellite.
+在世界的任何地方。特别是当你的手机没有信号时，你仍然可以通过卫星进行通信。
+
+60
+00:07:39,000 --> 00:07:41,000
+So you can also use it.
+所以你也可以使用它。
+
+61
+00:07:41,000 --> 00:07:42,500
+Have you tested it?
+你们测试过了吗？
+
+62
+00:07:42,000 --> 00:07:46,000
+Yeah, that's a very special feature of our map.
+是的，这是我们地图的一个非常特别的功能。
+
+63
+00:07:46,000 --> 00:08:01,000
+Okay. What opportunities then will these features of the English version bring to foreign visitors who come to China, foreign business people or foreign students who are studying in China?
+好的。那么，这些英文版的功能会给来中国的外国游客、外国商人或在中国学习的外国学生带来哪些机会呢？
+
+64
+00:08:01,000 --> 00:08:03,000
+You mean benefit?
+你是说好处吗？
+
+65
+00:08:03,000 --> 00:08:08,000
+Yeah. What kind of opportunities will it bring them? How will they benefit them?
+对。它会给他们带来什么样的机会？他们能从中获得什么好处？
+
+66
+00:08:08,000 --> 00:08:23,000
+Okay. In MAP-Penin, for the foreign visitors, they will have a very short cycle because eventually they need to search a place through MAP.
+好的。在MAP-Penin中，对于外国游客来说，他们的使用周期会非常短，因为他们最终需要通过地图来搜索地点。
+
+67
+00:08:23,000 --> 00:08:32,000
+They always use a map and then navigation and they can take a taxi before.
+他们以前总是使用地图和导航，然后可以打车。
+
+68
+00:08:32,000 --> 00:08:44,000
+But for now, they can also make decisions on our map, use the street stars and make the decision and have the very, very local best dishes.
+但现在，他们也可以在我们的地图上做出决策，使用街景功能，做出选择，并找到非常地道的当地美食。
+
+69
+00:08:44,000 --> 00:08:49,000
+Then they can go to place with our navigation and also take a taxi.
+然后他们可以用我们的导航去那个地方，也可以打车。
+
+70
+00:08:49,000 --> 00:08:51,000
+That's a very short cycle.
+这是一个非常短的周期。
+
+71
+00:08:51,000 --> 00:08:54,000
+For the first, for the second, we also launch...
+首先，其次，我们还推出了……
+
+72
+00:08:54,000 --> 00:08:58,000
+So basically it's one app with many different functions.
+所以基本上，它是一个具有多种不同功能的应用程序。
+
+73
+00:08:58,000 --> 00:09:11,000
+When you go out and find some place, you can in one app or in one and make all the decisions and make all the go away behavior on our map.
+当你外出寻找某个地方时，你可以在一个应用程序中做出所有决策，并在我们的地图上完成所有出行行为。
+
+74
+00:09:11,000 --> 00:09:12,500
+I see.
+我明白了。
+
+75
+00:09:12,000 --> 00:09:13,500
+The second point.
+第二点。
+
+76
+00:09:13,000 --> 00:09:14,500
+The second point.
+第二点。
+
+77
+00:09:14,000 --> 00:09:21,000
+The second point. Also, we have launched our English version in Macore and Hong Kong.
+第二点。此外，我们还在澳门和香港推出了英文版。
+
+78
+00:09:21,000 --> 00:09:35,000
+A lot of the restaurants and other business owners will come to our map to open their own map stores to help the users to visit their map spot.
+许多餐厅和其他商家会来到我们的地图上开设自己的地图店铺，帮助用户访问他们的地图位置。
+
+79
+00:09:35,000 --> 00:09:37,000
+Everybody is talking about AI.
+每个人都在谈论人工智能。
+
+80
+00:09:37,000 --> 00:09:38,500
+Yeah.
+是的。
+
+81
+00:09:38,000 --> 00:09:42,000
+How is AMAP using AI to enhance user experience?
+高德地图如何利用人工智能提升用户体验？
+
+82
+00:09:42,000 --> 00:09:43,500
+Okay.
+好的。
+
+83
+00:09:43,000 --> 00:09:49,000
+AI is very powerful and it's a very strong force in our company.
+人工智能非常强大，是我们公司的一股强劲力量。
+
+84
+00:09:49,000 --> 00:09:59,000
+When we come to the street stars and also the flying street views, we use a lot of AI technology in that.
+当我们谈到街景明星和飞行街景时，我们在其中使用了很多人工智能技术。
+
+85
+00:09:59,000 --> 00:10:08,000
+For instance, for example, when we talk about the street stars, we talk about very big, massive data.
+例如，当我们谈论街景明星时，我们指的是非常庞大、海量的数据。
+
+86
+00:10:08,000 --> 00:10:13,000
+We have data every day, millions billions of data every day.
+我们每天都有数据，每天数以百万计、数十亿计的数据。
+
+87
+00:10:13,000 --> 00:10:19,000
+So, under the protecting the privacy.
+所以，在保护隐私的前提下。
+
+88
+00:10:19,000 --> 00:10:20,500
+Privacy?
+隐私？
+
+89
+00:10:20,000 --> 00:10:24,000
+Yes, we consider privacy the highest priority.
+是的，我们将隐私视为最高优先级。
+
+90
+00:10:24,000 --> 00:10:30,000
+So, we use AI algorithm to analyze the behavior.
+因此，我们使用人工智能算法来分析行为。
+
+91
+00:10:30,000 --> 00:10:40,000
+To know which place has the hottest place and people will go the longest distance to go somewhere.
+以了解哪些地方最热门，以及人们愿意走多远去某个地方。
+
+92
+00:10:40,000 --> 00:10:46,000
+And for some people, maybe for the morning, it's the hottest.
+对于一些人来说，也许早上是最热门的时候。
+
+93
+00:10:46,000 --> 00:10:49,000
+And for the evening, there is a hottest.
+而到了晚上，也有最热门的时候。
+
+94
+00:10:49,000 --> 00:10:51,000
+So, we use a lot of AI algorithm.
+所以，我们使用了很多人工智能算法。
+
+95
+00:10:51,000 --> 00:11:00,000
+And for the second, when we come to the flying street views, we use our word model.
+其次，当我们谈到飞行街景时，我们使用我们的世界模型。
+
+96
+00:11:00,000 --> 00:11:03,000
+Word model to understand the real world.
+世界模型来理解真实世界。
+
+97
+00:11:03,000 --> 00:11:12,000
+Just like the large language model to understand the words, creating the next token.
+就像大语言模型理解词语并生成下一个词元一样。
+
+98
+00:11:12,000 --> 00:11:18,000
+The word model to understand the word and predicting the real world.
+世界模型来理解世界并预测真实情况。
+
+99
+00:11:18,000 --> 00:11:27,000
+So, with that technology, we can bring the flying street views to our customers, our users.
+因此，借助这项技术，我们可以将飞行街景带给我们的客户和用户。
+
+100
+00:11:27,000 --> 00:11:29,000
+I would love to experience that.
+我很想体验一下。
+
+101
+00:11:29,000 --> 00:11:35,000
+I'm still a newcomer to that, but I'm very intrigued and I will try it out with my foreign colleague.
+我对那方面还是个新手，但我非常感兴趣，我会和我的外国同事一起试试。
+
+102
+00:11:35,000 --> 00:11:37,000
+I'll do that right after the interview.
+我会在采访结束后立刻去做。
+
+103
+00:11:37,000 --> 00:11:39,000
+Well, thank you so much.
+嗯，非常感谢。
+
+104
+00:11:39,000 --> 00:11:44,000
+Yeah, you definitely intrigued me and I'll explore more.
+是的，你确实引起了我的兴趣，我会去探索更多。
+
+105
+00:11:44,000 --> 00:11:49,000
+And I wish all the very best, better maps, better experience, greater security.
+我祝愿一切顺利，地图更好，体验更佳，安全更有保障。
+
+106
+00:11:49,000 --> 00:11:57,000
+Hope more visitors can experience, have a very good experience in China and with our AMAP and with our street stars.
+希望更多游客能在中国拥有非常棒的体验，体验我们的高德地图和我们的街星。
+
+107
+00:11:57,000 --> 00:11:59,000
+Thank you for having me.
+感谢邀请我。
+
+108
+00:11:59,000 --> 00:12:03,000
+Thank you, Li Gang, Vice President of Content Ecosystem of AMAP.
+谢谢，高德地图内容生态副总裁李刚。
+
+109
+00:12:03,000 --> 00:12:05,000
+Okay, thank you very much.
+好的，非常感谢。
+
+110
+00:12:05,000 --> 00:12:16,000
+I'm in Wangjing area in northeast Beijing in the middle of the holiday buzz.
+我现在在北京东北部的望京地区，正值假期的热闹氛围中。
+
+111
+00:12:16,000 --> 00:12:21,000
+Now, if you look around, you see almost everybody guided by their phones.
+现在，如果你环顾四周，你会发现几乎每个人都在跟着手机指引。
+
+112
+00:12:21,000 --> 00:12:24,000
+Something deeper is changing.
+更深层的变化正在发生。
+
+113
+00:12:24,000 --> 00:12:33,000
+People are no longer living, dining, finding out places the way they used to, but how exactly are they doing it now?
+人们不再像过去那样生活、用餐和寻找地点，那么他们现在具体是怎么做的呢？
+
+114
+00:12:33,000 --> 00:12:38,000
+I'm going to find out about that through something that's simple yet essential, which is food.
+我打算通过一件简单却至关重要的事情来了解这一点，那就是美食。
+
+115
+00:12:38,000 --> 00:12:40,000
+And I'm not alone.
+而且我不是一个人。
+
+116
+00:12:40,000 --> 00:12:44,000
+I got a partner by the name of Jack Klum.
+我有一位名叫杰克·克鲁姆的搭档。
+
+117
+00:12:44,000 --> 00:12:45,500
+Jack.
+杰克。
+
+118
+00:12:45,000 --> 00:12:46,500
+Hey, everyone.
+嘿，大家好。
+
+119
+00:12:46,000 --> 00:12:47,500
+What's up?
+最近怎么样？
+
+120
+00:12:47,000 --> 00:12:48,500
+Doing all right. How are you doing?
+一切都好。你怎么样？
+
+121
+00:12:48,000 --> 00:12:49,500
+Hungry.
+饿了。
+
+122
+00:12:49,000 --> 00:12:51,000
+Hungry, all right. I think I can fix that.
+饿了是吧。我想我能解决。
+
+123
+00:12:51,000 --> 00:12:52,500
+Okay.
+好的。
+
+124
+00:12:52,000 --> 00:12:53,500
+This is a new one that I've been using.
+这是我最近一直在用的新功能。
+
+125
+00:12:53,000 --> 00:12:55,000
+So it's on the AMAP app.
+它在高德地图App上。
+
+126
+00:12:55,000 --> 00:12:56,500
+I'm sure you're familiar.
+我相信你很熟悉。
+
+127
+00:12:56,000 --> 00:12:57,500
+Okay.
+好的。
+
+128
+00:12:57,000 --> 00:12:59,000
+It's got this new function called the Skullsia Bong.
+它有个新功能叫“扫街榜”。
+
+129
+00:12:59,000 --> 00:13:05,000
+And right here you can see all sorts of like restaurants, coffee places, fun little parks, things to do.
+就在这里，你可以看到各种各样的餐厅、咖啡店、有趣的小公园，还有各种活动。
+
+130
+00:13:05,000 --> 00:13:07,000
+You could check out this one.
+你可以看看这家。
+
+131
+00:13:07,000 --> 00:13:08,500
+I find it to be pretty interesting.
+我觉得挺有意思的。
+
+132
+00:13:08,000 --> 00:13:10,000
+It's called the Duan Chengqianluo Hong.
+它叫“断肠千螺红”。
+
+133
+00:13:10,000 --> 00:13:12,000
+Specifically making a trip for these restaurants.
+专门为了这些餐厅跑一趟。
+
+134
+00:13:12,000 --> 00:13:13,500
+Yeah.
+是啊。
+
+135
+00:13:13,000 --> 00:13:14,500
+So probably going to be pretty good.
+所以应该很不错。
+
+136
+00:13:14,000 --> 00:13:15,500
+Okay. I see a noodle place.
+好的。我看到一家面馆。
+
+137
+00:13:15,000 --> 00:13:16,500
+Right at the top.
+就在最上面。
+
+138
+00:13:16,000 --> 00:13:17,500
+How about that?
+怎么样？
+
+139
+00:13:17,000 --> 00:13:19,000
+Looks pretty interesting.
+看起来挺有意思的。
+
+140
+00:13:19,000 --> 00:13:22,000
+And here says Fei Xing Jie Jing.
+这里写着“非行街景”。
+
+141
+00:13:22,000 --> 00:13:25,000
+I feel like they're flying a drone to the restaurant, right?
+我觉得他们是在往餐厅那边飞无人机，对吧？
+
+142
+00:13:25,000 --> 00:13:26,500
+Yeah.
+是啊。
+
+143
+00:13:26,000 --> 00:13:27,500
+Okay.
+好的。
+
+144
+00:13:27,000 --> 00:13:28,500
+You can see the whole place.
+你能看到整个地方。
+
+145
+00:13:28,000 --> 00:13:31,000
+And only like 200 meters away.
+而且只有大概200米远。
+
+146
+00:13:31,000 --> 00:13:32,500
+Can't get better.
+再好不过了。
+
+147
+00:13:32,000 --> 00:13:33,500
+I'd say we do it. Yeah.
+我觉得我们就去这家吧。是啊。
+
+148
+00:13:33,000 --> 00:13:34,500
+Yeah. This is the one.
+是啊。就是这家。
+
+149
+00:13:34,000 --> 00:13:36,000
+So which way?
+那往哪边走？
+
+150
+00:13:36,000 --> 00:13:39,000
+So navigate, turn around.
+导航一下，掉头。
+
+151
+00:13:39,000 --> 00:13:40,500
+Turn around.
+掉头。
+
+152
+00:13:40,000 --> 00:13:41,500
+Right? Yeah. Turn around.
+对吧？是啊。掉头。
+
+153
+00:13:41,000 --> 00:13:42,500
+Let's go.
+走吧。
+
+154
+00:13:42,000 --> 00:13:43,500
+Let's go. Let's do it.
+走吧。就这么定了。
+
+155
+00:13:53,000 --> 00:13:54,500
+What do you think?
+你觉得怎么样？
+
+156
+00:13:54,000 --> 00:13:55,500
+It's amazing.
+太棒了。
+
+157
+00:13:55,000 --> 00:13:56,500
+Not bad. Yeah.
+不错。是啊。
+
+158
+00:13:56,000 --> 00:13:57,500
+Not bad.
+不错。
+
+159
+00:13:57,000 --> 00:13:58,500
+You made a good choice, I think.
+我觉得你选得真好。
+
+160
+00:13:58,000 --> 00:13:59,500
+Yeah. Yeah.
+是啊。是啊。
+
+161
+00:13:59,000 --> 00:14:00,500
+I left it all up to the AI.
+我把一切都交给AI了。
+
+162
+00:14:00,000 --> 00:14:02,000
+It didn't steer me wrong.
+它没有把我带偏。
+
+163
+00:14:02,000 --> 00:14:05,000
+It's a lot to choose from. Yeah?
+选择真多啊。是吗？
+
+164
+00:14:05,000 --> 00:14:06,500
+Yeah.
+是啊。
+
+165
+00:14:07,000 --> 00:14:08,500
+What are you in the mood for?
+你想吃点什么？
+
+166
+00:14:08,000 --> 00:14:09,500
+Yeah. Two bowls of that.
+好。来两份那个。
+
+167
+00:14:09,000 --> 00:14:11,000
+That muscle is really small.
+那块肌肉真的很小。
+
+168
+00:14:18,000 --> 00:14:19,500
+Let's dig in.
+开吃吧。
+
+169
+00:14:19,000 --> 00:14:20,500
+All right. Let's do it.
+好的。来吧。
+
+170
+00:14:21,000 --> 00:14:24,000
+Oh, look at that.
+哦，看看那个。
+
+171
+00:14:24,000 --> 00:14:25,500
+That's genuinely good.
+真的很好吃。
+
+172
+00:14:25,000 --> 00:14:35,000
+It's also really surreal because I never would have imagined that I would make a choice based on rating as a result of people's actual trips.
+这也太超现实了，因为我从没想过我会根据人们实际行程产生的评分来做选择。
+
+173
+00:14:35,000 --> 00:14:37,000
+You know, it's not based on some rating.
+你知道，这不是基于某种评分。
+
+174
+00:14:37,000 --> 00:14:39,000
+You know, you give it three, you give it four.
+你知道，你给它打三分，或者打四分。
+
+175
+00:14:39,000 --> 00:14:40,500
+Right.
+对。
+
+176
+00:14:40,000 --> 00:14:44,000
+The information is generated through how many trips people came here.
+这些信息是根据人们来这里实际行程的次数生成的。
+
+177
+00:14:44,000 --> 00:14:45,500
+Right.
+对。
+
+178
+00:14:45,000 --> 00:14:46,500
+Actual trips.
+实际的行程。
+
+179
+00:14:46,000 --> 00:14:47,500
+I think that is quite amazing.
+我觉得这相当了不起。
+
+180
+00:14:47,000 --> 00:14:50,000
+I think that's what matters more, honestly.
+说实话，我觉得这才是更重要的。
+
+181
+00:14:50,000 --> 00:14:56,000
+Because if I show up to a place and hey, maybe I know the boss or friends, I'll give you a five-star rating.
+因为如果我去了一个地方，嘿，也许我认识老板或朋友，我会给你打五星好评。
+
+182
+00:14:56,000 --> 00:14:57,500
+Right.
+没错。
+
+183
+00:14:57,000 --> 00:14:59,000
+But honestly, if it's not that good, I'm never coming back.
+但说实话，如果不好吃，我绝不会再来。
+
+184
+00:14:59,000 --> 00:15:02,000
+Like when you have the big data, it shows where people actually go.
+就像当你拥有大数据时，它会显示人们实际去的地方。
+
+185
+00:15:02,000 --> 00:15:07,000
+I wonder, this is May Day holiday and a lot of people will be traveling.
+我想知道，现在是五一假期，很多人都会出行。
+
+186
+00:15:07,000 --> 00:15:10,000
+A lot of foreign visitors will be in China.
+会有许多外国游客来到中国。
+
+187
+00:15:10,000 --> 00:15:16,000
+I wonder, you know, how this experience will feel like for them, you know,
+我想知道，你知道的，这种体验对他们来说会是什么感觉，
+
+188
+00:15:16,000 --> 00:15:21,000
+whether they were able to use this kind of experience and anything would change because of this.
+他们是否能利用这种体验，以及这一切是否会因此发生改变。
+
+189
+00:15:21,000 --> 00:15:22,500
+Right.
+没错。
+
+190
+00:15:22,000 --> 00:15:23,500
+Have you thought about it?
+你考虑过这个问题吗？
+
+191
+00:15:23,000 --> 00:15:26,000
+I think for like, you know, for foreigners coming to vacation in China,
+我认为，对于来中国度假的外国人来说，
+
+192
+00:15:26,000 --> 00:15:31,000
+it's really important to be able to use like these more domestic local apps,
+能够使用这些更本土化的应用程序非常重要，
+
+193
+00:15:31,000 --> 00:15:36,000
+especially the ones with these AI functions, because they show you where locals actually want to eat
+尤其是那些带有AI功能的应用，因为它们会告诉你当地人真正想去吃饭的地方，
+
+194
+00:15:36,000 --> 00:15:38,000
+and where they would actually go to dine.
+以及他们实际会去就餐的地点。
+
+195
+00:15:38,000 --> 00:15:42,000
+You know, if you used, you know, other websites that we might typically use abroad,
+你知道，如果你使用我们在海外通常使用的其他网站，
+
+196
+00:15:42,000 --> 00:15:45,000
+you don't get nearly the same information.
+你几乎得不到同样的信息。
+
+197
+00:15:45,000 --> 00:15:47,000
+The information is really not there.
+那里真的没有这些信息。
+
+198
+00:15:47,000 --> 00:15:53,000
+And another example is last year, my parents, they came to China for the very first time.
+另一个例子是去年，我的父母第一次来中国。
+
+199
+00:15:53,000 --> 00:15:56,000
+I've been here for eight years, but this was their first time coming.
+我在这里已经八年了，但这是他们第一次来。
+
+200
+00:15:56,000 --> 00:15:57,500
+So it was a big deal for me, right?
+所以这对我来说是一件大事，对吧？
+
+201
+00:15:57,000 --> 00:16:00,000
+I'm like, oh, I got to show them some fun stuff, right?
+我当时就想，我得给他们看点好玩的东西，对吧？
+
+202
+00:16:00,000 --> 00:16:04,000
+So I told all of this to DeepSeek as an AI at the time.
+所以我把这些情况都告诉了一个叫 DeepSeek 的 AI。
+
+203
+00:16:04,000 --> 00:16:06,000
+I'm like, my parents are, you know, they're this age.
+我是说，我父母嘛，你知道的，他们那个年纪。
+
+204
+00:16:06,000 --> 00:16:07,500
+Right.
+对。
+
+205
+00:16:07,000 --> 00:16:08,500
+We want to see this and that.
+我们想看看这个，看看那个。
+
+206
+00:16:08,000 --> 00:16:10,000
+They want to enjoy, you know, beautiful scenery stuff like that.
+他们想享受一下，你知道的，就是那种美丽的风景之类的。
+
+207
+00:16:10,000 --> 00:16:12,000
+We're going to be here for X amount of days.
+我们要在这里待 X 天。
+
+208
+00:16:12,000 --> 00:16:13,500
+Yeah.
+是的。
+
+209
+00:16:13,000 --> 00:16:14,500
+How should we do it?
+我们应该怎么安排呢？
+
+210
+00:16:14,000 --> 00:16:15,500
+And?
+然后呢？
+
+211
+00:16:15,000 --> 00:16:17,000
+So it gave me both ideas on places to go.
+于是它给了我一些关于去哪些地方的建议。
+
+212
+00:16:17,000 --> 00:16:18,500
+A lot of them were really cool.
+其中很多都真的很酷。
+
+213
+00:16:18,000 --> 00:16:21,000
+And also kind of like an order of how to go to them.
+它还给出了一种游览这些地方的顺序。
+
+214
+00:16:21,000 --> 00:16:22,500
+What to do on each day.
+每天该做什么。
+
+215
+00:16:22,000 --> 00:16:23,500
+An itinerary.
+一份行程单。
+
+216
+00:16:23,000 --> 00:16:24,500
+Yeah.
+是的。
+
+217
+00:16:24,000 --> 00:16:25,500
+An itinerary, essentially.
+基本上就是一份行程单。
+
+218
+00:16:25,000 --> 00:16:26,500
+Did you work?
+你工作了吗？
+
+219
+00:16:26,000 --> 00:16:27,500
+Did you use it?
+你用它了吗？
+
+220
+00:16:27,000 --> 00:16:28,500
+I did use it.
+我确实用了。
+
+221
+00:16:28,000 --> 00:16:29,500
+And?
+然后呢？
+
+222
+00:16:29,000 --> 00:16:30,500
+And my parents had a great time.
+我父母玩得很开心。
+
+223
+00:16:30,000 --> 00:16:34,000
+You know, it's something I could have organized myself, could have done the research myself,
+你知道，这件事我自己也能组织，也能自己做调研，
+
+224
+00:16:34,000 --> 00:16:37,000
+but it would have definitely taken me a lot longer.
+但肯定得花我更多时间。
+
+225
+00:16:37,000 --> 00:16:39,000
+The noodle tastes so good.
+这面条味道真好。
+
+226
+00:16:39,000 --> 00:16:40,500
+Yeah, I know.
+是啊，我知道。
+
+227
+00:16:40,000 --> 00:16:43,000
+You got to wonder like, who's the person running this place?
+你肯定会好奇，这家店是谁在经营？
+
+228
+00:16:43,000 --> 00:16:44,500
+They're doing a good job.
+他们做得很好。
+
+229
+00:16:44,000 --> 00:16:46,000
+Yeah, I wonder too.
+是啊，我也好奇。
+
+230
+00:16:46,000 --> 00:16:49,000
+Hello, I'm the brand manager here.
+你好，我是这里的品牌经理。
+
+231
+00:16:49,000 --> 00:16:51,000
+I heard that it's your first time here.
+我听说这是您第一次来。
+
+232
+00:16:51,000 --> 00:16:54,000
+I really want to find out how we're going to eat today.
+我真的很想知道我们今天该怎么吃。
+
+233
+00:16:54,000 --> 00:16:56,000
+And give us some precious advice.
+并给我们一些宝贵的建议。
+
+234
+00:16:56,000 --> 00:16:57,500
+It's delicious.
+真好吃。
+
+235
+00:16:57,000 --> 00:16:58,500
+It's really delicious.
+真的很好吃。
+
+236
+00:16:58,000 --> 00:17:00,000
+The chicken with the back of a circle.
+那个带圆背的鸡肉。
+
+237
+00:17:00,000 --> 00:17:02,000
+That's great.
+那太好了。
+
+238
+00:17:02,000 --> 00:17:04,000
+You can sit down and have a chat.
+您可以坐下来聊聊天。
+
+239
+00:17:04,000 --> 00:17:05,500
+Yeah.
+好的。
+
+240
+00:17:05,000 --> 00:17:07,000
+We should have had this place for many years.
+我们本该早点发现这家店。
+
+241
+00:17:07,000 --> 00:17:09,000
+The staff said it's great.
+员工们说效果很好。
+
+242
+00:17:09,000 --> 00:17:15,000
+The brand is really a thing that we founders have been working on.
+这个品牌真的是我们创始人一直在努力经营的事业。
+
+243
+00:17:15,000 --> 00:17:19,000
+It's been a passion for food for over 10 years.
+我们对美食的热爱已经持续了十多年。
+
+244
+00:17:19,000 --> 00:17:23,000
+But the whole brand has been doing this for almost two years.
+但整个品牌开展这项业务已经快两年了。
+
+245
+00:17:23,000 --> 00:17:27,000
+How many people have come to your place through the AI map
+有多少人是通过AI地图
+
+246
+00:17:27,000 --> 00:17:32,000
+or the mobile map software?
+或手机地图软件找到你们店的？
+
+247
+00:17:32,000 --> 00:17:34,000
+Do you have any statistics?
+你们有相关统计数据吗？
+
+248
+00:17:34,000 --> 00:17:38,000
+After we've burned the chicken, we'll be able to get back to the top of the class.
+等我们烤完鸡，就能重回榜首了。
+
+249
+00:17:38,000 --> 00:17:44,000
+If we look at the data, we've increased by about 20% in the last month.
+如果看数据的话，上个月我们增长了大约20%。
+
+250
+00:17:44,000 --> 00:17:48,000
+So, the daily flow rate is 7-8 thousand.
+所以，日均客流量是七八千。
+
+251
+00:17:48,000 --> 00:17:49,500
+Daily?
+日均？
+
+252
+00:17:49,000 --> 00:17:50,500
+Yeah.
+是的。
+
+253
+00:17:50,000 --> 00:17:52,000
+It's almost 10,000.
+差不多有一万。
+
+254
+00:17:52,000 --> 00:17:55,000
+Do you often go online to read our messages?
+你们经常上网看我们的留言吗？
+
+255
+00:17:55,000 --> 00:17:58,000
+Many people come here because of their good reviews.
+很多人是因为好评才来这里的。
+
+256
+00:17:58,000 --> 00:18:01,000
+They can search directly and find us here.
+他们可以直接搜索并找到我们。
+
+257
+00:18:01,000 --> 00:18:08,000
+So, for the customer evaluation, we're now focusing on the customer evaluation in two areas,
+因此，对于顾客评价，我们现在重点关注两个方面，
+
+258
+00:18:08,000 --> 00:18:16,000
+and according to the real evaluation, we'll also improve the food quality and how to improve the food quality.
+并根据真实评价来改进食物质量，思考如何提升食物质量。
+
+259
+00:18:16,000 --> 00:18:17,500
+Okay.
+好的。
+
+260
+00:18:17,000 --> 00:18:21,000
+Let's continue to review the ingredients.
+让我们继续点评食材。
+
+261
+00:18:21,000 --> 00:18:22,500
+Thank you.
+谢谢。
+
+262
+00:18:22,000 --> 00:18:23,500
+Thank you.
+谢谢。
+
+263
+00:18:23,000 --> 00:18:24,500
+Thank you.
+谢谢。
+
+264
+00:18:24,000 --> 00:18:26,000
+Thank you for your advice.
+感谢你的建议。
+
+265
+00:18:26,000 --> 00:18:27,500
+Okay.
+好的。
+
+266
+00:18:38,000 --> 00:18:44,000
+I'm privileged to be sitting down with Professor He Ping, Associate Dean of the School of Economics
+我很荣幸能与清华大学经济管理学院副院长何平教授对坐。
+
+267
+00:18:44,000 --> 00:18:47,000
+and Management of Tsinghua University.
+清华大学经济管理学院。
+
+268
+00:18:47,000 --> 00:18:49,000
+Professor He, welcome to the point.
+何教授，欢迎来到《锐评》。
+
+269
+00:18:49,000 --> 00:18:51,000
+Thank you for inviting me.
+感谢邀请。
+
+270
+00:18:51,000 --> 00:18:52,500
+It's our pleasure.
+这是我们的荣幸。
+
+271
+00:18:52,000 --> 00:18:55,000
+Let's talk about the service sector of China.
+我们来谈谈中国的服务业。
+
+272
+00:18:55,000 --> 00:18:59,000
+I want to share some numbers just to give people an idea.
+我想分享一些数据，让大家有个概念。
+
+273
+00:18:59,000 --> 00:19:07,000
+For instance, the total size of China's service sector has already surpassed 12 trillion US dollars.
+例如，中国服务业的总规模已经超过12万亿美元。
+
+274
+00:19:07,000 --> 00:19:10,000
+That's at the end of last year.
+这是截至去年年底的数据。
+
+275
+00:19:10,000 --> 00:19:16,000
+And then there are three numbers which are very important, 60, 60, and 50.
+还有三个非常重要的数字：60、60和50。
+
+276
+00:19:16,000 --> 00:19:22,000
+60 because service now accounts for 60% of China's GDP.
+60是因为服务业目前占中国GDP的60%。
+
+277
+00:19:22,000 --> 00:19:29,000
+It's 60% of China's GDP growth last year, and it accounts 50% of China's total employment.
+它占去年中国GDP增长的60%，并占中国总就业人口的50%。
+
+278
+00:19:29,000 --> 00:19:37,000
+Give us a big understanding and understanding of how important, how big is China's service sector already.
+让我们深入理解中国服务业已经变得多么重要、规模有多大。
+
+279
+00:19:38,000 --> 00:19:45,000
+And compare with developed countries, I think there's a lot of space for China's service sector to grow.
+与发达国家相比，我认为中国服务业还有很大的增长空间。
+
+280
+00:19:45,000 --> 00:19:52,000
+For example, in the United States, the service sector accounts for more than 80% of GDP.
+例如，在美国，服务业占GDP的比重超过80%。
+
+281
+00:19:52,000 --> 00:20:00,000
+We only have like 60% and with 50% of employment, which means we have a lot of space to grow.
+我们目前只有大约60%，而就业占比为50%，这意味着我们还有很大的增长空间。
+
+282
+00:20:00,000 --> 00:20:07,000
+I think this is a good news for us, which means in the future there will be a very good potential
+我认为这对我们来说是个好消息，这意味着未来将拥有非常巨大的潜力
+
+283
+00:20:07,000 --> 00:20:10,000
+to develop service sector in China.
+来发展中国的服务业。
+
+284
+00:20:10,000 --> 00:20:16,000
+What do you think of the 60% for instance in terms of GDP growth?
+比如，你认为60%这个GDP增长占比意味着什么？
+
+285
+00:20:16,000 --> 00:20:20,000
+Service sector contributed for 60% of China's GDP growth.
+服务业贡献了中国60%的GDP增长。
+
+286
+00:20:20,000 --> 00:20:22,000
+How significant is that?
+这有多重要？
+
+287
+00:20:22,000 --> 00:20:25,000
+This is also very significant.
+这也非常重要。
+
+288
+00:20:25,000 --> 00:20:32,000
+I think it accounts for 60% of the GDP growth, which means that it already becomes the majority,
+我认为它占GDP增长的60%，这意味着它已经成为主体，
+
+289
+00:20:32,000 --> 00:20:36,000
+the major part of the growth, the major source of growth.
+成为增长的主要部分，增长的主要来源。
+
+290
+00:20:36,000 --> 00:20:39,000
+I think this portion will become larger in the future.
+我认为未来这一比例会越来越大。
+
+291
+00:20:39,000 --> 00:20:47,000
+In particular, in China, high value added service, as well as manufacturing service, etc.
+特别是在中国，高附加值服务业以及制造业服务等。
+
+292
+00:20:47,000 --> 00:20:51,000
+A lot of new service products will emerge in the future.
+未来将会涌现出许多新的服务产品。
+
+293
+00:20:51,000 --> 00:20:53,000
+How about travel?
+旅游业怎么样？
+
+294
+00:20:53,000 --> 00:20:58,000
+We are seeing every year even more the travel rush
+我们每年都能看到，尤其是在五一假期等长假期间，
+
+295
+00:20:58,000 --> 00:21:02,000
+during big holidays, such as the May Day holiday.
+旅游高峰甚至更加明显。
+
+296
+00:21:02,000 --> 00:21:05,000
+What trends are forming there?
+那里正在形成什么趋势？
+
+297
+00:21:05,000 --> 00:21:11,000
+Traveling is certainly a very big demand of the service sector.
+旅游无疑是服务业中一个非常大的需求。
+
+298
+00:21:11,000 --> 00:21:16,000
+In old times people looked at the price and location,
+过去人们看重价格和地点，
+
+299
+00:21:16,000 --> 00:21:24,000
+but in the future I think people will look at better services in travel.
+但未来我认为人们会更看重旅游中的优质服务。
+
+300
+00:21:24,000 --> 00:21:29,000
+For example, they will probably use some AI tools
+例如，他们可能会使用一些人工智能工具
+
+301
+00:21:29,000 --> 00:21:35,000
+to identify the best itinerary and to get the best place for shopping,
+以规划最佳行程并找到最佳购物地点，
+
+302
+00:21:35,000 --> 00:21:40,000
+and to identify the place that there are no crowds, etc.
+以及寻找没有人群拥挤的地方等。
+
+303
+00:21:40,000 --> 00:21:43,000
+So to improve the quality of the travel.
+从而提升旅行质量。
+
+304
+00:21:43,000 --> 00:21:48,000
+Also they will probably identify the local best restaurants, etc.
+他们还会找出当地最好的餐厅等。
+
+305
+00:21:48,000 --> 00:21:54,000
+I think the quality and experience will be much improved in the future.
+我认为未来的质量和体验会有很大提升。
+
+306
+00:21:54,000 --> 00:21:59,000
+As people become more sophisticated in terms of consuming services,
+随着人们在消费服务方面变得更加成熟，
+
+307
+00:21:59,000 --> 00:22:06,000
+which brings us to the nation's drive to meet this kind of demand,
+这也引出了国家为满足此类需求而采取的行动，
+
+308
+00:22:06,000 --> 00:22:08,000
+this kind of growing needs.
+即满足这种不断增长的需求。
+
+309
+00:22:08,000 --> 00:22:16,000
+I was talking about the size of China's service sector, being about 12 trillion US dollars for last year.
+我刚才提到中国服务业的规模，去年约为12万亿美元。
+
+310
+00:22:16,000 --> 00:22:21,000
+China has this planning system, so we have laid out the next five-year plan,
+中国有规划体系，因此我们制定了下一个五年规划，
+
+311
+00:22:21,000 --> 00:22:25,000
+which is from 2025 to 2030.
+即2025年至2030年。
+
+312
+00:22:25,000 --> 00:22:34,000
+It's expected that the service sector will grow to be as strong as 15 trillion US dollars.
+预计服务业将增长至15万亿美元的强劲规模。
+
+313
+00:22:34,000 --> 00:22:36,000
+That's 100 trillion yuan.
+即100万亿元人民币。
+
+314
+00:22:36,000 --> 00:22:41,000
+How does China have the confidence that it can achieve this goal?
+中国凭什么有信心实现这一目标？
+
+315
+00:22:41,000 --> 00:22:46,000
+What will be the key drivers behind this growth?
+推动这一增长的关键因素是什么？
+
+316
+00:22:46,000 --> 00:22:53,000
+First of all, from 12 trillion to 15 trillion in five years is not a big deal for China.
+首先，从12万亿到15万亿，五年时间对中国来说不算什么大事。
+
+317
+00:22:53,000 --> 00:22:59,000
+It only takes 4-5% growth per year, so we will achieve that goal.
+每年只需4%到5%的增长，我们就能实现这一目标。
+
+318
+00:22:59,000 --> 00:23:07,000
+Second, I think with the technology development, in particular with the data technology and AI technology,
+其次，我认为随着技术的发展，特别是数据技术和人工智能技术，
+
+319
+00:23:07,000 --> 00:23:12,000
+I think we will create a lot of new models for service in China.
+我认为我们将在中国创造许多新的服务模式。
+
+320
+00:23:12,000 --> 00:23:19,000
+Also, green service is also a big part of this service sector growth as well.
+此外，绿色服务也是服务业增长的重要组成部分。
+
+321
+00:23:19,000 --> 00:23:24,000
+In China, also, we need a lot of high-value added service,
+在中国，我们同样需要大量高附加值的服务，
+
+322
+00:23:24,000 --> 00:23:32,000
+high-quality service in healthcare, in senior care, in traveling, that you just mentioned.
+包括医疗保健、老年护理以及您刚才提到的旅游等方面的高质量服务。
+
+323
+00:23:32,000 --> 00:23:36,000
+We do need a lot of high-value added service as well.
+我们确实也需要大量高附加值的服务。
+
+324
+00:23:36,000 --> 00:23:40,000
+There's a lot of space to grow, new products, new services,
+在增长方面还有很大空间，无论是新产品、新服务，
+
+325
+00:23:40,000 --> 00:23:45,000
+the combination of service and products, the combination of manufacturing services,
+还是服务与产品的结合、制造与服务的结合，
+
+326
+00:23:45,000 --> 00:23:52,000
+as well as AI applications, generating new business models in the service sector.
+以及人工智能应用，这些都在服务业催生出新的商业模式。
+
+327
+00:23:52,000 --> 00:23:54,000
+There's too much space to grow.
+增长的空间太大了。
+
+328
+00:23:54,000 --> 00:24:00,000
+I think this is a very conservative estimate to grow to 15 billion dollars.
+我认为增长到150亿美元是一个非常保守的估计。
+
+329
+00:24:00,000 --> 00:24:02,000
+I think it could be 20 billion.
+我觉得可能会达到200亿美元。
+
+330
+00:24:02,000 --> 00:24:03,500
+Wow.
+哇。
+
+331
+00:24:03,000 --> 00:24:05,000
+If we do the right thing.
+如果我们做对了的话。
+
+332
+00:24:05,000 --> 00:24:11,000
+As you mentioned, new things will emerge, for instance,
+正如您提到的，将会涌现出新事物，例如，
+
+333
+00:24:11,000 --> 00:24:15,000
+new models and new consumption patterns.
+新的模式和新的消费形态。
+
+334
+00:24:15,000 --> 00:24:23,000
+What could be some of the new consumption models and service scenarios that we can expect to emerge?
+我们可以预期会出现哪些新的消费模式和服务场景？
+
+335
+00:24:23,000 --> 00:24:28,000
+How is that going to change people's way of leading their lives?
+这将如何改变人们的生活方式？
+
+336
+00:24:28,000 --> 00:24:33,000
+There are just many things that could occur in the near future.
+在不久的将来，可能会发生很多事情。
+
+337
+00:24:33,000 --> 00:24:38,000
+For example, the AI application in people's daily life,
+例如，人工智能在日常生活中的应用，
+
+338
+00:24:38,000 --> 00:24:43,000
+we could use the AI agent to do the planning for our traveling,
+我们可以使用AI智能体来规划我们的旅行，
+
+339
+00:24:43,000 --> 00:24:50,000
+and we use the AI for work to design the working schedule.
+并利用AI来设计工作日程。
+
+340
+00:24:50,000 --> 00:24:56,000
+Also, there will be integration of manufacturing and services.
+此外，还将出现制造与服务的融合。
+
+341
+00:24:56,000 --> 00:25:02,000
+First of all, a lot of products will be sold along with a lot of service products.
+首先，许多产品将伴随大量服务类产品一同销售。
+
+342
+00:25:02,000 --> 00:25:08,000
+For example, if you buy a car, then it could be like an AMAP tool on it,
+例如，如果你买了一辆车，它可能就像上面装了一个高德地图工具，
+
+343
+00:25:08,000 --> 00:25:12,000
+and also connecting to a lot of other services.
+并且还能连接许多其他服务。
+
+344
+00:25:12,000 --> 00:25:18,000
+If you buy a cell phone, it will come with other products, many manufacturing products as well.
+如果你买了一部手机，它会附带其他产品，包括许多制造类产品。
+
+345
+00:25:18,000 --> 00:25:25,000
+Secondly, I think in the manufacturing sector, we also need production service,
+其次，我认为在制造业领域，我们也需要生产性服务，
+
+346
+00:25:25,000 --> 00:25:32,000
+which means we use the tools to provide to improve the efficiency in manufacturing,
+这意味着我们利用工具来提升制造效率，
+
+347
+00:25:32,000 --> 00:25:39,000
+like planning, like scheduling, like logistics, like legal services,
+比如规划、排程、物流、法律服务，
+
+348
+00:25:39,000 --> 00:25:48,000
+like strategy consulting, after-sales services, like compliance services, like risk management.
+比如战略咨询、售后服务、合规服务、风险管理。
+
+349
+00:25:48,000 --> 00:25:56,000
+All these types of services for manufacturing for the goods production is also a big part of this.
+所有这类服务于制造业和商品生产的服务，也是其中重要的一部分。
+
+350
+00:25:56,000 --> 00:26:02,000
+What kind of new scenarios are being created with the introduction of AI?
+随着人工智能的引入，正在创造哪些新场景？
+
+351
+00:26:02,000 --> 00:26:10,000
+For instance, I was listening to Mr. Lee Gung from AMAP to talk about the introduction of AI technology into AMAPs,
+例如，我听了高德地图的李刚先生谈论将人工智能技术引入高德地图，
+
+352
+00:26:10,000 --> 00:26:12,000
+so that people have greater experience.
+以便让人们拥有更好的体验。
+
+353
+00:26:12,000 --> 00:26:16,000
+For instance, the Flying Street View feature of the map.
+例如，地图中的飞行街景功能。
+
+354
+00:26:16,000 --> 00:26:23,000
+How are new scenarios being created, and what impact could this have?
+新场景是如何被创造的，这可能带来什么影响？
+
+355
+00:26:23,000 --> 00:26:27,000
+I think the technology just makes our life much more colorful.
+我认为技术只是让我们的生活变得更加丰富多彩。
+
+356
+00:26:27,000 --> 00:26:32,000
+Originally, for example, in AMAP, it would just give you the route to a destiny,
+例如，最初在高德地图中，它只会给你到目的地的路线，
+
+357
+00:26:32,000 --> 00:26:35,000
+to a destiny, it would give you the best route for now.
+到目的地，它会给你当前的最佳路线。
+
+358
+00:26:35,000 --> 00:26:37,000
+But now, it used to be just reactive.
+但现在，它过去只是被动的。
+
+359
+00:26:37,000 --> 00:26:41,000
+You would give the app an order, they would give an answer.
+你会给应用下达指令，它们会给出答案。
+
+360
+00:26:41,000 --> 00:26:45,000
+But in the future, it will be much more proactive and immersive.
+但在未来，它将变得更加主动和沉浸式。
+
+361
+00:26:45,000 --> 00:26:50,000
+He could automatically provide other products and services for the suggestion,
+它可以自动为建议提供其他产品和服务，
+
+362
+00:26:50,000 --> 00:26:57,000
+and also, it could make your experience much, much more immersive, like you're really in it.
+而且，它能让你的体验变得更加沉浸，仿佛你真的身临其境。
+
+363
+00:26:57,000 --> 00:27:01,000
+This is a big change of our life.
+这是我们要经历的一大生活变革。
+
+364
+00:27:01,000 --> 00:27:08,000
+What kind of opportunities is this AI plus services creating for foreign businesses?
+这种“AI+服务”模式为外国企业创造了哪些机遇？
+
+365
+00:27:08,000 --> 00:27:12,000
+I understand the investment in high-tech sector,
+我了解到，在高科技领域的投资，
+
+366
+00:27:12,000 --> 00:27:19,000
+especially for foreign direct investment, really shot up 30% in the first quarter of this year.
+特别是外商直接投资，今年第一季度增长了30%。
+
+367
+00:27:19,000 --> 00:27:24,000
+What opportunities lie in AI plus services for foreign businesses?
+对于外国企业来说，“AI+服务”蕴含着哪些机遇？
+
+368
+00:27:24,000 --> 00:27:28,000
+I think there's just a lot of opportunities for foreign investors as well.
+我认为，外国投资者也拥有大量机遇。
+
+369
+00:27:28,000 --> 00:27:32,000
+For example, as I mentioned, there's a high-value added service.
+例如，正如我提到的，存在高附加值的服务。
+
+370
+00:27:32,000 --> 00:27:37,000
+In China, the old model is very low-priced, long hours.
+在中国，旧模式是低价格、长时间工作。
+
+371
+00:27:37,000 --> 00:27:38,500
+Cheap labor?
+廉价劳动力？
+
+372
+00:27:38,000 --> 00:27:39,500
+Cheap labor.
+廉价劳动力。
+
+373
+00:27:39,000 --> 00:27:46,000
+But now, with the assistance of AI, high-quality services will become much more accessible in China.
+但现在，借助AI，在中国获得高质量服务将变得更加容易。
+
+374
+00:27:46,000 --> 00:27:50,000
+So, it certainly improved the quality of this kind of trade services.
+因此，它确实提升了这类贸易服务的质量。
+
+375
+00:27:50,000 --> 00:27:54,000
+What kind of risks do you think there may be?
+你认为可能存在哪些风险？
+
+376
+00:27:54,000 --> 00:27:56,000
+And what kind of bottlenecks?
+以及哪些瓶颈？
+
+377
+00:27:56,000 --> 00:28:03,000
+The biggest risk is probably the governance of new technology.
+最大的风险可能是新技术的治理问题。
+
+378
+00:28:04,000 --> 00:28:06,000
+Technology is neutral.
+技术是中性的。
+
+379
+00:28:06,000 --> 00:28:12,000
+It could bring good things and also equally likely bring bad things.
+它既能带来好事，也同样可能带来坏事。
+
+380
+00:28:12,000 --> 00:28:17,000
+So, for example, people use AI to improve their quality.
+例如，人们利用AI来提升他们的质量。
+
+381
+00:28:17,000 --> 00:28:24,000
+Certainly, we now see a lot of people use AI tool to cheat as well.
+当然，我们现在也看到很多人使用人工智能工具来作弊。
+
+382
+00:28:24,000 --> 00:28:28,000
+And sometimes, our privacy is not well protected.
+而且有时候，我们的隐私没有得到很好的保护。
+
+383
+00:28:28,000 --> 00:28:32,000
+So, this could be a big concern as well.
+所以，这也是一个很大的担忧。
+
+384
+00:28:32,000 --> 00:28:35,000
+What's China's approach to addressing these bottlenecks?
+中国如何应对这些瓶颈？
+
+385
+00:28:35,000 --> 00:28:45,000
+I think China should improve the legislation in this area for the governance in AI.
+我认为中国应该完善这一领域的立法，以加强人工智能治理。
+
+386
+00:28:45,000 --> 00:28:49,000
+Also, try to break this local protectionism.
+同时，努力打破地方保护主义。
+
+387
+00:28:49,000 --> 00:28:56,000
+Also, I think training workforce is important because not only we need people who have the new demand,
+此外，我认为培养劳动力也很重要，因为我们不仅需要懂新需求的人，
+
+388
+00:28:56,000 --> 00:29:00,000
+know the new demand, but also we need people who can provide these services.
+还需要能提供这些服务的人。
+
+389
+00:29:00,000 --> 00:29:06,000
+We need to train people to learn the technology, how to use the new technology as well.
+我们需要培训人们学习技术，以及如何运用新技术。
+
+390
+00:29:06,000 --> 00:29:14,000
+Okay. It's certainly a very big topic. We can't cover all, but I think we are trying to scratch the surface at least.
+好的。这确实是一个非常大的话题。我们无法面面俱到，但我想我们至少已经触及了表面。
+
+391
+00:29:14,000 --> 00:29:20,000
+Thank you so much, Professor He Ping, Associate Dean of the School of Economics and Management at Tsinghua University.
+非常感谢何平教授，清华大学经济管理学院副院长。
+
+392
+00:29:20,000 --> 00:29:21,500
+Thank you.
+谢谢。
+
+393
+00:29:51,000 --> 00:29:53,000
+Thank you.
+谢谢。

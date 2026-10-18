@@ -8,7 +8,7 @@
  *   3. ../data（主项目的数据目录，本地开发时的后备）
  */
 import { createHash } from 'node:crypto';
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 const YEARS = ['2020', '2021', '2022', '2023', '2024', '2025', '2026'] as const;
@@ -35,6 +35,8 @@ if (!DATA_DIR) {
 }
 
 const OUT_FILE = path.resolve(siteRoot, 'src', 'generated', 'the-point-data.ts');
+const SUBTITLE_DIR = path.resolve(siteRoot, 'subtitles');
+const SUBTITLE_OUT = path.resolve(siteRoot, 'src', 'generated', 'the-point-subtitles.ts');
 
 interface RawProgram {
   date?: string;
@@ -115,7 +117,81 @@ function shortHash(input: string): string {
   return createHash('sha1').update(input).digest('hex').slice(0, 10);
 }
 
-function normalize(raw: RawProgram, seen: Set<string>): NormalizedEpisode | null {
+const CJK_RE = /[\u4e00-\u9fff]/;
+
+function dedupeLines(lines: string[]): string[] {
+  const seen = new Set<string>();
+  const out: string[] = [];
+  for (const line of lines) {
+    const key = line.trim().toLowerCase();
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    out.push(line.trim());
+  }
+  return out;
+}
+
+function parseTimestamp(value: string): number {
+  const m = /^(\d+):(\d{2}):(\d{2})[,.](\d{1,3})$/.exec(value.trim());
+  if (!m) return Number.NaN;
+  return Number(m[1]) * 3600000 + Number(m[2]) * 60000 + Number(m[3]) * 1000 + Number(m[4].padEnd(3, '0'));
+}
+
+interface SubtitleCue {
+  s: number;
+  e: number;
+  en: string;
+  zh: string;
+}
+
+interface Subtitle {
+  bilingual: boolean;
+  cueCount: number;
+  cues: SubtitleCue[];
+}
+
+function parseSrt(content: string): SubtitleCue[] {
+  return content
+    .replace(/^\uFEFF/, '')
+    .split(/\r?\n\r?\n/)
+    .map((block) => block.trim())
+    .filter(Boolean)
+    .map((block) => {
+      const lines = block.split(/\r?\n/);
+      const timeIdx = lines.findIndex((l) => l.includes('-->'));
+      if (timeIdx === -1) return null;
+      const [start, end] = lines[timeIdx].split('-->').map((s) => s.trim());
+      const body = dedupeLines(lines.slice(timeIdx + 1).map((l) => l.trim()).filter(Boolean));
+      const zh = body.filter((l) => CJK_RE.test(l)).join(' ');
+      const en = body.filter((l) => !CJK_RE.test(l)).join(' ');
+      const s = parseTimestamp(start);
+      const e = parseTimestamp(end);
+      if (!Number.isFinite(s) || !Number.isFinite(e) || (!en && !zh)) return null;
+      return { s, e, en, zh };
+    })
+    .filter((c): c is SubtitleCue => c !== null);
+}
+
+function loadSubtitles(): Map<string, Subtitle> {
+  const map = new Map<string, Subtitle>();
+  if (!existsSync(SUBTITLE_DIR)) return map;
+  for (const name of readdirSync(SUBTITLE_DIR)) {
+    if (!name.toLowerCase().endsWith('.srt')) continue;
+    const date = name.slice(0, 10);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
+    const cues = parseSrt(readFileSync(path.join(SUBTITLE_DIR, name), 'utf8'));
+    if (cues.length === 0) continue;
+    const zhCount = cues.filter((c) => c.zh).length;
+    map.set(date, {
+      bilingual: zhCount / cues.length > 0.8,
+      cueCount: cues.length,
+      cues,
+    });
+  }
+  return map;
+}
+
+function normalize(raw: RawProgram, seen: Set<string>, subtitles: Map<string, Subtitle>): NormalizedEpisode | null {
   const date = clean(raw.date);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
 
@@ -153,6 +229,8 @@ function normalize(raw: RawProgram, seen: Set<string>): NormalizedEpisode | null
     playbackUrl: buildPlaybackUrl(epgId, date, startTime),
     hasVideo: videoUrl.length > 0,
     hasSummary: summary.length > 0,
+    hasSubtitle: subtitles.has(date),
+    isBilingual: subtitles.get(date)?.bilingual ?? false,
     durationMinutes,
     id,
   };
@@ -161,12 +239,13 @@ function normalize(raw: RawProgram, seen: Set<string>): NormalizedEpisode | null
 function main(): void {
   const seen = new Set<string>();
   const episodes: NormalizedEpisode[] = [];
+  const subtitles = loadSubtitles();
 
   for (const year of YEARS) {
     const raw = readRaw(year);
     let added = 0;
     for (const item of raw) {
-      const normalized = normalize(item, seen);
+      const normalized = normalize(item, seen, subtitles);
       if (normalized) {
         episodes.push(normalized);
         added += 1;
@@ -185,6 +264,8 @@ function main(): void {
     lastDate: episodes[episodes.length - 1]?.date ?? '',
     withVideo: episodes.filter((e) => e.hasVideo).length,
     withSummary: episodes.filter((e) => e.hasSummary).length,
+    withSubtitle: episodes.filter((e) => subtitles.has(e.date)).length,
+    withBilingual: episodes.filter((e) => subtitles.get(e.date)?.bilingual).length,
   };
 
   const byYear = YEARS.map((year) => ({
@@ -207,6 +288,8 @@ export interface ThePointEpisode {
   playbackUrl: string;
   hasVideo: boolean;
   hasSummary: boolean;
+  hasSubtitle: boolean;
+  isBilingual: boolean;
   durationMinutes: number;
   id: string;
 }
@@ -215,17 +298,43 @@ export const THE_POINT_STATS = ${JSON.stringify(stats, null, 2)} as const;
 
 export const THE_POINT_YEARS = ${JSON.stringify(byYear, null, 2)} as const;
 
-export const THE_POINT_EPISODES: ThePointEpisode[] = ${JSON.stringify(episodes)};
+const EPISODE_JSON = ${JSON.stringify(JSON.stringify(episodes))};
+
+export const THE_POINT_EPISODES: ThePointEpisode[] = JSON.parse(EPISODE_JSON) as ThePointEpisode[];
+`;
+
+  const subtitleBody = `// 此文件由 scripts/build-data.ts 自动生成，请勿手动修改。
+export interface ThePointSubtitleCue {
+  s: number;
+  e: number;
+  en: string;
+  zh: string;
+}
+
+export interface ThePointSubtitle {
+  bilingual: boolean;
+  cueCount: number;
+  cues: ThePointSubtitleCue[];
+}
+
+export const THE_POINT_SUBTITLES: Record<string, ThePointSubtitle> = JSON.parse(
+  ${JSON.stringify(JSON.stringify(Object.fromEntries([...subtitles.entries()].sort())))}
+) as Record<string, ThePointSubtitle>;
 `;
 
   mkdirSync(path.dirname(OUT_FILE), { recursive: true });
   writeFileSync(OUT_FILE, body, 'utf8');
+  writeFileSync(SUBTITLE_OUT, subtitleBody, 'utf8');
 
   console.log(
     `\n共 ${stats.total} 集（${stats.firstDate} ~ ${stats.lastDate}），视频 ${stats.withVideo}，摘要 ${stats.withSummary}`,
   );
+  console.log(
+    `字幕 ${stats.withSubtitle} 期（双语 ${stats.withBilingual}），共 ${subtitles.size} 份 SRT`,
+  );
   console.log(`数据源: ${DATA_DIR}`);
   console.log(`输出: ${path.relative(siteRoot, OUT_FILE)}`);
+  console.log(`输出: ${path.relative(siteRoot, SUBTITLE_OUT)}`);
 }
 
 main();

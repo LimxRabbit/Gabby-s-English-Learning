@@ -4,10 +4,19 @@ import {
   THE_POINT_YEARS,
   type ThePointEpisode,
 } from '@/generated/the-point-data';
+import {
+  THE_POINT_SUBTITLES,
+  type ThePointSubtitle,
+  type ThePointSubtitleCue,
+} from '@/generated/the-point-subtitles';
 
-export type { ThePointEpisode };
+export type { ThePointEpisode, ThePointSubtitle, ThePointSubtitleCue };
 
-export { THE_POINT_EPISODES, THE_POINT_STATS, THE_POINT_YEARS };
+export { THE_POINT_EPISODES, THE_POINT_STATS, THE_POINT_YEARS, THE_POINT_SUBTITLES };
+
+export function getSubtitle(date: string): ThePointSubtitle | undefined {
+  return THE_POINT_SUBTITLES[date];
+}
 
 export const EPISODE_BY_SLUG: ReadonlyMap<string, ThePointEpisode> = new Map(
   THE_POINT_EPISODES.map((episode) => [episode.slug, episode]),
@@ -61,6 +70,8 @@ export interface EpisodeListItem {
   excerpt: string;
   tags: string[];
   hasVideo: boolean;
+  hasSubtitle: boolean;
+  isBilingual: boolean;
 }
 
 export function toListItem(episode: ThePointEpisode, excerptLength = 90): EpisodeListItem {
@@ -73,5 +84,7 @@ export function toListItem(episode: ThePointEpisode, excerptLength = 90): Episod
       episode.summary.length > excerptLength ? `${episode.summary.slice(0, excerptLength)}…` : episode.summary,
     tags: episode.tags,
     hasVideo: episode.hasVideo,
+    hasSubtitle: episode.hasSubtitle,
+    isBilingual: episode.isBilingual,
   };
 }

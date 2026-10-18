@@ -1,0 +1,863 @@
+1
+00:00:30,000 --> 00:00:39,960
+How does China keep 1.4 billion people cool?
+
+2
+00:00:39,960 --> 00:00:45,039
+This summer the heat is testing cities worldwide, well in the northern hemisphere.
+
+3
+00:00:45,039 --> 00:00:52,120
+In China the challenge reached a new scale on July 10th, when the peak electricity load
+
+4
+00:00:52,120 --> 00:00:57,120
+hit an all-time high of 1.5 billion kilowatts.
+
+5
+00:00:57,119 --> 00:01:02,119
+The temperature is higher than those of the United States, Japan and Russia combined,
+
+6
+00:01:02,119 --> 00:01:05,120
+according to statistics from the National Grid.
+
+7
+00:01:05,120 --> 00:01:09,120
+Yet behind the big numbers lies a bigger story.
+
+8
+00:01:09,120 --> 00:01:16,120
+How does a country with such a massive population ensure energy security as millions of households
+
+9
+00:01:16,120 --> 00:01:19,120
+and businesses turn on their cooling systems?
+
+10
+00:01:19,120 --> 00:01:26,120
+How do cities adapt and innovate to make extreme heat more manageable for residents and tourists
+
+11
+00:01:26,120 --> 00:01:30,120
+and with heat waves baking cities across the northern hemisphere?
+
+12
+00:01:30,120 --> 00:01:34,120
+What can China's experience offer to other regions, if any?
+
+13
+00:01:34,120 --> 00:01:37,120
+Welcome to this special edition of The Point with Miluxian.
+
+14
+00:01:37,120 --> 00:01:40,120
+An opinion show coming to you from Beijing.
+
+15
+00:01:40,120 --> 00:01:45,120
+I'm pleased to be joined from Xiaoman, southern China, by Professor Ling Boqiang,
+
+16
+00:01:45,120 --> 00:01:50,120
+Dean of the China Institute for Studies in Energy Policy at Xiaoman University.
+
+17
+00:01:50,120 --> 00:01:57,120
+Here in Beijing, Professor Zhang Haoran, Vice Dean of the School of Urban Planning and Design
+
+18
+00:01:57,120 --> 00:01:59,120
+at Peking University.
+
+19
+00:01:59,120 --> 00:02:04,120
+I'm from Shanghai by David Fishman, principal at the Lan Tao Group
+
+20
+00:02:04,120 --> 00:02:10,120
+and Asia Pacific Energy Economics and Analytics Consultancy and Advisory firm.
+
+21
+00:02:10,120 --> 00:02:13,120
+The warmest welcome to all of you gentlemen.
+
+22
+00:02:13,120 --> 00:02:15,120
+I hope it is not too hot.
+
+23
+00:02:15,120 --> 00:02:16,620
+My welcome.
+
+24
+00:02:16,120 --> 00:02:20,120
+A lot of people, especially in Europe, have been debating whether or not they use air conditioning.
+
+25
+00:02:20,120 --> 00:02:25,120
+It seems that in China, that's just a plain normal thing to do.
+
+26
+00:02:25,120 --> 00:02:35,120
+And as I said, China's record high of power load hit 1.5 billion kilowatts, that's on July the 10th.
+
+27
+00:02:35,120 --> 00:02:39,120
+Professor Ling, help us put that into perspective.
+
+28
+00:02:39,120 --> 00:02:41,120
+What exactly does that mean?
+
+29
+00:02:41,120 --> 00:02:45,120
+How big is that in terms of power load?
+
+30
+00:02:45,120 --> 00:02:47,120
+Well, it's obviously bigger.
+
+31
+00:02:47,120 --> 00:02:51,120
+It's bigger than many countries combined together, as we mentioned earlier.
+
+32
+00:02:51,120 --> 00:02:55,120
+China has the largest power electricity system.
+
+33
+00:02:55,120 --> 00:03:01,120
+Right now, three kilowatt hours generated globally, one is in China.
+
+34
+00:03:01,120 --> 00:03:06,120
+In about 10 years' time, it's quite possible that two kilowatt hours, one will be in China.
+
+35
+00:03:06,120 --> 00:03:10,120
+That's how big the electricity system in China is.
+
+36
+00:03:10,120 --> 00:03:16,120
+But if you just look at the numbers, it's going to be another record high next year for sure.
+
+37
+00:03:16,120 --> 00:03:18,120
+Okay, there's no other way.
+
+38
+00:03:18,120 --> 00:03:23,120
+If you look at it compared to last year, it did not increase that much.
+
+39
+00:03:23,120 --> 00:03:26,120
+Last year, it was 15.8.
+
+40
+00:03:26,120 --> 00:03:28,120
+This year, it was 15.1.
+
+41
+00:03:28,120 --> 00:03:33,120
+So it increased, obviously, but not that much actually.
+
+42
+00:03:33,120 --> 00:03:40,120
+And this really reflects the increasing utilization of the air conditions.
+
+43
+00:03:40,120 --> 00:03:42,120
+That's the topic we're talking about today.
+
+44
+00:03:42,120 --> 00:03:44,120
+But not necessarily.
+
+45
+00:03:44,120 --> 00:03:49,120
+Also, behind that, you've got an electric vehicle, you've got a deep industrialization,
+
+46
+00:03:49,120 --> 00:03:55,120
+which the electricity demand will continue to grow.
+
+47
+00:03:55,120 --> 00:04:01,120
+In fact, last six years, it's looted about more than 6% annual growth.
+
+48
+00:04:01,120 --> 00:04:06,120
+And this year, there are forecastings about between 5.5% to 6%.
+
+49
+00:04:06,120 --> 00:04:10,120
+It's more likely to 6% towards 6%.
+
+50
+00:04:10,120 --> 00:04:14,120
+So, giving all together that the incremental is there.
+
+51
+00:04:14,120 --> 00:04:19,120
+And this reflected, again, increasing even standard.
+
+52
+00:04:19,120 --> 00:04:24,120
+Another one is deep industrialization.
+
+53
+00:04:24,120 --> 00:04:28,120
+And it's one to eight, say that it's free weather.
+
+54
+00:04:28,120 --> 00:04:31,120
+It's also there because every year, it gets harder.
+
+55
+00:04:31,120 --> 00:04:36,120
+So, putting all these factors together there, I think you will continue to set record.
+
+56
+00:04:36,120 --> 00:04:42,120
+Next year, we can discuss again at this point, you're going to give another number, which is like a high.
+
+57
+00:04:42,120 --> 00:04:44,120
+That's for sure, 100% sure.
+
+58
+00:04:44,120 --> 00:04:49,120
+So, the number here is we need not scaring us.
+
+59
+00:04:49,120 --> 00:04:57,120
+What is important is, and by the way, that the air conditioning is about 40% to 50% of the air.
+
+60
+00:04:57,120 --> 00:05:01,120
+40% to 50% of the electricity consumption of less than sure.
+
+61
+00:05:01,120 --> 00:05:11,120
+Basically, the huge increase in electricity usage is because of industrialization about EVs and also about air conditioning.
+
+62
+00:05:11,120 --> 00:05:16,120
+And China produce a lot of electricity as well used.
+
+63
+00:05:16,120 --> 00:05:20,120
+You were talking about one third of the global total.
+
+64
+00:05:20,120 --> 00:05:32,120
+Professor Zhang, the natural question a lot of people would ask is, why is China able, first of all, to produce so much electricity?
+
+65
+00:05:32,120 --> 00:05:38,120
+And secondly, the consumption of electricity is so huge.
+
+66
+00:05:38,120 --> 00:05:41,120
+Let's focus on the production first.
+
+67
+00:05:41,120 --> 00:05:44,120
+How is China able to generate so much electricity?
+
+68
+00:05:44,120 --> 00:05:46,120
+Where does that all come from?
+
+69
+00:05:47,120 --> 00:05:57,120
+Yes, actually, China is currently China's total in total power capacity is now over 4 billion kilowatts.
+
+70
+00:05:57,120 --> 00:06:06,120
+That is more than two and a half times of peak demand of today's new data 1.5 billion kilowatts.
+
+71
+00:06:07,120 --> 00:06:15,120
+And of course, about 40% of the energy from now from the solar and the wind.
+
+72
+00:06:15,120 --> 00:06:23,120
+In the few decades, China just developed this kind of renewable energy industry very quickly.
+
+73
+00:06:23,120 --> 00:06:29,120
+And 40% energy from those kind of renewable energy sources.
+
+74
+00:06:29,120 --> 00:06:32,120
+This is the current kind of state.
+
+75
+00:06:32,120 --> 00:06:41,120
+So basically you're saying China has the capacity of producing 4 billion kilowatts of electricity, but the usage comes to 1.5 billion.
+
+76
+00:06:41,120 --> 00:06:47,120
+And out of that 4 billion, you are talking about 40% green energy.
+
+77
+00:06:47,120 --> 00:06:50,120
+Yes, exactly.
+
+78
+00:06:50,120 --> 00:06:55,120
+Okay. David, let me come to you. You have been in China quite some time.
+
+79
+00:06:55,120 --> 00:06:57,120
+What is your observation?
+
+80
+00:06:57,120 --> 00:07:01,120
+We're talking about it as if you just go home and switch everything on.
+
+81
+00:07:01,120 --> 00:07:15,120
+But it's actually quite amazing for a country of such a huge scale and such a large population when everybody switches on their air conditioning, everything in full throttle.
+
+82
+00:07:15,120 --> 00:07:23,120
+There is no power shortages, at least not on a large scale as we used to have a couple of years ago.
+
+83
+00:07:24,120 --> 00:07:36,120
+Yeah, that's right. It's truly a marvelous giant machine that works because all of the small pieces of the machine are also working.
+
+84
+00:07:36,120 --> 00:07:44,120
+Right? If you look at China just as a single large country with a single large power grid, it's almost too large to even really comprehend.
+
+85
+00:07:44,120 --> 00:07:58,120
+When you break it down into a thousand individual cities, dozens of provinces, dozens of local level grids turning into provincial grids turning into regional grids, and then it doesn't, you know, it's still incredible.
+
+86
+00:07:58,120 --> 00:08:01,120
+But then at least it's a little bit more understandable.
+
+87
+00:08:01,120 --> 00:08:06,120
+Right? Every province in China is the size of a European country.
+
+88
+00:08:06,120 --> 00:08:10,120
+And we have 30 of them, more than 30 of them all stuck together.
+
+89
+00:08:10,120 --> 00:08:20,120
+So 30, you know, medium to large sized European countries all with their own individual grid systems connecting to each other, trading power to each other, serving their local needs.
+
+90
+00:08:20,120 --> 00:08:26,120
+And then you build up your entire system from small pieces to larger pieces and larger pieces.
+
+91
+00:08:26,120 --> 00:08:43,120
+And all the way along the way, the people at state grid or the provincial grid companies and the power exchanges and the generators and the retailers, everybody that's involved in making this whole system work is constantly asking questions and receiving information.
+
+92
+00:08:43,120 --> 00:08:46,120
+What do I think is going to be the power load in the next 15 minutes?
+
+93
+00:08:46,120 --> 00:08:48,120
+Okay, let's get some more electricity prepared for that.
+
+94
+00:08:48,120 --> 00:08:50,120
+What do I think is going to happen tomorrow?
+
+95
+00:08:50,120 --> 00:08:51,620
+Is there going to be a storm?
+
+96
+00:08:51,120 --> 00:08:53,120
+Is there going to be a heat wave?
+
+97
+00:08:53,120 --> 00:08:56,120
+What if hydropower doesn't perform that well this month?
+
+98
+00:08:56,120 --> 00:09:10,120
+Every single individual question is being answered with a plan and a generator and a retailer and a power company is responding to make sure the system uses all those little pieces of information and slowly builds up into one big functional system.
+
+99
+00:09:10,120 --> 00:09:13,120
+It's really quite remarkable.
+
+100
+00:09:13,120 --> 00:09:17,120
+Let me stay with David a little bit more.
+
+101
+00:09:17,120 --> 00:09:32,120
+Of course, Shanghai is one of the most important cities, so everything would be done to make sure that no power blackout will happen in Shanghai under whatsoever circumstances, unless it is extreme, extreme circumstances.
+
+102
+00:09:32,120 --> 00:09:36,120
+But what about the other areas, more underdeveloped regions in China?
+
+103
+00:09:36,120 --> 00:09:46,120
+Do you also notice a relatively guaranteed stable flow of electricity in high seasons such as summer?
+
+104
+00:09:47,120 --> 00:09:56,120
+Yeah, so during your max stress periods on the grid, right, we're talking about the middle of summer.
+
+105
+00:09:56,120 --> 00:09:58,120
+Typically, that's the peak moment.
+
+106
+00:09:58,120 --> 00:10:07,120
+Under normal weather conditions, under normal seasonal conditions, we should not expect any real stress on the Chinese grid.
+
+107
+00:10:07,120 --> 00:10:22,120
+There is generally more than adequate reserves on the generation and capacity side relative to the load, even the peak load on the hottest summer day, where sometimes you might run into a little bit of stress is during extreme weather events.
+
+108
+00:10:22,120 --> 00:10:33,120
+So if you have extreme heat combined with a drought that affects hydropower, then maybe the southwest grid where there's a lot of hydropower starts to get under a little bit of stress.
+
+109
+00:10:33,120 --> 00:10:43,120
+Or a few years ago, we had extreme heat combined with some stress in the coal market, which made it difficult for coal supplies to be delivered to coal-fired power plants.
+
+110
+00:10:43,120 --> 00:10:46,120
+So anywhere that was relying a lot on coal could get under some stress.
+
+111
+00:10:46,120 --> 00:10:55,120
+So we see under normal circumstances, when the grid is functioning normal, even an extreme heat event like today in Shanghai is really not a problem.
+
+112
+00:10:55,120 --> 00:10:58,120
+You need several things to be happening to stress all at once.
+
+113
+00:10:58,120 --> 00:11:10,120
+And even then, people like you and me, we might not even notice it because we are residential power consumers and the national policy is always to preserve electricity access to residential power customers first.
+
+114
+00:11:10,120 --> 00:11:20,120
+If there's any load shedding that happens, it will be for the industrial sector and it will start on a voluntary basis somewhere in the industrial sector, never for us in the residential side.
+
+115
+00:11:20,120 --> 00:11:28,120
+Professor Lin, let me come back to you. So help us understand how China is able to generate so much electricity.
+
+116
+00:11:28,120 --> 00:11:36,120
+For instance, how much does that come from coal? How much does that, and just now Professor Zhang talked about 40% come from green energy.
+
+117
+00:11:36,120 --> 00:11:40,120
+But help us understand a little bit better what is China's energy policy.
+
+118
+00:11:40,120 --> 00:11:47,120
+And when it comes to extreme usage in summer, how does the system work?
+
+119
+00:11:48,120 --> 00:11:53,120
+What about the, I think the coal still the main source of the electricity in China.
+
+120
+00:11:53,120 --> 00:12:02,120
+When the solar problem is 20 to 23%, the other nuclear and hydro are quite stable.
+
+121
+00:12:02,120 --> 00:12:08,120
+So the dynamic right now is renewable and the reach 40% is quite remarkable.
+
+122
+00:12:08,120 --> 00:12:13,120
+But less of it, basically is coal fire problem, some natural gas problem.
+
+123
+00:12:13,120 --> 00:12:16,120
+So the steel man is a coal basis at this moment.
+
+124
+00:12:16,120 --> 00:12:31,120
+But I will try to answer the why we're not worried about the air conditioning is that the electricity sector consumption in China is pretty small, about 14 to 15%, about 15% is small.
+
+125
+00:12:31,120 --> 00:12:35,120
+Sometimes it goes to 16%, sometimes it goes to 15%.
+
+126
+00:12:36,120 --> 00:12:47,120
+So let's say that if all our consumption actually focusing on the industrial sector, and if something happens, or we have to close one big factory, everybody has electricity.
+
+127
+00:12:47,120 --> 00:12:50,120
+It's because the electricity is so small.
+
+128
+00:12:50,120 --> 00:12:55,120
+And that's quite different from the United States, the industrial sector is more than 40%.
+
+129
+00:12:55,120 --> 00:13:00,120
+So if there's no electricity, there's no electricity. You cannot cause anything to compensate for that.
+
+130
+00:13:00,120 --> 00:13:09,120
+In China, I never expect a problem or huge problem that may be some temporary problem, short period problem.
+
+131
+00:13:09,120 --> 00:13:15,120
+But I never expect a huge shortage for the gas and gas sector in other words for the air conditioner.
+
+132
+00:13:15,120 --> 00:13:19,120
+So A-Ball is quite safe for the summertime.
+
+133
+00:13:19,120 --> 00:13:27,120
+What about the layout of China's electricity grid or production electricity plants?
+
+134
+00:13:27,120 --> 00:13:34,120
+Just now David were talking about thousands of cities and regional grid and then all connected into the national grid.
+
+135
+00:13:34,120 --> 00:13:47,120
+People have been talking about this high speed rail for power, which is the ultra high voltage power grid, which seems to play an extremely important role.
+
+136
+00:13:47,120 --> 00:14:04,120
+Professor Zhang, what can you tell us about that and how important is that technology in terms of distribution of electricity and guaranteeing that electricity is ample where they use the most?
+
+137
+00:14:04,120 --> 00:14:13,120
+Yes, actually in terms of China electricity network, technology is the way it was.
+
+138
+00:14:13,120 --> 00:14:26,120
+Before that, maybe we can talk about the forecasting technology because why during the current events, why the grid is also very simple?
+
+139
+00:14:26,120 --> 00:14:31,120
+It's based on the very advanced upgrade forecasting technology.
+
+140
+00:14:31,120 --> 00:14:42,120
+Great operators work with wider services to produce power in the days of hand, how much power each city will need.
+
+141
+00:14:42,120 --> 00:14:46,120
+And then we talk about the network, the grid network.
+
+142
+00:14:46,120 --> 00:14:51,120
+The destruction, China also has a very powerful destruction capacity.
+
+143
+00:14:51,120 --> 00:15:01,120
+Every unit by a second or the control center violence, different power sources like a crawl, hydro, wind, solar and storage.
+
+144
+00:15:01,120 --> 00:15:18,120
+And also we have the national power market, China now trade electricity across the province on the large scale for power flow from where it's cheap and abundant like the waste of China to where it's needed most like in East China.
+
+145
+00:15:18,120 --> 00:15:27,120
+And finally, I want to talk about the demand side, the big factories and the shift the product away from the peak hours.
+
+146
+00:15:27,120 --> 00:15:37,120
+There is a new toy like we call it a virtual power plant can generally adjust the solutions of the chambers and air conditioners at once.
+
+147
+00:15:37,120 --> 00:15:45,120
+In total, we have those kind of technologies and to make our power supply stable.
+
+148
+00:15:46,120 --> 00:15:52,120
+Yeah, it seems to again as David just said that thousands of small machines in this big one machine.
+
+149
+00:15:52,120 --> 00:16:01,120
+David, let me come back to you again help us understand this high ultra high voltage transmission system.
+
+150
+00:16:01,120 --> 00:16:09,120
+How important is that in terms of guaranteeing our electricity use freedom if I can put it this way?
+
+151
+00:16:09,120 --> 00:16:22,120
+Yeah, sure. So for a province like Shanghai or even other coastal provinces like Jiangsu, Zhujang, we are limited by a few things were limited by land, of course, right?
+
+152
+00:16:22,120 --> 00:16:28,120
+Land is definitely more scarce. So that means it's more difficult to find places to build power plants.
+
+153
+00:16:28,120 --> 00:16:37,120
+And also generally if you want to have, for example, green electricity, our green resources might not be so good for a variety of reasons.
+
+154
+00:16:37,120 --> 00:16:45,120
+It makes sense for for certain regions, especially coastal regions to want to be able to bring in electricity from far away long distances.
+
+155
+00:16:45,120 --> 00:16:50,120
+Now the challenge with bringing electricity long distances is that you have line losses.
+
+156
+00:16:50,120 --> 00:16:54,120
+You lose electricity when you try to transmit at long distances.
+
+157
+00:16:54,120 --> 00:16:58,120
+One way to prevent that is to crank up the voltage, right?
+
+158
+00:16:58,120 --> 00:17:04,119
+For very high voltage transmission, you can send it very, very long distances without losing a lot of electricity.
+
+159
+00:17:04,119 --> 00:17:15,119
+And that has been China's approach to getting power from the north, the southwest, the northwest to the load centers in the east and in the south.
+
+160
+00:17:15,119 --> 00:17:24,119
+And China has had to be really pioneering in a lot of the technologies being used here because China's got a very unique application for it.
+
+161
+00:17:24,119 --> 00:17:35,119
+There are not so many countries that have China's very unique economic and geographic distribution where you've got your best resources on one side of the country and all your load on the other side of the country.
+
+162
+00:17:35,119 --> 00:17:40,119
+And also your country is very physically large, so you have to find a way to connect those dots.
+
+163
+00:17:40,119 --> 00:17:48,119
+And so China has been forced successfully to innovate in certain ways when it comes to ultra high voltage technology to say,
+
+164
+00:17:48,119 --> 00:17:58,119
+we can connect a generation point in western China that has a solar farm and a wind farm and a coal power plant and a storage facility.
+
+165
+00:17:58,119 --> 00:18:07,119
+And we're going to have that line sending electricity from, we'll say, Xinjiang all the way to the east coast constantly.
+
+166
+00:18:07,119 --> 00:18:14,119
+And it will be as if that east coast province has a generating resource right there, although it's not actually right there.
+
+167
+00:18:14,119 --> 00:18:24,119
+It's 2000 kilometers away. It's a remarkable solution to what is a true geographic challenge that is just caused by China's layout.
+
+168
+00:18:24,119 --> 00:18:39,119
+So David, to help people understand why China is able to first of all produce so much electricity, secondly, distribute that electricity according to where the needs are and guaranteeing the stable supply of it.
+
+169
+00:18:39,119 --> 00:18:43,119
+Do you think we have pretty much given people all they need to know?
+
+170
+00:18:43,119 --> 00:18:54,119
+Or do you think there are other important contexts that people need to take in so that they can fully appreciate the whole picture and the reasons behind it?
+
+171
+00:18:54,119 --> 00:19:01,119
+Well, another thing that was mentioned here was, I think one of the other professors mentioned the national unified power grid.
+
+172
+00:19:01,119 --> 00:19:08,119
+Right. I started out by mentioning every single province is essentially settling and resolving its own power needs locally.
+
+173
+00:19:08,119 --> 00:19:14,119
+And if they need extra, they buy some from other provinces or across grid regions. Right. That's the basic way we can look at it.
+
+174
+00:19:14,119 --> 00:19:26,119
+But when you have a very mature power system, we would like to be able to imagine that every point in the power system, if I'm in Shanghai or if I'm in Nanjing or if I'm in Hangzhou,
+
+175
+00:19:26,119 --> 00:19:36,119
+I could look at a power generator anywhere else in the system, anywhere else in the country and say, what would it cost to get electricity from there to here?
+
+176
+00:19:36,119 --> 00:19:51,119
+And that the physical grid and the market infrastructure both allow this to happen if you want it to happen, that the market is actually receiving price signals from everywhere in the country and turning them into price signals for buyers everywhere in the country.
+
+177
+00:19:51,119 --> 00:20:03,119
+China is in the process of building this national unified power market. When it is complete, it will be by far undoubtedly the largest unified national power market anywhere in the world.
+
+178
+00:20:03,119 --> 00:20:16,119
+The largest ones in the world, maybe say Western Europe, for example, will be something like one fifth or one sixth of the size of what China will eventually build when it has finished connecting its national unified power market.
+
+179
+00:20:16,119 --> 00:20:26,119
+Again, a tremendous engineering challenge physically and then a commercial challenge from a market perspective. But it's fascinating and it's very important to watch.
+
+180
+00:20:26,119 --> 00:20:42,119
+Professor Lin, how is it possible? What makes it possible that China is able to build this such a complex system and yet all in a kind of coordinated and functional operation? What makes that possible?
+
+181
+00:20:42,119 --> 00:20:53,119
+It's because of state-owned power grid. If we compare to the United States, every state has their policy, has their grid. And it's very difficult for them to get together.
+
+182
+00:20:53,119 --> 00:21:01,119
+But China has only two power grid and they both stay on. So they can coordinate whatever in the way that state government wants.
+
+183
+00:21:01,119 --> 00:21:19,119
+And that's why we can build a unified power tech electricity market and also grid. The Chinese grid is the largest, most effective in terms of all parameters, the best in the world.
+
+184
+00:21:19,119 --> 00:21:25,119
+You cannot really compare with Chinese power grid. I don't care any country. It's simply cannot compare.
+
+185
+00:21:25,119 --> 00:21:46,119
+I didn't give you one minute to answer the option of high voltage. Option of high voltage is actually try to connect a part of the power from west to east and also try to sometimes provide electricity to certain states which needs electricity.
+
+186
+00:21:46,119 --> 00:21:58,119
+But in fact, option of high voltage is not the one to guarantee all we have right now. It's only about roughly 6 to 7% of the China's electricity total. It's very small.
+
+187
+00:21:58,119 --> 00:22:09,119
+It comes through also high voltage. In fact, it's the coal-fired power system. It's about 1300 gigawatt of coal-fired power system which were distributed everywhere in China.
+
+188
+00:22:09,119 --> 00:22:16,119
+That is really my show that China has electricity which the state grid can give.
+
+189
+00:22:16,119 --> 00:22:32,119
+Two questions. When people think about state grid or state-owned enterprise or huge companies, they think about monopoly, for instance, that probably put the users or other companies in a disadvantaged situation.
+
+190
+00:22:32,119 --> 00:22:43,119
+How does China regulate that, first of all? Why is that not a problem in China? And secondly, with all of these coal-fired power plants, what about pollution problem?
+
+191
+00:22:43,119 --> 00:22:47,119
+Professor Lin, very quickly, and then we go to Professor Zhang on this.
+
+192
+00:22:48,119 --> 00:23:08,119
+To answer your first question, the grid is a natural monopoly. It doesn't matter how you define it. The point is how government, how to supervise it to determine the price.
+
+193
+00:23:08,119 --> 00:23:15,119
+Monopoly, the power of monopoly is to set the price. But the state grid and South China grid, they don't set the price.
+
+194
+00:23:15,119 --> 00:23:24,119
+So therefore, we don't have problem of that monopoly which is the impact of monopoly. So that's the first question. I'll leave the question to others.
+
+195
+00:23:24,119 --> 00:23:32,119
+Okay, thank you. Professor Zhang, in terms of pollution, how big is that a big problem?
+
+196
+00:23:33,119 --> 00:23:45,119
+Yeah, exactly. Pollution is a very big problem. And especially for the, for example, like the rural area currently caused by the pollution, these rates raised a lot.
+
+197
+00:23:45,119 --> 00:24:03,119
+Especially, for example, like five or ten years ago, like the rural areas, the people suffered a lot. But currently with the renewable energy increase, I think there's a portion problem that's a lot.
+
+198
+00:24:03,119 --> 00:24:16,119
+And also, I just put back to Professor Lin's answer. Maybe there is a very kind of a natural march, for example, like about the heat event.
+
+199
+00:24:16,119 --> 00:24:34,119
+The heat is around the lower and early afternoon. Exactly when everyone turns on the air conditioner, actually when the, it's also actually when the sun is as strong as, so the solar power and cooling demand raise together, it is a kind of natural match.
+
+200
+00:24:34,119 --> 00:24:45,119
+In this case, during the noon and early afternoon, maybe the electricity price dropped down and people like to use more energy, green energy because the price is cheaper.
+
+201
+00:24:45,119 --> 00:25:04,119
+Yes, in this case, but as you can imagine, maybe the sun and the wind is not stable. In this case, we need some kind of a pattern or support, for example, like hydropower or energy storage, actually like kind of for the hydropower.
+
+202
+00:25:04,119 --> 00:25:26,119
+And hydropower, they can save energy and release it in the evening. In this case, we also have a gas plant player kind of a flexible and wrapping up and down to the fuel. Yes, this is a kind of a kind of a complex system and to control the demand on the supply and the control of the price.
+
+203
+00:25:26,119 --> 00:25:41,119
+Yes. Okay, we keep talking about price. So before we go, we have to talk about the price. David, how cheap is the electricity here in China? I mean, it is very cheap for me, even if I use a lot of air conditioning. It is still well, well affordable.
+
+204
+00:25:41,119 --> 00:25:51,119
+How would you compare the electricity price in China versus in other major cities in big countries, let's say. Very briefly, please.
+
+205
+00:25:51,119 --> 00:26:11,119
+Sure. Well, it's important to remember that we as residential power customers enjoy regulated stable low tariffs, and we are also cross subsidized by other segments of the economy. So we never have to worry about our livelihoods being affected by an inability to pay for electricity during heating or cooling events.
+
+206
+00:26:11,119 --> 00:26:30,119
+Well, you're saying we, you mean Americans or? We is in residential users in China. Okay, okay. Of which I am, of course. So residential users in China, we would never have to worry about saying, well, I can't afford to pay to cool my home in the summer, right?
+
+207
+00:26:30,119 --> 00:26:42,119
+That's a red line at the national level. Let's talk about commercial and industrial power, which is certainly more marketized, and it's not guaranteed to be at a certain rate, right? It's more exposed to market forces.
+
+208
+00:26:42,119 --> 00:27:02,119
+Even then, China still has among the lowest power rates among the world, certainly in the developed or OECD countries, plus upper middle income countries, China has among the lowest electricity prices in the world. And that is a reflection of a bunch of good things that work towards that low fuel costs.
+
+209
+00:27:02,119 --> 00:27:27,119
+Yeah, of course. Coal is a relatively inexpensive fuel, and then we're replacing it with low cost renewables. That's good. Cost of capital is lower. Target profit margins are lower. Electricity is viewed as something that is a fundamental input for industrial productivity and economic competitiveness and livelihoods, and not so much something that utility companies need to be really profitable about.
+
+210
+00:27:28,119 --> 00:27:43,119
+Well, we have to leave it there. Time ran out, but I hope we have given people a big picture of the electricity grid and the usage, especially in extreme heat, such as the one we're experiencing now.
+
+211
+00:27:43,119 --> 00:28:06,119
+Thank you so much to my guests. Professor Lim Bo-Chang, Dean of China Institute for Studies in Energy Policy at Shaman University, Professor Jang Haoram, Vice Dean of the School of Urban Planning and Design at Peking University, and David Fishman, principal at the Lantau Group and consultancy and advisory company in energy economics and analytics.
+
+212
+00:28:06,119 --> 00:28:21,119
+Thank you so much for your insights. And without we come to the end of this special edition of The Point with me, Lucien. As always, you can follow me on Facebook, X and YouTube using the handle Lucien in Beijing. On behalf of the whole team, thank you for watching. You've got the point.
+
+213
+00:28:21,119 --> 00:28:50,119
+Making sense of the overwhelming wave of information means cutting through the noise to shine a light on the heart of the story and making room for new perspectives. True understanding means the ability to see events from more than one side.
+
+214
+00:28:51,119 --> 00:28:54,119
+I'm Lucien and this is The Point.
+
+215
+00:29:21,119 --> 00:29:23,119
+Thank you.
+
+216
+00:29:51,119 --> 00:29:53,119
+.

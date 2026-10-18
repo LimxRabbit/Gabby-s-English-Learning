@@ -7,6 +7,7 @@ import {
   formatDateCN,
   getEpisodeBySlug,
   getEpisodesByYear,
+  getSubtitle,
   getWeekday,
 } from '@/lib/the-point';
 import type { Metadata } from 'next';
@@ -33,9 +34,10 @@ export async function generateMetadata({
   }
   const description =
     episode.summary.slice(0, 150) || `${formatDateCN(episode.date)} 的《The Point with Liu Xin》节目回放。`;
+  const subtitle = getSubtitle(episode.date);
   return {
     title: `${formatDateCN(episode.date)} ${episode.startTime}`,
-    description,
+    description: subtitle?.bilingual ? `${description}（本页提供中英双语字幕）` : description,
     openGraph: {
       title: `${formatDateCN(episode.date)} · The Point with Liu Xin`,
       description,
@@ -61,6 +63,8 @@ export default async function ThePointEpisodePage({
   const prev = index > 0 ? siblings[index - 1] : undefined;
   const next = index >= 0 && index < siblings.length - 1 ? siblings[index + 1] : undefined;
 
+  const subtitle = getSubtitle(episode.date);
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'VideoObject',
@@ -69,6 +73,15 @@ export default async function ThePointEpisodePage({
     uploadDate: `${episode.date}T${episode.startTime}:00+08:00`,
     duration: `PT${Math.max(1, episode.durationMinutes)}M`,
     ...(episode.hasVideo ? { contentUrl: episode.videoUrl } : {}),
+    ...(subtitle
+      ? {
+          hasPart: {
+            '@type': 'Clip',
+            ...(subtitle.bilingual ? { inLanguage: ['zh-CN', 'en'] } : { inLanguage: 'en' }),
+            name: `${formatDateCN(episode.date)} 字幕`,
+          },
+        }
+      : {}),
     inLanguage: 'zh-CN',
   };
 
@@ -101,6 +114,11 @@ export default async function ThePointEpisodePage({
             <span>{getWeekday(episode.date)}</span>
             <span>{episode.durationMinutes} 分钟</span>
             {episode.epgId && <span className="font-mono text-xs">EPG {episode.epgId}</span>}
+            {subtitle && (
+              <Badge variant={subtitle.bilingual ? 'default' : 'outline'}>
+                {subtitle.bilingual ? '中英双语字幕' : '英文字幕'}
+              </Badge>
+            )}
             {episode.tags.map((tag) => (
               <Badge key={tag} variant="secondary">
                 {tag}
@@ -110,7 +128,12 @@ export default async function ThePointEpisodePage({
         </header>
 
         {episode.hasVideo ? (
-          <ThePointPlayer src={episode.videoUrl} title={`The Point ${episode.date}`} />
+          <ThePointPlayer
+            src={episode.videoUrl}
+            title={`The Point ${episode.date}`}
+            cues={subtitle?.cues}
+            bilingual={subtitle?.bilingual}
+          />
         ) : (
           <Card>
             <CardContent className="text-muted-foreground py-8 text-center text-sm">
