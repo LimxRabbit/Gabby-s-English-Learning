@@ -38,7 +38,10 @@ export function ThePointPlayer({ src, title, cues = [], bilingual = false }: The
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
   const [showZh, setShowZh] = useState(true);
-  const [follow, setFollow] = useState(true);
+
+  const hasSubtitles = cues.length > 0;
+  const hasBilingual = hasSubtitles && bilingual;
+  const needsZhOnly = hasSubtitles && !bilingual;
 
   const activeIndex = useMemo(() => {
     if (cues.length === 0) return -1;
@@ -99,11 +102,12 @@ export function ThePointPlayer({ src, title, cues = [], bilingual = false }: The
     if (isNative && status === 'idle') setStatus('loading');
   }, [isNative, status]);
 
+  // 播放时自动把当前句滚动到视野中央
   useEffect(() => {
-    if (!follow || activeIndex < 0) return;
+    if (!playing || activeIndex < 0) return;
     const node = listRef.current?.children[activeIndex];
     node?.scrollIntoView({ block: 'center', behavior: 'smooth' });
-  }, [activeIndex, follow]);
+  }, [activeIndex, playing]);
 
   const toggle = useCallback(() => {
     const video = videoRef.current;
@@ -121,38 +125,42 @@ export function ThePointPlayer({ src, title, cues = [], bilingual = false }: The
     video.currentTime = Math.max(0, Math.min(video.duration || 0, video.currentTime + delta));
   }, []);
 
-  const hasSubtitles = cues.length > 0;
   const activeCue = activeIndex >= 0 ? cues[activeIndex] : undefined;
   const progress = duration > 0 ? (currentTime / duration) * 100 : 0;
 
   return (
     <div className="space-y-4">
-      {hasSubtitles && (
-        <div className="border-primary/30 bg-primary/10 flex flex-wrap items-center gap-2 rounded-lg border px-3 py-2 text-sm">
-          <ListMusic className="text-primary size-4 shrink-0" />
-          <span className="font-medium">
-            {bilingual ? '中英双语字幕' : '英文字幕'} · {cues.length} 条
-          </span>
-          <div className="ml-auto flex gap-1">
-            {bilingual && (
-              <Badge
-                variant={showZh ? 'default' : 'outline'}
-                className="cursor-pointer"
-                onClick={() => setShowZh((v) => !v)}
-              >
-                中文 {showZh ? '开' : '关'}
-              </Badge>
-            )}
+      <div className="border-primary/30 bg-primary/10 flex flex-wrap items-center gap-2 rounded-lg border px-3 py-2 text-sm">
+        <ListMusic className="text-primary size-4 shrink-0" />
+        {hasBilingual ? (
+          <>
+            <span className="font-medium">中英双语字幕</span>
+            <span className="text-muted-foreground text-xs">
+              {cues.length} 句 · 随播放自动滚动
+            </span>
             <Badge
-              variant={follow ? 'default' : 'outline'}
-              className="cursor-pointer"
-              onClick={() => setFollow((v) => !v)}
+              variant={showZh ? 'default' : 'outline'}
+              className="ml-auto cursor-pointer"
+              onClick={() => setShowZh((v) => !v)}
             >
-              跟随 {follow ? '开' : '关'}
+              中文 {showZh ? '开' : '关'}
             </Badge>
-          </div>
-        </div>
-      )}
+          </>
+        ) : needsZhOnly ? (
+          <>
+            <span className="font-medium">英文字幕</span>
+            <Badge variant="outline" className="text-xs">
+              中文翻译制作中
+            </Badge>
+            <span className="text-muted-foreground ml-auto text-xs">{cues.length} 句 · 随播放自动滚动</span>
+          </>
+        ) : (
+          <>
+            <span className="text-muted-foreground font-medium">本期暂无字幕</span>
+            <span className="text-muted-foreground ml-auto text-xs">字幕正在整理中</span>
+          </>
+        )}
+      </div>
 
       <div className="space-y-3">
         <video
@@ -227,7 +235,7 @@ export function ThePointPlayer({ src, title, cues = [], bilingual = false }: The
         </p>
       </div>
 
-      {hasSubtitles && (
+      {hasBilingual || needsZhOnly ? (
         <section className="space-y-3">
           <h2 className="text-lg font-semibold tracking-tight">
             逐句字幕
@@ -269,6 +277,14 @@ export function ThePointPlayer({ src, title, cues = [], bilingual = false }: The
               );
             })}
           </ol>
+        </section>
+      ) : (
+        <section className="bg-muted/40 flex flex-col items-center gap-2 rounded-xl border border-dashed px-6 py-12 text-center">
+          <ListMusic className="text-muted-foreground size-6" />
+          <p className="text-sm font-medium">本期字幕暂未收录</p>
+          <p className="text-muted-foreground max-w-sm text-xs leading-relaxed">
+            节目音频可正常播放。字幕需要先转写并翻译，整理完成后会自动出现在这里。
+          </p>
         </section>
       )}
     </div>

@@ -25,6 +25,12 @@ interface EpisodeBrowserProps {
 
 type SubtitleFilter = 'all' | 'bilingual' | 'any';
 
+const SUBTITLE_FILTERS = [
+  { key: 'all', label: '全部节目' },
+  { key: 'bilingual', label: '中英双语字幕' },
+  { key: 'any', label: '有字幕' },
+] as const;
+
 const PAGE_SIZE = 40;
 
 export function EpisodeBrowser({ items }: EpisodeBrowserProps) {
@@ -87,13 +93,7 @@ export function EpisodeBrowser({ items }: EpisodeBrowserProps) {
           ))}
         </div>
         <div className="flex flex-wrap items-center gap-2">
-          {(
-            [
-              { key: 'all', label: '全部节目' },
-              { key: 'bilingual', label: '中英双语字幕' },
-              { key: 'any', label: '有字幕' },
-            ] as const
-          ).map((option) => (
+          {SUBTITLE_FILTERS.map((option) => (
             <Badge
               key={option.key}
               variant={subFilter === option.key ? 'default' : 'outline'}
@@ -105,6 +105,13 @@ export function EpisodeBrowser({ items }: EpisodeBrowserProps) {
             >
               <ListMusic className="mr-1 size-3" />
               {option.label}
+              {option.key !== 'all' && (
+                <span className="ml-1 opacity-70">
+                  {items.filter((i) =>
+                    option.key === 'bilingual' ? i.isBilingual : i.hasSubtitle,
+                  ).length}
+                </span>
+              )}
             </Badge>
           ))}
         </div>

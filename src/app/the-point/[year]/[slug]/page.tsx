@@ -114,9 +114,13 @@ export default async function ThePointEpisodePage({
             <span>{getWeekday(episode.date)}</span>
             <span>{episode.durationMinutes} 分钟</span>
             {episode.epgId && <span className="font-mono text-xs">EPG {episode.epgId}</span>}
-            {subtitle && (
+            {subtitle ? (
               <Badge variant={subtitle.bilingual ? 'default' : 'outline'}>
                 {subtitle.bilingual ? '中英双语字幕' : '英文字幕'}
+              </Badge>
+            ) : (
+              <Badge variant="outline" className="text-muted-foreground">
+                暂无字幕
               </Badge>
             )}
             {episode.tags.map((tag) => (
